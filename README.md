@@ -43,6 +43,19 @@ tools/                     สคริปต์ถอด/ประกอบไ�
 
 ---
 
+## สนับสนุน
+
+ม็อดนี้ทำฟรีและจะฟรีตลอด ถ้าอยากเลี้ยงกาแฟก็ยินดีมากครับ 🙏
+
+**ในไทย** — [ezDonate (พร้อมเพย์)](https://ezdn.app/krirk0137)
+
+**ต่างประเทศ**
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-สนับสนุน-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/krirk0137)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/krirk0137)
+
+---
+
 ## เครดิต
 
 - แปลไทยโดย **Krirk0137**

@@ -85,7 +85,7 @@ Story Fragment	เศษเรื่องราว
 Hunter's Notes	บันทึกนักล่า
 Item Encyclopedia	สารานุกรมไอเทม
 Emote	อิโมท
-Forge	หลอม	Forge Station = แท่นหลอม, Forbidden Forging = หลอมต้องห้าม
+Forbidden Forging	หลอมต้องห้าม	禁忌锻造, the relic mechanic only. Plain "Forge" (the blacksmith verb) = ตีอาวุธ, Forge Station = แท่นตีอาวุธ
 Distortion	การบิดเบือน	畸变; Distortion Node = จุดบิดเบือน
 Bullet Attack	พลังโจมตีกระสุน
 Final DMG	ความเสียหายสุดท้าย
@@ -96,12 +96,9 @@ Act	องก์	chapter headings: "Act I" = องก์ที่ 1
 Mythic	มิธิค	神话, the tier above Legendary
 
 # --- difficulty tiers (the in-game difficulty picker, in order) ---
-Journey	เดินเล่น	逸旅, the easiest tier
-Common	ธรรมดา
-Hard	ยาก
 Hell	นรก
-Nightmare	ฝันร้าย
 Reality	ความจริง
+# Journey/Common/Hard/Nightmare: see the story batch block below
 
 # --- elements: see the weapon-batch block below. Note Freeze != Frost:
 # Freeze (冻结, the status) = แช่แข็ง; Frost (the element) = เยือกแข็ง; Ice = น้ำแข็ง
@@ -122,7 +119,6 @@ Multiplayer	เล่นหลายคน
 Reconnect	เชื่อมต่อใหม่
 
 # --- proper nouns ---
-Wavelock	เวฟล็อก
 Alicia	อลิเซีย
 Ella	เอลลา
 Holy Sun Calendar	ศักราชสุริยัน	圣阳历
