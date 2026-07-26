@@ -1,4 +1,4 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
   Install BepInEx 6 IL2CPP + the Thai plugin into the game, from scratch.
@@ -45,7 +45,7 @@ if ($Uninstall) {
         $p = Join-Path $GameDir $rel
         if (Test-Path $p) { Remove-Item -Recurse -Force $p; Write-Host "  removed $rel" }
     }
-    Write-Host "`nUninstalled. The game is back to stock — verify files in Steam if you want to be sure."
+    Write-Host "`nUninstalled. The game is back to stock - verify files in Steam if you want to be sure."
     return
 }
 
