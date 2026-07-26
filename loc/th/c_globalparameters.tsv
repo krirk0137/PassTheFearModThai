@@ -5,37 +5,37 @@ GlobalParameters.Parameter.10003	แยกเป็น
 GlobalParameters.Parameter.10004	ซื้อ
 GlobalParameters.Parameter.10005	โต้ตอบ
 GlobalParameters.Parameter.10006	เปิด
-GlobalParameters.Parameter.9001	<color=#d6b85b>[ออกเดินทาง]</color>: ทำงานเมื่อเข้าสู่ด่านใหม่
-GlobalParameters.Parameter.9002	<color=#d6b85b>[ปลายทาง]</color>: ทำงานเมื่อจบการต่อสู้
-GlobalParameters.Parameter.9011	อาวุธกายภาพเมื่อยิงโดนจะทำให้ศัตรูสะสมค่า[เลือดออก]\\n<color=#e92f2f>[เลือดออก]</color>: สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 300%
-GlobalParameters.Parameter.9012	อาวุธเยือกแข็งเมื่อยิงโดนจะทำให้ศัตรูสะสมค่า[แช่แข็ง]\\n<color=#11f7ef>[แช่แข็ง]</color>: สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 150% และ<color=#11f7ef>แช่แข็ง</color>ศัตรู 2 วินาที
-GlobalParameters.Parameter.9013	อาวุธสายฟ้าเมื่อยิงโดนจะทำให้ศัตรูสะสมค่า[ปั่นป่วน]\\n<color=#f7e301>[ปั่นป่วน]</color>: เมื่อสร้างความเสียหาย จะเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color>เท่ากับ 10%-40% ของความเสียหายครั้งนั้น นาน 5 วินาที
-GlobalParameters.Parameter.9014	อาวุธกรดเมื่อยิงโดนจะทำให้ศัตรูสะสมค่า[กัดกร่อน]\\n<color=#3dda4f>[กัดกร่อน]</color>: สร้าง<color=#3dda4f>ความเสียหายกรด</color> 100% และลดความต้านทานทั้งหมดของศัตรู 30% นาน 5 วินาที
-GlobalParameters.Parameter.9015	อาวุธเพลิงเมื่อยิงโดนจะทำให้ศัตรูสะสมค่า[ลุกไหม้]\\n<color=#f44f06>[ลุกไหม้]</color>: สร้าง<color=#f44f06>ความเสียหายเพลิง</color>เป็นวงกว้าง 150%
+GlobalParameters.Parameter.9001	<color=#d6b85b>[ออกเดินทาง]</color>: กระตุ้นเมื่อเข้าสู่ด่านใหม่
+GlobalParameters.Parameter.9002	<color=#d6b85b>[ปลายทาง]</color>: กระตุ้นเมื่อจบการต่อสู้
+GlobalParameters.Parameter.9011	อาวุธกายภาพเมื่อยิงโดนจะทำให้ศัตรูสะสมค่าเลือดออก\\n<color=#e92f2f>[เลือดออก]</color>: สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 300%
+GlobalParameters.Parameter.9012	อาวุธเยือกแข็งเมื่อยิงโดนจะทำให้ศัตรูสะสมค่าแช่แข็ง\\n<color=#11f7ef>[แช่แข็ง]</color>: สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 150% และ<color=#11f7ef>แช่แข็ง</color>ศัตรู 2 วินาที
+GlobalParameters.Parameter.9013	อาวุธสายฟ้าเมื่อยิงโดนจะทำให้ศัตรูสะสมค่าปั่นป่วน\\n<color=#f7e301>[ปั่นป่วน]</color>: เมื่อสร้างความเสียหาย จะเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color>เท่ากับ 10%-40% ของความเสียหายครั้งนั้น นาน 5 วินาที
+GlobalParameters.Parameter.9014	อาวุธกรดเมื่อยิงโดนจะทำให้ศัตรูสะสมค่ากัดกร่อน\\n<color=#3dda4f>[กัดกร่อน]</color>: สร้าง<color=#3dda4f>ความเสียหายกรด</color> 100% และลดความต้านทานทั้งหมดของศัตรู 30% นาน 5 วินาที
+GlobalParameters.Parameter.9015	อาวุธเพลิงเมื่อยิงโดนจะทำให้ศัตรูสะสมค่าลุกไหม้\\n<color=#f44f06>[ลุกไหม้]</color>: สร้าง<color=#f44f06>ความเสียหายเพลิง</color>แบบวงกว้าง 150%
 GlobalParameters.Parameter.9021	<color=#f7e301>[โอเวอร์โหลด]</color>: ระหว่างที่<color=#f7e301>[โอเวอร์โหลด]</color>ทำงาน เอฟเฟกต์<color=#f7e301>[โอเวอร์โหลด]</color>ทั้งหมดจะมีผล
-GlobalParameters.Parameter.9022	<color=#d6b85b>[แตกสลาย]</color>: เอฟเฟกต์ที่ทำงานเมื่อไอเทมนี้ถูก<color=#d6b85b>แยกชิ้นส่วน</color>
-GlobalParameters.Parameter.9023	<color=#f44f06>[เถ้าเพลิง]</color>: <color=#f44f06>[เถ้าเพลิง]</color>แต่ละชั้นเพิ่มความเสียหายสุดท้าย +1%
-GlobalParameters.Parameter.9024	<color=#3dda4f>[เติบโต]</color>: <color=#3dda4f>[เติบโต]</color>แต่ละชั้นเพิ่มพลังชีวิตสูงสุด +1
+GlobalParameters.Parameter.9022	<color=#d6b85b>[แตกสลาย]</color>: เอฟเฟกต์ที่ถูกกระตุ้นเมื่อไอเทมนี้ถูก<color=#d6b85b>แยกชิ้นส่วน</color>
+GlobalParameters.Parameter.9023	<color=#f44f06>[เถ้าเพลิง]</color>: ทุก 1 ชั้นของ<color=#f44f06>[เถ้าเพลิง]</color> ความเสียหายสุดท้าย +1%
+GlobalParameters.Parameter.9024	<color=#3dda4f>[เติบโต]</color>: ทุก 1 ชั้นของ<color=#3dda4f>[เติบโต]</color> พลังชีวิตสูงสุด +1
 GlobalParameters.Parameter.9025	<color=#11f7ef>[เกราะ]</color>: เมื่อได้รับความเสียหาย จะหักจากเกราะก่อน
-GlobalParameters.Parameter.9026	<color=#d6b85b>[เลเวลเรโซแนนซ์]</color>: เลเวลเรโซแนนซ์แต่ละแต้มเสริมเอฟเฟกต์ความชำนาญอาวุธ
+GlobalParameters.Parameter.9026	<color=#d6b85b>[เลเวลเรโซแนนซ์]</color>: ทุก 1 แต้มของเลเวลเรโซแนนซ์ เสริมเอฟเฟกต์ความชำนาญอาวุธ
 GlobalParameters.Parameter.9031	<color=#d6b85b>[นัดแรก]</color>: กระสุนนัดแรกในแม็กกาซีน
 GlobalParameters.Parameter.9032	<color=#d6b85b>[นัดสุดท้าย]</color>: กระสุนนัดสุดท้ายในแม็กกาซีน
 GlobalParameters.Parameter.9033	<color=#d6b86b>[แปรปรวน]</color>: แปรปรวนประกอบด้วย <color=#e92f2f>[เลือดออก]</color> <color=#11f7ef>[แช่แข็ง]</color> <color=#f7e301>[ปั่นป่วน]</color> <color=#3dda4f>[กัดกร่อน]</color> และ<color=#f44f06>[ลุกไหม้]</color>
 GlobalParameters.Parameter.9034	<color=#d6b86b>[ทุบหนัก]</color>: กระสุนมีค่าโจมตีแปรผัน เมื่อยิงออกมาได้ค่าสูงสุดจะนับเป็นทุบหนัก
-GlobalParameters.Parameter.9035	<color=#99b7bb>[โอกาสไดนามิก]</color>: โอกาสทำงานจะปรับตามความสมดุลอาวุธปัจจุบันของคุณ
+GlobalParameters.Parameter.9035	<color=#99b7bb>[โอกาสปรับตัว]</color>: โอกาสกระตุ้นจะปรับตามความสมดุลอาวุธปัจจุบันของคุณ
 GlobalParameters.Parameter.9036	<color=#ffaecf>ยืมโชคให้</color>: ได้รับ<color=#d6b85b>[ดวงมือใหม่]</color>: หลบความเสียหายครั้งถัดไปที่จะได้รับ
 GlobalParameters.Parameter.9037	<color=#ffaecf>มาเล่นกัน</color>: เรียกน้องสาวของแอมเบอร์ออกมาพ่น<color=#d6b85b>[ลมหายใจมังกร]</color>ใส่ศัตรู สร้างความเสียหายธาตุอาวุธหลัก 80% และติด<color=#d6b85b>[เปลวมังกร]</color>
 GlobalParameters.Parameter.9038	<color=#ffaecf>รัวไม่ยั้ง</color>: อัตรายิงและความเร็วรีโหลด +150%
 GlobalParameters.Parameter.9039	<color=#ffaecf>ปืนปีศาจดูดเลือด</color>: ความเสียหายกระสุน +100% ยิงโดนศัตรูฟื้นพลังชีวิต 2% สูงสุด 1 ครั้งต่อวินาที
 GlobalParameters.Parameter.9040	<color=#ffaecf>กระสุนไม่จำกัด</color>: เมื่อยิงกระสุนนัดสุดท้าย เติมกระสุนเต็มทันที
-GlobalParameters.Parameter.9041	<color=#ffaecf>สุริยะพิโรธ</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสไดนามิก</color> 20% เรียก<color=#f44f06>ดวงอาทิตย์ร่วงหล่น</color> สร้าง<color=#f44f06>ความเสียหายเพลิง</color>เป็นวงกว้าง 200% ต่อวินาที หลัง 5 วินาทีจะตกลงมาเกิด<color=#f44f06>ระเบิดซูเปอร์โนวา</color> ปล่อย<color=#f44f06>คลื่นกระแทกเพลิง</color>ที่ทำให้ศัตรูติด<color=#f44f06>[ลุกไหม้]</color> (ทำงานได้สูงสุด 1 ครั้งทุก 20 วินาที)
-GlobalParameters.Parameter.9042	<color=#ffaecf>ธารเยือกแข็ง</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสไดนามิก</color> 20% เรียก<color=#11f7ef>ธารเยือกแข็ง</color>ที่แผ่ขยายทีละน้อย สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 150% ต่อวินาที ศัตรูที่สัมผัสครั้งแรกจะ<color=#11f7ef>[แช่แข็ง]</color> นาน 10 วินาที (ทำงานได้สูงสุด 1 ครั้งทุก 15 วินาที)
-GlobalParameters.Parameter.9043	<color=#ffaecf>โนวาพิษ</color>: เมื่อยิง มี<color=#99b7bb>โอกาสไดนามิก</color> 20% ปล่อย<color=#3dda4f>โนวาพิษ</color> ทำให้ศัตรูที่สัมผัสติด<color=#3dda4f>[กัดกร่อน]</color> และรับ<color=#3dda4f>ความเสียหายกรด</color> 300% ต่อวินาที นาน 10 วินาที (ทำงานได้สูงสุด 1 ครั้งทุก 20 วินาที)
-GlobalParameters.Parameter.9044	<color=#ffaecf>ดาวหายนะ</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสไดนามิก</color> 20% เรียก<color=#f7e301>ดาวหายนะ</color> 3 ดวงถล่มศัตรู สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color>เป็นวงกว้าง 180% และติด<color=#f7e301>[ปั่นป่วน]</color> (ทำงานได้สูงสุด 1 ครั้งทุก 5 วินาที)
-GlobalParameters.Parameter.9045	<color=#ffaecf>หอกสังหารมังกร</color>: เมื่อยิง มี<color=#99b7bb>โอกาสไดนามิก</color> 20% ยิง<color=#e92f2f>หอกสังหารมังกร</color> ทะลุศัตรูสร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 2000% และติด<color=#e92f2f>[เลือดออก]</color> (ทำงานได้สูงสุด 1 ครั้งทุก 20 วินาที)
-GlobalParameters.Parameter.9046	<color=#ffaecf>ลำแสงมรณะโกลาหล</color>: เมื่อยิง มี<color=#99b7bb>โอกาสไดนามิก</color> 20% ยิง<color=#fff8cb>ลำแสงมรณะโกลาหล</color> ทะลุศัตรูสร้าง<color=#fff8cb>ความเสียหายจริง</color> 1000% ได้รับผลจากโบนัสความเสียหายธาตุทุกชนิด (ทำงานได้สูงสุด 1 ครั้งทุก 10 วินาที)
+GlobalParameters.Parameter.9041	<color=#ffaecf>สุริยะพิโรธ</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสปรับตัว</color> 20% เรียก<color=#f44f06>ดวงอาทิตย์ร่วงหล่น</color> สร้าง<color=#f44f06>ความเสียหายเพลิง</color>แบบวงกว้าง 200% ต่อวินาที หลัง 5 วินาทีจะตกลงมาเกิด<color=#f44f06>ระเบิดซูเปอร์โนวา</color> ปล่อย<color=#f44f06>คลื่นกระแทกเพลิง</color>ที่ทำให้ศัตรูติด<color=#f44f06>[ลุกไหม้]</color> (กระตุ้นได้สูงสุด 1 ครั้งทุก 20 วินาที)
+GlobalParameters.Parameter.9042	<color=#ffaecf>ธารเยือกแข็ง</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสปรับตัว</color> 20% เรียก<color=#11f7ef>ธารเยือกแข็ง</color>ที่แผ่ขยายทีละน้อย สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 150% ต่อวินาที ศัตรูที่สัมผัสครั้งแรกจะ<color=#11f7ef>[แช่แข็ง]</color> นาน 10 วินาที (กระตุ้นได้สูงสุด 1 ครั้งทุก 15 วินาที)
+GlobalParameters.Parameter.9043	<color=#ffaecf>โนวาพิษ</color>: เมื่อยิง มี<color=#99b7bb>โอกาสปรับตัว</color> 20% ปล่อย<color=#3dda4f>โนวาพิษ</color> ทำให้ศัตรูที่สัมผัสติด<color=#3dda4f>[กัดกร่อน]</color> และรับ<color=#3dda4f>ความเสียหายกรด</color> 300% ต่อวินาที นาน 10 วินาที (กระตุ้นได้สูงสุด 1 ครั้งทุก 20 วินาที)
+GlobalParameters.Parameter.9044	<color=#ffaecf>ดาวหายนะ</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสปรับตัว</color> 20% เรียก<color=#f7e301>ดาวหายนะ</color> 3 ดวงถล่มศัตรู สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color>แบบวงกว้าง 180% และติด<color=#f7e301>[ปั่นป่วน]</color> (กระตุ้นได้สูงสุด 1 ครั้งทุก 5 วินาที)
+GlobalParameters.Parameter.9045	<color=#ffaecf>หอกสังหารมังกร</color>: เมื่อยิง มี<color=#99b7bb>โอกาสปรับตัว</color> 20% ยิง<color=#e92f2f>หอกสังหารมังกร</color> เจาะทะลุศัตรูสร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 2000% และติด<color=#e92f2f>[เลือดออก]</color> (กระตุ้นได้สูงสุด 1 ครั้งทุก 20 วินาที)
+GlobalParameters.Parameter.9046	<color=#ffaecf>ลำแสงมรณะโกลาหล</color>: เมื่อยิง มี<color=#99b7bb>โอกาสปรับตัว</color> 20% ยิง<color=#fff8cb>ลำแสงมรณะโกลาหล</color> เจาะทะลุศัตรูสร้าง<color=#fff8cb>ความเสียหายจริง</color> 1000% ได้รับผลจากโบนัสความเสียหายธาตุทุกชนิด (กระตุ้นได้สูงสุด 1 ครั้งทุก 10 วินาที)
 GlobalParameters.Parameter.9047	<color=#ffaecf>เปิดแดนลับ</color>: หลังใช้ [แตกสลาย] กับอาวุธนี้ เมื่อเข้าด่านถัดไปจะไปยังแดนลับเพื่อรับเซอร์ไพรส์
 GlobalParameters.Parameter.9048	<color=#ffaecf>เงินคือพลัง</color>: ได้รับเหรียญ +100% ทุก 10 เหรียญที่มี ความเสียหายสุดท้าย +1%
 GlobalParameters.Parameter.9049	<color=#ffaecf>ทะลุขีดจำกัด</color>: ความเสียหายสุดท้าย อัตรายิง และความเร็วรีโหลด +50% ความเร็วเคลื่อนที่ +20% ความเสียหายที่ได้รับ -20%
 GlobalParameters.Parameter.9050	<color=#ffaecf>ปืนใหญ่แก้ว</color>: ความเสียหายสุดท้าย +225% ความเสียหายที่ได้รับ +100%
-GlobalParameters.Parameter.9051	<color=#ffaecf>ความแค้นของโปรแกรมเมอร์</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสไดนามิก</color> 1% สร้าง<color=#fff8cb>ความเสียหายจริง</color> 999999999 แก่ศัตรูทั้งหมด และมี<color=#99b7bb>โอกาสไดนามิก</color> 10% สร้าง<color=#fff8cb>ความเสียหายจริง</color> 1000% แก่ศัตรูในวงแคบ
+GlobalParameters.Parameter.9051	<color=#ffaecf>ความแค้นของโปรแกรมเมอร์</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสปรับตัว</color> 1% สร้าง<color=#fff8cb>ความเสียหายจริง</color> 999999999 แก่ศัตรูทั้งหมด และมี<color=#99b7bb>โอกาสปรับตัว</color> 10% สร้าง<color=#fff8cb>ความเสียหายจริง</color> 1000% แก่ศัตรูในวงแคบ

@@ -464,10 +464,8 @@ The World	โลก
 (Reversed)	(กลับหัว)	suffix on card names: The Fool (Reversed) -> คนโง่ (กลับหัว)
 
 # named triggers wrapped in <link> tags (joins the 9001/9002/9022 block above)
-[First Shot]	[นัดแรก]	link 9031, 初弹
-[Final Shot]	[นัดสุดท้าย]	link 9032, 末弹
 [Resonance Level]	[เลเวลเรโซแนนซ์]	link 9026, 共鸣等级
-[Adaptive Chance]	[โอกาสไดนามิก]	link 9035, 动态概率 — a dynamic proc rate, not a flat one
+[Adaptive Chance]	[โอกาสปรับตัว]	link 9035 — form settled by c_extraeffect; keep the <color=#99b7bb> wrapper
 
 # named states on pearls / team skills
 [Heretic]	[คนนอกรีต]	异端
@@ -492,8 +490,6 @@ Affix	อัฟฟิกซ์	词条
 Components	ชิ้นส่วน	零件, the dismantle currency
 Overhealing	การฟื้นพลังส่วนเกิน	过量治疗
 Fatal Hit	ความเสียหายถึงตาย	致命伤
-invincible	อมตะ	无敌
-AoE	เป็นวงกว้าง	trails the noun: "ความเสียหายเพลิงเป็นวงกว้าง 150%"
 Ultimate Gauge Gain	อัตราสะสมท่าไม้ตาย	必杀值获取率
 Hub	จุดพัก	中转站, the between-stage waystation
 Great Vault	แดนลับ	大秘藏 — same word as Secret Realm above, on purpose
@@ -507,7 +503,6 @@ Amber	แอมเบอร์
 # recurring description phrasing — keep identical across the effect tables
 At the start of a run:	เมื่อเริ่มเกม:	对局开始时
 After using Battle Skill:	หลังใช้สกิลรบ:
-While shooting:	เมื่อยิง:
 After entering combat:	หลังเข้าสู่การต่อสู้:
 On entering Combat:	เมื่อเริ่มการต่อสู้:
 When entering a shop:	เมื่อเข้าร้านค้า:
@@ -525,3 +520,186 @@ X yards	X หลา
 # does become ความเสียหายสกิลรบเพลิง, but no overflow has actually been observed in game yet.
 # Shortening on suspicion would cost a coordinated rewrite of every table for nothing. If real
 # clipping shows up in a screenshot, that is the moment to switch - project-wide, in one pass.
+trigger (transitive / passive)	กระตุ้น	per c_extraeffect. "effects trigger 1 more time" -> "ถูกกระตุ้นเพิ่มอีก 1 ครั้ง"
+On triggering X:	เมื่อเกิดX:	the condition label keeps the relic-batch shape; the verb elsewhere is กระตุ้น
+
+# --- added by c_extraeffect part 2 ---
+
+# named states / labels new in this half
+[Rapid Fire]	[ยิงเร็ว]	速射, the fire-rate stacking buff. Kept apart from ยิงรัว, the Repeating Arrow effect name
+[Black Death]	[กาฬโรค]	黑死病
+[Re-equip]	[เตรียมพร้อมใหม่]	重新整备 — a different token from [พักหายใจ] Brief Respite, do not merge them
+Full-Charge Shot	ยิงตอนสะสมพลังเต็ม	满蓄射击时, the trigger label; the state alone stays สะสมพลังเต็ม
+
+# stat nouns new in this half
+Magazine Capacity	ความจุแม็กกาซีน	弹匣上限
+Charge Speed	ความเร็วสะสมพลัง	蓄力速度; Charge Time stays เวลาสะสมพลัง
+Weapon Spread	การกระจายของอาวุธ	武器散射
+Elite Enemies	ศัตรูอีลิท	精英敌人
+Pierce (the stat)	เจาะทะลุ	贯穿; "Pierce +1" -> "เจาะทะลุ +1"
+Bullet Size	ขนาดกระสุน	子弹体积
+Ultimate Gauge	ค่าท่าไม้ตาย	必杀值; the gain rate stays อัตราสะสมท่าไม้ตาย
+Shooting Damage	ความเสียหายจากการยิง	射击伤害
+Bullets deal {0}% <El> Damage	กระสุนเพิ่มความเสียหาย<ธาตุ> {0}%	子弹附带 — the whole weapon-affix family
+[Transmutation] Buildup	ค่าสะสม[แปรปรวน]	head noun first, same shape as เพดานเปราะบางของ…
+
+# recurring clause shapes settled here — reuse verbatim
+The effect is removed at the end of the battle	หายเมื่อจบการต่อสู้
+All stacks are removed after reloading	ล้างทั้งหมดหลังรีโหลด
+Expires after reloading	หมดผลหลังรีโหลด
+Instantly reload all bullets	เติมกระสุนเต็มทันที
+is (also) considered a normal shot	นับเป็นการยิงปกติ(ด้วย)
+Damage increases with distance	ยิ่งอยู่ไกลความเสียหายยิ่งสูง
+upgrade to <rarity>	อัปเกรดเป็น<คุณภาพ>
+
+# effect proper nouns
+Spiral Bullet	กระสุนเกลียว	螺旋弹
+Frost Grenade	ระเบิดเยือกแข็ง	冰霜榴弹
+Acid Erosion Shot	กระสุนกัดกร่อน	酸蚀弹
+Scorpion Stinger	เข็มหางแมงป่อง	蝎尾针; Scorpion Tail Bone stays กระดูกหางแมงป่อง
+Thorn	หนาม	荆棘
+Ice Shard	เศษน้ำแข็ง	冰屑
+Starstone	หินดาว	星石
+Meteor / Black Hole	อุกกาบาต / หลุมดำ	陨星 / 黑洞
+Small Bullet	กระสุนเล็ก	小子弹
+Air Cannon	กระสุนลม	空气炮, kept from part 1
+Spirit Leaf / Giant Spirit Sword	ใบไม้วิญญาณ / กระบี่วิญญาณยักษ์	灵叶 / 巨灵剑
+Crimson Lotus Trail	รอยบัวเพลิง	红莲之痕
+Hollow-Point Bullet	กระสุนหัวรู	空尖弹
+Gluttonous Maw / Gluttony Rift	ปากตะกละ / รอยแยกตะกละ	贪食血口 / 贪食裂隙
+Repeating Arrow / Volley Arrow	ลูกศรต่อเนื่อง	连珠箭 — EN uses both names for the same projectile
+Sword Force Wave	คลื่นกระบี่	剑气波
+Geminate Shot	ยิงคู่	二连射
+Wish Potion	ยาสมปรารถนา	愿望药水
+Red Weapon Affix	อัฟฟิกซ์อาวุธแดง	红武词条 — untranslated placeholder rows in the source, kept literal
+# --- added by the relic batch (c_relic_part2) ---
+# Terms below were settled against everything already in this file; where part2 hit a term
+# that was already here (Shatter, Adaptive Chance, Bullet Damage Cap, tarot names, Divine
+# Lightning, Blood Moon) the existing entry won and part2 was rewritten to match.
+
+# named triggers / conditions this table repeats hundreds of times
+On Bullet Damage:	เมื่อกระสุนสร้างความเสียหาย:
+On dealing damage:	เมื่อสร้างความเสียหาย:
+On Kill:	เมื่อสังหาร:
+When hit:	เมื่อถูกโจมตี:
+On taking Fatal Hit:	เมื่อรับความเสียหายถึงตาย:
+On entering a stage:	เมื่อเข้าด่าน:	stage = ด่าน throughout ("in this stage" = ในด่านนี้)
+On gaining / On losing [Armor]:	เมื่อได้รับ / เมื่อเสีย [เกราะ]:
+When you have [X]:	เมื่อมี [X]:
+At {N} [Ember]:	เมื่อมี [เถ้าเพลิง] {N} ชั้น:	the stack-threshold label, same shape for [Growth]
+At max stacks:	เมื่อซ้อนเต็ม:
+During [Overload] state:	ระหว่างสถานะ [โอเวอร์โหลด]:
+Dodge: (as a trigger label)	หลบ:
+Full-Charge Shot:	สะสมพลังเต็ม:	matches "Full Charge สะสมพลังเต็ม" above; Charge Speed = ความเร็วสะสมพลัง
+While charging:	เมื่อสะสมพลัง:
+
+# stat and mechanic nouns
+Battle Skill Cooldown	คูลดาวน์สกิลรบ
+Ultimate Gauge	ค่าท่าไม้ตาย	"Restores X% Ultimate Gauge" = ฟื้นค่าท่าไม้ตาย X%; Buildup = อัตราสะสมท่าไม้ตาย
+Charge Weapon	อาวุธสะสมพลัง
+Dodge Distance	ระยะหลบ
+Damage Range	ระยะความเสียหาย
+Light Weapon	อาวุธเบา	轻型武器
+Resonance	เรโซแนนซ์	Lightning Resonance = เรโซแนนซ์สายฟ้า; Five-Color Resonance = เรโซแนนซ์ห้าสี
+Unique Passive	พาสซีฟเฉพาะ	the "(Unique Passive)" tag closing many legendary relics
+limit +{N}	ขีดจำกัด +{N}	"Your [Ember] limit +1000"
+temporary stacks	ชั้นชั่วคราว
+break armor	ทำลายเกราะ
+immobilizing	ตรึงอยู่กับที่
+Weapons no longer spread	อาวุธไม่กระจาย
+marks an enemy	ทำเครื่องหมายศัตรู
+non-Legendary	ที่ไม่ใช่ระดับตำนาน
+Excess (Smite Chance)	ส่วนเกิน
+
+# elemental proc objects (these are effect names, not relics — no หลอม· prefix unless Forged)
+Ice Spike	หนามน้ำแข็ง
+Ice Blast	ระเบิดน้ำแข็ง
+Ice Meteorite	อุกกาบาตน้ำแข็ง
+Blizzard	พายุหิมะ
+Giant Glacier	ธารน้ำแข็งยักษ์
+Eye of the Storm	ตาพายุ
+Chain Lightning	สายฟ้าลูกโซ่	bounces = การเด้ง, "bounces up to 3 times" = เด้งได้สูงสุด 3 ครั้ง
+Electric Circle	วงไฟฟ้า
+Lightning Circle	วงสายฟ้า
+Thunderstorm	พายุฟ้าคะนอง
+Heavenly Thunder	สายฟ้าสวรรค์	deliberately not ฟ้าผ่า — that is Lightning Strike = สายฟ้าฟาด
+Thunder Arrow	ลูกศรสายฟ้า
+Capacitor Round	กระสุนเก็บประจุ
+Turbulent Field	สนามปั่นป่วน	Forged version: หลอม·สนามปั่นป่วน
+Flame Round	กระสุนเพลิง
+Fire Nova	โนวาเพลิง
+White Phosphorus Grenade	ระเบิดฟอสฟอรัสขาว	Phosphor Round = กระสุนฟอสฟอรัส
+[Cursed Fire]	[เพลิงต้องสาป]
+[Molten Armor]	[เกราะหลอมเหลว]
+[Explosive Fire Circle]	[วงเพลิงระเบิด]
+Volatile Explosive	ระเบิดไวไฟ	Thermite Explosive = ระเบิดเทอร์ไมต์
+Acidfire Flask	ขวดกรดเพลิง
+Acid Rain	ฝนกรด
+Acid Explosion	ระเบิดกรด
+Poison Explosion	ระเบิดพิษ
+Poisoned	ติดพิษ	the DoT [Corrosion] applies; distinct from the Poison status พิษ
+Vines	เถาวัลย์
+[Bloom]	[เบ่งบาน]	the [Growth] replacement; still counts as [เติบโต]
+Flower of Life	ดอกไม้แห่งชีวิต	[Seed of Life] = [เมล็ดแห่งชีวิต]
+Blood Spear	หอกเลือด
+Blood Curse	คำสาปเลือด
+[Blood Splash]	[เลือดสาด]
+Blood Beads	ลูกปัดเลือด
+Shattering Blade	ใบมีดแตกสลาย
+sawblade	ใบเลื่อย
+Disintegration	การสลาย
+Magic Bomb	ระเบิดเวท
+Arcane Wave	คลื่นเวทมนตร์
+Prismatic Starlight	แสงดาวปริซึม
+Colorless Prism	ปริซึมไร้สี
+Fatal Shell	กระสุนสังหาร
+Light Arrow	ลูกศรแสง
+Death's Scythe	เคียวมรณะ
+Devil's Coin	เหรียญปีศาจ
+Five-Color Baby Dragon	มังกรน้อยห้าสี	Dragon Breath = ลมหายใจมังกร
+Five-Color Crystal / Ring / Supreme Ring	คริสตัลห้าสี / แหวนห้าสี / แหวนห้าสีสูงสุด
+Five-Color Divine Lightning	สายฟ้าทัณฑ์สวรรค์ห้าสี
+
+# named objects referenced by the tarot unique passives
+[World Stone]	[ศิลาโลก]
+Tower Key	กุญแจหอคอย
+[Sword of Justice]	[ดาบแห่งความยุติธรรม]
+[Sigil of Temperance]	[ตราแห่งความพอดี]
+[Chariot Wheel]	[ล้อราชรถ]
+[Hell's Contract] / [Devil's Contract]	[สัญญานรก] / [สัญญาปีศาจ]
+[Blessing of the Holy Sun]	[พรแห่งสุริยันศักดิ์สิทธิ์]	Scorching Sun = พรแห่งสุริยันแผดเผา
+Noon state	สถานะเที่ยงวัน
+
+# --- added by the character skill-tree batch (c_roleskilltree) ---
+
+# recurring damage-source phrases on every character's nodes
+Current Weapon's Elemental Damage	ความเสียหายธาตุอาวุธปัจจุบัน	当前武器属性伤害; the single most common phrase in the skill trees. Main Weapon Elemental Damage = ความเสียหายธาตุอาวุธหลัก
+Fatal Hit	ความเสียหายถึงตาย	kept from the pearl batch; wrapped in <color=#e92f2f> on most rows
+Triggers once per run.	จำกัด 1 ครั้งต่อเกม	matches "Once per stage." = จำกัด 1 ครั้งต่อด่าน
+exclusive Relic	เรลิคเฉพาะตัว	专属秘宝
+for free / no-cost cast	ฟรี 1 ครั้ง	trails the verb: "ใช้[ระเบิดแมวป่า]ฟรี 1 ครั้ง"
+While under [X] / While in [X]	ขณะอยู่ใน[X]	one shape for all "while in state" clauses
+trigger chance +N%	โอกาสกระตุ้น[X] +N%
+is consumed (a charge/stack)	ถูกใช้ไป
+Dash	พุ่งตัว	瞬身, Elena's dodge replacement; plain Dodge stays หลบ
+invincibility window	ช่วงอมตะ	无敌时间
+
+# skill-tree keyword states (bracketed, referenced across a character's whole tree)
+[Novice's Luck]	[ดวงมือใหม่]	already set by the pearl batch — Jester's whole tree hangs off it
+[Justice Heart]	[หัวใจยุติธรรม]	正义之心, Jester ultimate
+[Trading Expert]	[เซียนการค้า]	交易专家; Trading Master = ปรมาจารย์การค้า
+[All or Nothing]	[เสี่ยงสูงคุ้มสูง]	高风险高回报, Lanny ultimate
+[Geminate Shot]	[ยิงสองนัด]	二连射; Triple Shot = ยิงสามนัด
+[Fatal Silver Bullet]	[กระสุนเงินสังหาร]	致命银弹, Marcus. Silver Bullet alone = กระสุนเงิน
+[Hunter's Mark]	[ตรานักล่า]	猎人印记
+[Waste to Treasure]	[ขยะเป็นสมบัติ]	变废为宝, Jenny
+[Wildcat Bomb]	[ระเบิดแมวป่า]	野猫炸弹
+[Demon Hunting Time]	[เวลาล่าปีศาจ]	猎魔时刻, Elena ultimate
+[Demon Hunting Silver Arrow]	[ลูกศรเงินล่าปีศาจ]	猎魔银箭
+[Dragon Breath]	[ลมหายใจมังกร]	龙息, Amber's attack; Lesser Dragon Breath = ลมหายใจมังกรรอง
+[Dragon Flame]	[เปลวมังกร]	龙焰, the burn stack; Dragon Flame Blast = เปลวมังกรระเบิด
+[Fury]	[บ้าคลั่ง]	狂暴, Amber's rage state
+[Starlight]	[แสงดาว]	星辉, Stella's stack; Starlight Card = ไพ่แสงดาว
+[Wheel of Fate]	[กงล้อโชคชะตา]	命运轮转/幸运轮转. Kept apart from the tarot card Wheel of Fortune = กงล้อแห่งโชคชะตา
+[Destroy Them!]	[กำจัดพวกมัน!]	消灭他们！, Long Tong ultimate
+Indomitable	นักล่าไม่ยอมแพ้	猎人不屈; the identical once-per-run revive node on all 7 characters — one wording everywhere

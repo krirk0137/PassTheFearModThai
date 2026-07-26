@@ -1,0 +1,430 @@
+ExtraEffect.EsayDescription.1104911	เมื่อกระสุนโดนศัตรู: ยิ่งอยู่ไกลความเสียหายยิ่งสูง สูงสุด +20%
+ExtraEffect.EsayDescription.1104921	เมื่อกระสุนโดนศัตรู: ยิ่งอยู่ไกลความเสียหายยิ่งสูง สูงสุด +40%
+ExtraEffect.EsayDescription.1104931	เมื่อกระสุนโดนศัตรู: ยิ่งอยู่ไกลความเสียหายยิ่งสูง สูงสุด +60%
+ExtraEffect.EsayDescription.1104941	เมื่อกระสุนโดนศัตรู: ยิ่งอยู่ไกลความเสียหายยิ่งสูง สูงสุด +120%\\n·กระสุนที่โดนศัตรูระยะไกลจะคริติคอลเสมอ
+ExtraEffect.EsayDescription.1104912	ยิง<color=#e92f2f>กระสุนเกลียว</color> เจาะทะลุศัตรูทุกตัวตลอดเส้นทาง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 550\\n·สกิลนี้นับเป็นการยิงปกติด้วย
+ExtraEffect.EsayDescription.1104922	ยิง<color=#e92f2f>กระสุนเกลียว</color> เจาะทะลุศัตรูทุกตัวตลอดเส้นทาง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 660\\n·สกิลนี้นับเป็นการยิงปกติด้วย
+ExtraEffect.EsayDescription.1104932	ยิง<color=#e92f2f>กระสุนเกลียว</color> เจาะทะลุศัตรูทุกตัวตลอดเส้นทาง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 770\\n·สกิลนี้นับเป็นการยิงปกติด้วย
+ExtraEffect.EsayDescription.1104942	ยิง<color=#e92f2f>กระสุนเกลียว</color> เจาะทะลุศัตรูทุกตัวตลอดเส้นทาง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 1000\\n·สกิลนี้นับเป็นการยิงปกติด้วย
+ExtraEffect.EsayDescription.1105111	ยิงโดนเป้าหมายเดิมครบ 3 ครั้ง จะสร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color>เพิ่ม 30% ของพลังโจมตีกระสุนแก่เป้าหมายนั้น
+ExtraEffect.EsayDescription.1105121	ยิงโดนเป้าหมายเดิมครบ 3 ครั้ง จะสร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color>เพิ่ม 60% ของพลังโจมตีกระสุนแก่เป้าหมายนั้น
+ExtraEffect.EsayDescription.1105131	ยิงโดนเป้าหมายเดิมครบ 3 ครั้ง จะสร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color>เพิ่ม 90% ของพลังโจมตีกระสุนแก่เป้าหมายนั้น
+ExtraEffect.EsayDescription.1105141	ยิงโดนเป้าหมายเดิมครบ 3 ครั้ง จะสร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color>เพิ่ม 150% ของพลังโจมตีกระสุนแก่เป้าหมายนั้น
+ExtraEffect.EsayDescription.1105112	อัตรายิง +50% ความเร็วรีโหลด +50% และเอฟเฟกต์พาสซีฟคูณสอง นาน 3 วินาที
+ExtraEffect.EsayDescription.1105122	อัตรายิง +60% ความเร็วรีโหลด +60% และเอฟเฟกต์พาสซีฟคูณสอง นาน 3 วินาที
+ExtraEffect.EsayDescription.1105132	อัตรายิง +70% ความเร็วรีโหลด +70% และเอฟเฟกต์พาสซีฟคูณสอง นาน 3 วินาที
+ExtraEffect.EsayDescription.1105142	อัตรายิง +100% ความเร็วรีโหลด +100% และเอฟเฟกต์พาสซีฟคูณสอง นาน 3 วินาที
+ExtraEffect.EsayDescription.1105211	<color=#d6b85b>สะสมพลังเต็ม</color>: อัตราคริติคอลของนัดนี้ +20%
+ExtraEffect.EsayDescription.1105221	<color=#d6b85b>สะสมพลังเต็ม</color>: อัตราคริติคอลของนัดนี้ +40%
+ExtraEffect.EsayDescription.1105231	<color=#d6b85b>สะสมพลังเต็ม</color>: อัตราคริติคอลของนัดนี้ +60%
+ExtraEffect.EsayDescription.1105241	<color=#d6b85b>สะสมพลังเต็ม</color>: นัดนี้คริติคอลเสมอ
+ExtraEffect.EsayDescription.1105212	การยิงสะสมพลังครั้งถัดไปเป็น<color=#d6b85b>สะสมพลังเต็ม</color>ทันที
+ExtraEffect.EsayDescription.1105222	การยิงสะสมพลังครั้งถัดไปเป็น<color=#d6b85b>สะสมพลังเต็ม</color>ทันที
+ExtraEffect.EsayDescription.1105232	การยิงสะสมพลังครั้งถัดไปเป็น<color=#d6b85b>สะสมพลังเต็ม</color>ทันที
+ExtraEffect.EsayDescription.1105242	การยิงสะสมพลังครั้งถัดไปเป็น<color=#d6b85b>สะสมพลังเต็ม</color>ทันที และความเสียหายคริติคอล +100%
+ExtraEffect.EsayDescription.1105311	<color=#d6b85b>เมื่อยิง:</color> ได้รับ<color=#d6b85b>[ยิงเร็ว]</color> 1 ชั้น ทุก 1 ชั้นเพิ่มอัตรายิง 2% สูงสุด 10 ชั้น ล้างทั้งหมดหลังรีโหลด
+ExtraEffect.EsayDescription.1105321	<color=#d6b85b>เมื่อยิง:</color> ได้รับ<color=#d6b85b>[ยิงเร็ว]</color> 1 ชั้น ทุก 1 ชั้นเพิ่มอัตรายิง 3% สูงสุด 10 ชั้น ล้างทั้งหมดหลังรีโหลด
+ExtraEffect.EsayDescription.1105331	<color=#d6b85b>เมื่อยิง:</color> ได้รับ<color=#d6b85b>[ยิงเร็ว]</color> 1 ชั้น ทุก 1 ชั้นเพิ่มอัตรายิง 4% สูงสุด 10 ชั้น ล้างทั้งหมดหลังรีโหลด
+ExtraEffect.EsayDescription.1105341	<color=#d6b85b>เมื่อยิง:</color> ได้รับ<color=#d6b85b>[ยิงเร็ว]</color> 1 ชั้น ทุก 1 ชั้นเพิ่มอัตรายิง 5% สูงสุด 10 ชั้น ล้างทั้งหมดหลังรีโหลด เมื่อ<color=#d6b85b>[ยิงเร็ว]</color>เต็มชั้น ความเสียหายสุดท้าย +50%
+ExtraEffect.EsayDescription.1105312	เติมกระสุนเต็มทันที
+ExtraEffect.EsayDescription.1105322	เติมกระสุนเต็มทันที
+ExtraEffect.EsayDescription.1105332	เติมกระสุนเต็มทันที
+ExtraEffect.EsayDescription.1105342	เติมกระสุนเต็มทันที และได้รับ<color=#d6b85b>[ยิงเร็ว]</color>เต็มชั้น
+ExtraEffect.EsayDescription.1105411	<color=#11f7ef>ความเสียหายเยือกแข็ง</color> +15%
+ExtraEffect.EsayDescription.1105421	<color=#11f7ef>ความเสียหายเยือกแข็ง</color> +30%
+ExtraEffect.EsayDescription.1105431	<color=#11f7ef>ความเสียหายเยือกแข็ง</color> +45%
+ExtraEffect.EsayDescription.1105441	<color=#11f7ef>ความเสียหายเยือกแข็ง</color> +75%\\n·เมื่อมี<color=#11f7ef>[เกราะ]</color> 30 <color=#11f7ef>ความเสียหายเยือกแข็ง</color> +50%
+ExtraEffect.EsayDescription.1105412	ยิง<color=#11f7ef>ระเบิดเยือกแข็ง</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 300 แก่ศัตรูในวง
+ExtraEffect.EsayDescription.1105422	ยิง<color=#11f7ef>ระเบิดเยือกแข็ง</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 360 แก่ศัตรูในวง
+ExtraEffect.EsayDescription.1105432	ยิง<color=#11f7ef>ระเบิดเยือกแข็ง</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 420 แก่ศัตรูในวง
+ExtraEffect.EsayDescription.1105442	ยิง<color=#11f7ef>ระเบิดเยือกแข็ง</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 540 แก่ศัตรูในวง และกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>ทันที
+ExtraEffect.EsayDescription.1105511	ความเสียหายสุดท้าย +15% ความเร็วกระสุน -20%
+ExtraEffect.EsayDescription.1105521	ความเสียหายสุดท้าย +30% ความเร็วกระสุน -30%
+ExtraEffect.EsayDescription.1105531	ความเสียหายสุดท้าย +60% ความเร็วกระสุน -40%
+ExtraEffect.EsayDescription.1105541	ความเสียหายสุดท้าย +100% ความเร็วกระสุน -50%
+ExtraEffect.EsayDescription.1105512	ขนาดกระสุน +50% พลังโจมตีกระสุน +50% นาน 3 วินาที
+ExtraEffect.EsayDescription.1105522	ขนาดกระสุน +60% พลังโจมตีกระสุน +60% นาน 3 วินาที
+ExtraEffect.EsayDescription.1105532	ขนาดกระสุน +70% พลังโจมตีกระสุน +70% นาน 3 วินาที
+ExtraEffect.EsayDescription.1105542	ขนาดกระสุน +100% พลังโจมตีกระสุน +100% นาน 3 วินาที
+ExtraEffect.EsayDescription.1105611	<color=#3dda4f>ความเสียหายกรด</color> +15%
+ExtraEffect.EsayDescription.1105621	<color=#3dda4f>ความเสียหายกรด</color> +30%
+ExtraEffect.EsayDescription.1105631	<color=#3dda4f>ความเสียหายกรด</color> +45%
+ExtraEffect.EsayDescription.1105641	<color=#3dda4f>ความเสียหายกรด</color> +75%\\n·ความเสียหายต่อศัตรูที่ติด<color=#3dda4f><link=\\"9014\\">[กัดกร่อน]</link></color> +50%
+ExtraEffect.EsayDescription.1105612	ยิง<color=#3dda4f>กระสุนกัดกร่อน</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 300 แก่ศัตรูในวง
+ExtraEffect.EsayDescription.1105622	ยิง<color=#3dda4f>กระสุนกัดกร่อน</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 360 แก่ศัตรูในวง
+ExtraEffect.EsayDescription.1105632	ยิง<color=#3dda4f>กระสุนกัดกร่อน</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 420 แก่ศัตรูในวง
+ExtraEffect.EsayDescription.1105642	ยิง<color=#3dda4f>กระสุนกัดกร่อน</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 540 แก่ศัตรูในวง ความเสียหายต่อศัตรูที่ติด<color=#3dda4f><link=\\"9014\\">[กัดกร่อน]</link></color> +50%
+ExtraEffect.EsayDescription.1105711	ทุก 1 วินาที ความเสียหายของกระสุนนัดถัดไป +100%
+ExtraEffect.EsayDescription.1105721	ทุก 1 วินาที ความเสียหายของกระสุนนัดถัดไป +200%
+ExtraEffect.EsayDescription.1105731	ทุก 1 วินาที ความเสียหายของกระสุนนัดถัดไป +300%
+ExtraEffect.EsayDescription.1105741	ทุก 1 วินาที ความเสียหายของกระสุนนัดถัดไป +500%
+ExtraEffect.EsayDescription.1105712	นัดถัดไปออก<link=\\"9034\\">ทุบหนัก</link>และคริติคอลเสมอ
+ExtraEffect.EsayDescription.1105722	นัดถัดไปออก<link=\\"9034\\">ทุบหนัก</link>และคริติคอลเสมอ
+ExtraEffect.EsayDescription.1105732	นัดถัดไปออก<link=\\"9034\\">ทุบหนัก</link>และคริติคอลเสมอ
+ExtraEffect.EsayDescription.1105742	นัดถัดไปออก<link=\\"9034\\">ทุบหนัก</link>และคริติคอลเสมอ พลังโจมตีกระสุนสูงสุด +50% ความเสียหายคริติคอล +50%
+ExtraEffect.EsayDescription.1105811	<color=#d6b85b>เมื่อกระตุ้น<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color>:</color> สร้างความเสียหายแปรปรวน<color=#3dda4f>กรด</color>เพิ่ม 33%
+ExtraEffect.EsayDescription.1105821	<color=#d6b85b>เมื่อกระตุ้น<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color>:</color> สร้างความเสียหายแปรปรวน<color=#3dda4f>กรด</color>เพิ่ม 66%
+ExtraEffect.EsayDescription.1105831	<color=#d6b85b>เมื่อกระตุ้น<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color>:</color> สร้างความเสียหายแปรปรวน<color=#3dda4f>กรด</color>เพิ่ม 100%
+ExtraEffect.EsayDescription.1105841	<color=#d6b85b>เมื่อกระตุ้น<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color>:</color> สร้างความเสียหายแปรปรวน<color=#3dda4f>กรด</color>เพิ่ม 150%\\n·ถ้า<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color>เป็น<color=#3dda4f><link=\\"9014\\">[กัดกร่อน]</link></color> ความเสียหายนี้ +50%
+ExtraEffect.EsayDescription.1105812	นัดถัดไปกัดกร่อนศัตรูนาน 3 วินาที สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 100 ต่อวินาที ความเสียหายแต่ละครั้งมีโอกาส 25% กระตุ้น<color=#3dda4f><link=\\"9014\\">[กัดกร่อน]</link></color>ทันที
+ExtraEffect.EsayDescription.1105822	นัดถัดไปกัดกร่อนศัตรูนาน 3 วินาที สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 120 ต่อวินาที ความเสียหายแต่ละครั้งมีโอกาส 30% กระตุ้น<color=#3dda4f><link=\\"9014\\">[กัดกร่อน]</link></color>ทันที
+ExtraEffect.EsayDescription.1105832	นัดถัดไปกัดกร่อนศัตรูนาน 3 วินาที สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 140 ต่อวินาที ความเสียหายแต่ละครั้งมีโอกาส 50% กระตุ้น<color=#3dda4f><link=\\"9014\\">[กัดกร่อน]</link></color>ทันที
+ExtraEffect.EsayDescription.1105842	นัดถัดไปกัดกร่อนศัตรูนาน 3 วินาที สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 160 ต่อวินาที ความเสียหายแต่ละครั้งกระตุ้น<color=#3dda4f><link=\\"9014\\">[กัดกร่อน]</link></color>ทันที
+ExtraEffect.EsayDescription.1105911	พลังโจมตีกระสุน +30%
+ExtraEffect.EsayDescription.1105921	พลังโจมตีกระสุน +60%
+ExtraEffect.EsayDescription.1105931	พลังโจมตีกระสุน +90%
+ExtraEffect.EsayDescription.1105941	พลังโจมตีกระสุน +200%
+ExtraEffect.EsayDescription.1105912	ยิง<color=#3dda4f>หนาม</color> 6 อันโจมตีศัตรู แต่ละอันสร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 100 <color=#3dda4f>หนาม</color>นับเป็นความเสียหายกระสุนด้วย
+ExtraEffect.EsayDescription.1105922	ยิง<color=#3dda4f>หนาม</color> 6 อันโจมตีศัตรู แต่ละอันสร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 120 <color=#3dda4f>หนาม</color>นับเป็นความเสียหายกระสุนด้วย
+ExtraEffect.EsayDescription.1105932	ยิง<color=#3dda4f>หนาม</color> 6 อันโจมตีศัตรู แต่ละอันสร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 140 <color=#3dda4f>หนาม</color>นับเป็นความเสียหายกระสุนด้วย
+ExtraEffect.EsayDescription.1105942	ยิง<color=#3dda4f>หนาม</color> 6 อันโจมตีศัตรู แต่ละอันสร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 200 และกระตุ้น<color=#3dda4f><link=\\"9014\\">[กัดกร่อน]</link></color> <color=#3dda4f>หนาม</color>นับเป็นความเสียหายกระสุนด้วย
+ExtraEffect.EsayDescription.1106011	<color=#d6b85b>รีโหลด</color>: ทุก 0.2 วินาที ยิง<color=#3dda4f>เข็มหางแมงป่อง</color>ใส่ศัตรูที่ใกล้ที่สุด สร้าง<color=#3dda4f><color=#a024ff>ความเสียหายสกิลรบ</color>กรด</color> 5%
+ExtraEffect.EsayDescription.1106021	<color=#d6b85b>รีโหลด</color>: ทุก 0.2 วินาที ยิง<color=#3dda4f>เข็มหางแมงป่อง</color>ใส่ศัตรูที่ใกล้ที่สุด สร้าง<color=#3dda4f><color=#a024ff>ความเสียหายสกิลรบ</color>กรด</color> 10%
+ExtraEffect.EsayDescription.1106031	<color=#d6b85b>รีโหลด</color>: ทุก 0.2 วินาที ยิง<color=#3dda4f>เข็มหางแมงป่อง</color>ใส่ศัตรูที่ใกล้ที่สุด สร้าง<color=#3dda4f><color=#a024ff>ความเสียหายสกิลรบ</color>กรด</color> 15%
+ExtraEffect.EsayDescription.1106041	<color=#d6b85b>รีโหลด</color>: ทุก 0.2 วินาที ยิง<color=#3dda4f>เข็มหางแมงป่อง</color>ใส่ศัตรูที่ใกล้ที่สุด สร้าง<color=#3dda4f><color=#a024ff>ความเสียหายสกิลรบ</color>กรด</color> 25% และกระตุ้น<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color>แบบสุ่ม 1 อย่าง
+ExtraEffect.EsayDescription.1106012	ยิง<color=#3dda4f>เข็มหางแมงป่อง</color>อัตโนมัติทุก 0.2 วินาที และความเสียหายของมัน +300% นาน 3 วินาที
+ExtraEffect.EsayDescription.1106022	ยิง<color=#3dda4f>เข็มหางแมงป่อง</color>อัตโนมัติทุก 0.2 วินาที และความเสียหายของมัน +400% นาน 3 วินาที
+ExtraEffect.EsayDescription.1106032	ยิง<color=#3dda4f>เข็มหางแมงป่อง</color>อัตโนมัติทุก 0.2 วินาที และความเสียหายของมัน +500% นาน 3 วินาที
+ExtraEffect.EsayDescription.1106042	ยิง<color=#3dda4f>เข็มหางแมงป่อง</color>อัตโนมัติทุก 0.2 วินาที และความเสียหายของมัน +600% นาน 3 วินาที
+ExtraEffect.EsayDescription.1106141	อาวุธของคุณยิงกระสุนปกติไม่ได้อีกต่อไป\\n·กระสุนจะสั่นใบมีดปล่อย<color=#d6b85b>คลื่นกระบี่</color>ที่เจาะทะลุศัตรู สร้างความเสียหาย 666% ของพลังโจมตีกระสุนแก่ศัตรูทุกตัวที่โดน ธาตุความเสียหายเท่ากับ<color=#d6b85b>ธาตุอาวุธปัจจุบัน</color> และนับเป็น<color=#a024ff>ความเสียหายสกิลรบ</color>
+ExtraEffect.EsayDescription.1106142	ปล่อย<color=#d6b85b>[หัวใจแห่งจุดจบ]</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#d6b85b>จริง</color> 9999 แก่ศัตรูในวงรูปกากบาทรอบตัวคุณ
+ExtraEffect.EsayDescription.1106511	ความจุแม็กกาซีน +20%
+ExtraEffect.EsayDescription.1106521	ความจุแม็กกาซีน +30%
+ExtraEffect.EsayDescription.1106531	ความจุแม็กกาซีน +40%
+ExtraEffect.EsayDescription.1106541	ความจุแม็กกาซีน +50%\\n·<color=#d6b85b>เมื่อยิง:</color> ทุก 1 กระสุนที่ใช้ไป อัตรายิง +2%
+ExtraEffect.EsayDescription.1106512	อัดพลังงานเข้าแม็กกาซีน เติมกระสุนเต็ม และกระสุนของคุณเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color> 50% ของพลังโจมตีกระสุน
+ExtraEffect.EsayDescription.1106522	อัดพลังงานเข้าแม็กกาซีน เติมกระสุนเต็ม และกระสุนของคุณเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color> 75% ของพลังโจมตีกระสุน
+ExtraEffect.EsayDescription.1106532	อัดพลังงานเข้าแม็กกาซีน เติมกระสุนเต็ม และกระสุนของคุณเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color> 100% ของพลังโจมตีกระสุน
+ExtraEffect.EsayDescription.1106542	อัดพลังงานเข้าแม็กกาซีน เติมกระสุนเต็ม และกระสุนของคุณเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color> 120% ของพลังโจมตีกระสุน ทุก 1 กระสุนที่ใช้ไป ความเสียหายนี้ +3%
+ExtraEffect.EsayDescription.1106611	<color=#a024ff>ความเสียหายสกิลรบ</color> +30%
+ExtraEffect.EsayDescription.1106621	<color=#a024ff>ความเสียหายสกิลรบ</color> +60%
+ExtraEffect.EsayDescription.1106631	<color=#a024ff>ความเสียหายสกิลรบ</color> +90%
+ExtraEffect.EsayDescription.1106641	<color=#a024ff>ความเสียหายสกิลรบ</color> +150%\\n·คูลดาวน์ของ<color=#f44f06>[เหล็กหลอม]</color> -3 วินาที
+ExtraEffect.EsayDescription.1106612	หล่อกระสุนของคุณด้วยความร้อนสูง ความเสียหายที่สร้าง +30% บวกโบนัส<color=#a024ff>ความเสียหายสกิลรบ</color> หมดผลหลังรีโหลด
+ExtraEffect.EsayDescription.1106622	หล่อกระสุนของคุณด้วยความร้อนสูง ความเสียหายที่สร้าง +45% บวกโบนัส<color=#a024ff>ความเสียหายสกิลรบ</color> หมดผลหลังรีโหลด
+ExtraEffect.EsayDescription.1106632	หล่อกระสุนของคุณด้วยความร้อนสูง ความเสียหายที่สร้าง +60% บวกโบนัส<color=#a024ff>ความเสียหายสกิลรบ</color> หมดผลหลังรีโหลด
+ExtraEffect.EsayDescription.1106642	หล่อกระสุนของคุณด้วยความร้อนสูง ความเสียหายที่สร้าง +100% บวกโบนัส<color=#a024ff>ความเสียหายสกิลรบ</color>คูณสอง หมดผลหลังรีโหลด
+ExtraEffect.EsayDescription.1106711	เมื่อ<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>สร้างความเสียหาย มีโอกาส 15% กระตุ้นแปรปรวนอย่างอื่น 1 อย่าง
+ExtraEffect.EsayDescription.1106721	เมื่อ<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>สร้างความเสียหาย มีโอกาส 30% กระตุ้นแปรปรวนอย่างอื่น 1 อย่าง
+ExtraEffect.EsayDescription.1106731	เมื่อ<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>สร้างความเสียหาย มีโอกาส 60% กระตุ้นแปรปรวนอย่างอื่น 1 อย่าง
+ExtraEffect.EsayDescription.1106741	เมื่อ<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>สร้างความเสียหาย จะกระตุ้นแปรปรวนอย่างอื่น 2 อย่างเสมอ
+ExtraEffect.EsayDescription.1106712	เผาศัตรูทุกตัวที่ติดสถานะแปรปรวน สร้าง<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 150 สถานะแปรปรวนแต่ละชนิดกระตุ้นได้ 1 ครั้ง
+ExtraEffect.EsayDescription.1106722	เผาศัตรูทุกตัวที่ติดสถานะแปรปรวน สร้าง<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 180 สถานะแปรปรวนแต่ละชนิดกระตุ้นได้ 1 ครั้ง
+ExtraEffect.EsayDescription.1106732	เผาศัตรูทุกตัวที่ติดสถานะแปรปรวน สร้าง<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 210 สถานะแปรปรวนแต่ละชนิดกระตุ้นได้ 1 ครั้ง
+ExtraEffect.EsayDescription.1106742	เผาศัตรูทุกตัวที่ติดสถานะแปรปรวน สร้าง<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 270 และมีโอกาส 50% กระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color> สถานะแปรปรวนแต่ละชนิดกระตุ้นได้ 1 ครั้ง
+ExtraEffect.EsayDescription.1106811	ความเสียหาย<color=#d6b85b>[นัดแรก]</color> +30%\\n·ความเสียหาย<color=#d6b85b>[นัดสุดท้าย]</color> +30%
+ExtraEffect.EsayDescription.1106821	ความเสียหาย<color=#d6b85b>[นัดแรก]</color> +60%\\n·ความเสียหาย<color=#d6b85b>[นัดสุดท้าย]</color> +60%
+ExtraEffect.EsayDescription.1106831	ความเสียหาย<color=#d6b85b>[นัดแรก]</color> +90%\\n·ความเสียหาย<color=#d6b85b>[นัดสุดท้าย]</color> +90%
+ExtraEffect.EsayDescription.1106841	ความเสียหาย<color=#d6b85b>[นัดแรก]</color> +150%\\n·ความเสียหาย<color=#d6b85b>[นัดสุดท้าย]</color> +150%\\n·ความเร็วรีโหลด +100%
+ExtraEffect.EsayDescription.1106812	ยิง<color=#f44f06>ลูกศรต่อเนื่อง</color> 3 ดอกติดกัน สร้าง<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 200 นับเป็นการยิงปกติ\\n·ความเสียหาย<color=#f44f06>ลูกศรต่อเนื่อง</color>เพิ่มขึ้นตามจำนวนลูกศรที่ยิงออกไป
+ExtraEffect.EsayDescription.1106822	ยิง<color=#f44f06>ลูกศรต่อเนื่อง</color> 3 ดอกติดกัน สร้าง<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 240 นับเป็นการยิงปกติ\\n·ความเสียหาย<color=#f44f06>ลูกศรต่อเนื่อง</color>เพิ่มขึ้นตามจำนวนลูกศรที่ยิงออกไป
+ExtraEffect.EsayDescription.1106832	ยิง<color=#f44f06>ลูกศรต่อเนื่อง</color> 3 ดอกติดกัน สร้าง<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 280 นับเป็นการยิงปกติ\\n·ความเสียหาย<color=#f44f06>ลูกศรต่อเนื่อง</color>เพิ่มขึ้นตามจำนวนลูกศรที่ยิงออกไป
+ExtraEffect.EsayDescription.1106842	ยิง<color=#f44f06>ลูกศรต่อเนื่อง</color> 5 ดอกติดกัน สร้าง<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 360 นับเป็นการยิงปกติ\\n·ความเสียหาย<color=#f44f06>ลูกศรต่อเนื่อง</color>เพิ่มขึ้นตามจำนวนลูกศรที่ยิงออกไป
+ExtraEffect.EsayDescription.1106911	<color=#d6b85b>เมื่อเสีย<color=#11f7ef>[เกราะ]</color>:</color> ทุก 1 <color=#11f7ef>[เกราะ]</color>ที่เสียไป <color=#11f7ef>ความเสียหายเยือกแข็ง</color> +1% หายเมื่อจบการต่อสู้
+ExtraEffect.EsayDescription.1106921	<color=#d6b85b>เมื่อเสีย<color=#11f7ef>[เกราะ]</color>:</color> ทุก 1 <color=#11f7ef>[เกราะ]</color>ที่เสียไป <color=#11f7ef>ความเสียหายเยือกแข็ง</color> +1.5% หายเมื่อจบการต่อสู้
+ExtraEffect.EsayDescription.1106931	<color=#d6b85b>เมื่อเสีย<color=#11f7ef>[เกราะ]</color>:</color> ทุก 1 <color=#11f7ef>[เกราะ]</color>ที่เสียไป <color=#11f7ef>ความเสียหายเยือกแข็ง</color> +2% หายเมื่อจบการต่อสู้
+ExtraEffect.EsayDescription.1106941	<color=#d6b85b>เมื่อเสีย<color=#11f7ef>[เกราะ]</color>:</color> ทุก 1 <color=#11f7ef>[เกราะ]</color>ที่เสียไป <color=#11f7ef>ความเสียหายเยือกแข็ง</color> +2.5% หายเมื่อจบการต่อสู้\\n·<color=#d6b85b>เมื่อจบการต่อสู้</color>: ได้รับ<color=#11f7ef>[เกราะ]</color> 50% ของที่เสียไปในด่านนี้
+ExtraEffect.EsayDescription.1106912	เรียก<color=#11f7ef>เศษน้ำแข็ง</color>โจมตีศัตรูที่ใกล้ที่สุด 3 ตัว สร้าง<color=#11f7ef><color=#a024ff>ความเสียหายสกิลรบ</color>เยือกแข็ง</color>เท่ากับ 50 + <color=#11f7ef>[เกราะ]</color>ปัจจุบัน ทุก 1 <color=#11f7ef>[เกราะ]</color>ที่เสียไป ความเสียหาย<color=#11f7ef>เศษน้ำแข็ง</color> +2 หายเมื่อจบการต่อสู้
+ExtraEffect.EsayDescription.1106922	เรียก<color=#11f7ef>เศษน้ำแข็ง</color>โจมตีศัตรูที่ใกล้ที่สุด 3 ตัว สร้าง<color=#11f7ef><color=#a024ff>ความเสียหายสกิลรบ</color>เยือกแข็ง</color>เท่ากับ 60 + <color=#11f7ef>[เกราะ]</color>ปัจจุบัน ทุก 1 <color=#11f7ef>[เกราะ]</color>ที่เสียไป ความเสียหาย<color=#11f7ef>เศษน้ำแข็ง</color> +2 หายเมื่อจบการต่อสู้
+ExtraEffect.EsayDescription.1106932	เรียก<color=#11f7ef>เศษน้ำแข็ง</color>โจมตีศัตรูที่ใกล้ที่สุด 3 ตัว สร้าง<color=#11f7ef><color=#a024ff>ความเสียหายสกิลรบ</color>เยือกแข็ง</color>เท่ากับ 80 + <color=#11f7ef>[เกราะ]</color>ปัจจุบัน ทุก 1 <color=#11f7ef>[เกราะ]</color>ที่เสียไป ความเสียหาย<color=#11f7ef>เศษน้ำแข็ง</color> +2 หายเมื่อจบการต่อสู้
+ExtraEffect.EsayDescription.1106942	เรียก<color=#11f7ef>เศษน้ำแข็ง</color>โจมตีศัตรูที่ใกล้ที่สุด 3 ตัว สร้าง<color=#11f7ef><color=#a024ff>ความเสียหายสกิลรบ</color>เยือกแข็ง</color>เท่ากับ 100 + <color=#11f7ef>[เกราะ]</color>ปัจจุบันคูณสอง ทุก 1 <color=#11f7ef>[เกราะ]</color>ที่เสียไป ความเสียหาย<color=#11f7ef>เศษน้ำแข็ง</color> +1% หายเมื่อจบการต่อสู้
+ExtraEffect.EsayDescription.1107011	ความเสียหายแปรปรวน +30%
+ExtraEffect.EsayDescription.1107021	ความเสียหายแปรปรวน +60%
+ExtraEffect.EsayDescription.1107031	ความเสียหายแปรปรวน +90%
+ExtraEffect.EsayDescription.1107041	ความเสียหายแปรปรวน +150%\\n·<color=#d6b85b>เมื่อเกิดแปรปรวน:</color> ความเสียหายธาตุที่ตรงกัน +10% นาน 5 วินาที ซ้อนได้สูงสุด 100%
+ExtraEffect.EsayDescription.1107012	ให้พรราชาหิมะแก่ตัวคุณและสิ่งที่เรียกมา หลัง 2 วินาที จะปลดปล่อยพลังงาน กระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>แก่ศัตรูในวงกว้าง
+ExtraEffect.EsayDescription.1107022	ให้พรราชาหิมะแก่ตัวคุณและสิ่งที่เรียกมา หลัง 2 วินาที จะปลดปล่อยพลังงาน กระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>แก่ศัตรูในวงกว้าง
+ExtraEffect.EsayDescription.1107032	ให้พรราชาหิมะแก่หน่วยฝ่ายเดียวกันทั้งหมด หลัง 2 วินาที จะปลดปล่อยพลังงาน กระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>แก่ศัตรูในวงกว้าง
+ExtraEffect.EsayDescription.1107042	ให้พรราชาหิมะแก่หน่วยฝ่ายเดียวกันทั้งหมด หลัง 2 วินาที จะปลดปล่อยพลังงาน กระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>แก่ศัตรูในวงกว้าง ความเสียหาย<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color> +150%
+ExtraEffect.EsayDescription.1107111	<color=#d6b85b>หลบ</color>: วาง<color=#e92f2f>หินดาว</color>ไว้ที่เดิม จะระเบิดเมื่อโดนศัตรูหรือหลัง 5 วินาที สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 40 แก่ศัตรูรอบข้าง
+ExtraEffect.EsayDescription.1107121	<color=#d6b85b>หลบ</color>: วาง<color=#e92f2f>หินดาว</color>ไว้ที่เดิม จะระเบิดเมื่อโดนศัตรูหรือหลัง 5 วินาที สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 80 แก่ศัตรูรอบข้าง
+ExtraEffect.EsayDescription.1107131	<color=#d6b85b>หลบ</color>: วาง<color=#e92f2f>หินดาว</color>ไว้ที่เดิม จะระเบิดเมื่อโดนศัตรูหรือหลัง 5 วินาที สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 120 แก่ศัตรูรอบข้าง
+ExtraEffect.EsayDescription.1107141	<color=#d6b85b>หลบ</color>: วาง<color=#e92f2f>หินดาว</color>ไว้ที่เดิม จะระเบิดเมื่อโดนศัตรูหรือหลัง 5 วินาที สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 200 แก่ศัตรูรอบข้าง และความเสียหายที่ศัตรูได้รับ +15% นาน 5 วินาที
+ExtraEffect.EsayDescription.1107112	ยิง<color=#e92f2f>อุกกาบาต</color> เมื่อโดนศัตรูหรือบินได้ระยะหนึ่งจะยุบตัวเป็น<color=#e92f2f>หลุมดำ</color> ดึงศัตรูรอบข้างเข้าหาศูนย์กลาง สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 150 ต่อวินาที นาน 3 วินาที
+ExtraEffect.EsayDescription.1107122	ยิง<color=#e92f2f>อุกกาบาต</color> เมื่อโดนศัตรูหรือบินได้ระยะหนึ่งจะยุบตัวเป็น<color=#e92f2f>หลุมดำ</color> ดึงศัตรูรอบข้างเข้าหาศูนย์กลาง สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 180 ต่อวินาที นาน 3 วินาที
+ExtraEffect.EsayDescription.1107132	ยิง<color=#e92f2f>อุกกาบาต</color> เมื่อโดนศัตรูหรือบินได้ระยะหนึ่งจะยุบตัวเป็น<color=#e92f2f>หลุมดำ</color> ดึงศัตรูรอบข้างเข้าหาศูนย์กลาง สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 210 ต่อวินาที นาน 3 วินาที
+ExtraEffect.EsayDescription.1107142	ยิง<color=#e92f2f>อุกกาบาต</color> เมื่อโดนศัตรูหรือบินได้ระยะหนึ่งจะยุบตัวเป็น<color=#e92f2f>หลุมดำ</color> ดึงศัตรูรอบข้างเข้าหาศูนย์กลาง สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 240 ต่อวินาที และกระตุ้น<color=#e92f2f><link=\\"9011\\">[เลือดออก]</link></color> นาน 3 วินาที
+ExtraEffect.EsayDescription.1107211	สังหารศัตรูครบ 25 ตัว จะอัปเกรดเป็น<color=#05B2EA>หายาก</color>
+ExtraEffect.EsayDescription.1107221	สังหารศัตรูครบ 50 ตัว จะอัปเกรดเป็น<color=#bd30e7>มหากาพย์</color>
+ExtraEffect.EsayDescription.1107231	สังหารศัตรูครบ 100 ตัว จะอัปเกรดเป็น<color=#D77D3A>ตำนาน</color>
+ExtraEffect.EsayDescription.1107241	ทุก 1 ศัตรูที่สังหารขณะพก<color=#e92f2f>ตำนาน</color> <color=#e92f2f>ความเสียหายกายภาพ</color> +1% ถาวร
+ExtraEffect.EsayDescription.1107212	ยิง<color=#e92f2f>กระสุนเล็ก</color>ใส่ศัตรู สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 500 สกิลนี้นับเป็นการยิงปกติ
+ExtraEffect.EsayDescription.1107222	ยิง<color=#e92f2f>กระสุนเล็ก</color>ใส่ศัตรู สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 600 สกิลนี้นับเป็นการยิงปกติ
+ExtraEffect.EsayDescription.1107232	ยิง<color=#e92f2f>กระสุนเล็ก</color>ใส่ศัตรู สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 700 สกิลนี้นับเป็นการยิงปกติ
+ExtraEffect.EsayDescription.1107242	ยิง<color=#e92f2f>กระสุนเล็ก</color>ใส่ศัตรู สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 888 ถ้าสังหารศัตรูได้ <color=#e92f2f>กระสุนเล็ก</color>จะติดตามศัตรูที่ใกล้ที่สุดอัตโนมัติ สกิลนี้นับเป็นการยิงปกติ
+ExtraEffect.EsayDescription.1107311	<color=#d6b85b>ยิงตอนสะสมพลังเต็ม</color>: ลูกกระสุน +2 และคูลดาวน์สกิลรบ -1 วินาที
+ExtraEffect.EsayDescription.1107321	<color=#d6b85b>ยิงตอนสะสมพลังเต็ม</color>: ลูกกระสุน +3 และคูลดาวน์สกิลรบ -1 วินาที
+ExtraEffect.EsayDescription.1107331	<color=#d6b85b>ยิงตอนสะสมพลังเต็ม</color>: ลูกกระสุน +4 และคูลดาวน์สกิลรบ -1 วินาที
+ExtraEffect.EsayDescription.1107341	<color=#d6b85b>ยิงตอนสะสมพลังเต็ม</color>: ลูกกระสุน +4 ความเสียหายของลูกกระสุนส่วนเพิ่ม +100% และคูลดาวน์สกิลรบ -1 วินาที
+ExtraEffect.EsayDescription.1107312	ยิง<color=#e92f2f>กระสุนลม</color>ออกรอบทิศโดยมีตัวคุณเป็นศูนย์กลาง สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 200 ทุกครั้งที่เอฟเฟกต์พาสซีฟลดคูลดาวน์ <color=#e92f2f>กระสุนลม</color>จะแรงขึ้น
+ExtraEffect.EsayDescription.1107322	ยิง<color=#e92f2f>กระสุนลม</color>ออกรอบทิศโดยมีตัวคุณเป็นศูนย์กลาง สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 240 ทุกครั้งที่เอฟเฟกต์พาสซีฟลดคูลดาวน์ <color=#e92f2f>กระสุนลม</color>จะแรงขึ้น
+ExtraEffect.EsayDescription.1107332	ยิง<color=#e92f2f>กระสุนลม</color>ออกรอบทิศโดยมีตัวคุณเป็นศูนย์กลาง สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 280 ทุกครั้งที่เอฟเฟกต์พาสซีฟลดคูลดาวน์ <color=#e92f2f>กระสุนลม</color>จะแรงขึ้น
+ExtraEffect.EsayDescription.1107342	ยิง<color=#e92f2f>กระสุนลม</color>ออกรอบทิศโดยมีตัวคุณเป็นศูนย์กลาง สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 360 ทุกครั้งที่เอฟเฟกต์พาสซีฟลดคูลดาวน์ <color=#e92f2f>กระสุนลม</color>จะแรงขึ้นมากกว่าเดิม
+ExtraEffect.EsayDescription.1107411	<color=#d6b85b>เมื่อยิง:</color> มี<color=#99b7bb><link=\\"9035\\">โอกาสปรับตัว</link></color> 70% ได้รับ<color=#3dda4f>ใบไม้วิญญาณ</color> 1 ใบ เมื่อครบ 7 ใบ จะปล่อย<color=#a024ff>สกิลรบ</color>ทันที แล้วใบไม้สลายทั้งหมด
+ExtraEffect.EsayDescription.1107421	<color=#d6b85b>เมื่อยิง:</color> มี<color=#99b7bb><link=\\"9035\\">โอกาสปรับตัว</link></color> 75% ได้รับ<color=#3dda4f>ใบไม้วิญญาณ</color> 1 ใบ เมื่อครบ 7 ใบ จะปล่อย<color=#a024ff>สกิลรบ</color>ทันที แล้วใบไม้สลายทั้งหมด
+ExtraEffect.EsayDescription.1107431	<color=#d6b85b>เมื่อยิง:</color> มี<color=#99b7bb><link=\\"9035\\">โอกาสปรับตัว</link></color> 80% ได้รับ<color=#3dda4f>ใบไม้วิญญาณ</color> 1 ใบ เมื่อครบ 7 ใบ จะปล่อย<color=#a024ff>สกิลรบ</color>ทันที แล้วใบไม้สลายทั้งหมด
+ExtraEffect.EsayDescription.1107441	<color=#d6b85b>เมื่อยิง:</color> มี<color=#99b7bb><link=\\"9035\\">โอกาสปรับตัว</link></color> 80% ได้รับ<color=#3dda4f>ใบไม้วิญญาณ</color> 1 ใบ เมื่อครบ 7 ใบ จะปล่อย<color=#a024ff>สกิลรบ</color> 2 ครั้งทันที แล้วใบไม้สลายทั้งหมด
+ExtraEffect.EsayDescription.1107412	ยิง<color=#3dda4f>กระบี่วิญญาณยักษ์</color>เจาะทะลุศัตรู สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 300
+ExtraEffect.EsayDescription.1107422	ยิง<color=#3dda4f>กระบี่วิญญาณยักษ์</color>เจาะทะลุศัตรู สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 360
+ExtraEffect.EsayDescription.1107432	ยิง<color=#3dda4f>กระบี่วิญญาณยักษ์</color>เจาะทะลุศัตรู สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 420
+ExtraEffect.EsayDescription.1107442	ยิง<color=#3dda4f>กระบี่วิญญาณยักษ์</color>เจาะทะลุศัตรู สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 540 และมีโอกาส 25% กระตุ้น<color=#3dda4f>กระบี่ผ่าฟ้า</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color>, <color=#11f7ef>เยือกแข็ง</color>, <color=#f7e301>สายฟ้า</color> อย่างละ 540 แก่ศัตรูทั้งหมด
+ExtraEffect.EsayDescription.1107541	เมื่อกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>: จะเพิ่ม<color=#11f7ef>เยือกแข็งเจาะทะลุ</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 500%\\n·ปล่อย<color=#11f7ef>เยือกแข็งเจาะทะลุ</color>ใส่ศัตรูที่ติด<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color> 1 ครั้งต่อวินาที
+ExtraEffect.EsayDescription.1107542	ปล่อย<color=#11f7ef>หนามน้ำแข็งล้างโลก</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 1800 และทำให้ศัตรู<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>ถาวร
+ExtraEffect.EsayDescription.1107641	เมื่อกระตุ้น<color=#3dda4f><link=\\"9014\\">[กัดกร่อน]</link></color>: ศัตรูติด<color=#3dda4f>[กาฬโรค]</color>ถาวร รับ<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color> 50% ต่อวินาที ซ้อนได้ไม่จำกัด\\n·เมื่อศัตรูที่ติด<color=#3dda4f>[กาฬโรค]</color>ตาย จะกระตุ้น<color=#3dda4f>ระเบิดกาฬโรค</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#3dda4f>กรด</color>แบบวงกว้าง 500% * จำนวนชั้นของ<color=#3dda4f>[กาฬโรค]</color>
+ExtraEffect.EsayDescription.1107642	ศัตรูทุกตัวที่ติด<color=#3dda4f>[กาฬโรค]</color>จะกระตุ้น<color=#3dda4f>ระเบิดกาฬโรค</color>ทันที 1 ครั้ง
+ExtraEffect.EsayDescription.1107741	<color=#d6b85b>เมื่อยิง:</color> กินกระสุนเพิ่ม 1 นัด ความเสียหายของนัดนี้ +300%\\n·<color=#d6b85b>เมื่อกินกระสุนครบ 10 นัด:</color> ปล่อย<color=#e92f2f>ปากตะกละ</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 3000% ของพลังโจมตีกระสุน
+ExtraEffect.EsayDescription.1107742	เรียก<color=#e92f2f>รอยแยกตะกละ</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 5400
+ExtraEffect.EsayDescription.1107841	<color=#f44f06>ความเสียหายเพลิง</color> +100%\\n·<color=#d6b85b>เมื่อเคลื่อนที่:</color> ทิ้ง<color=#f44f06>รอยบัวเพลิง</color>ไว้นาน 4 วินาที สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 300% ต่อวินาทีแก่ศัตรูที่อยู่ในรอย
+ExtraEffect.EsayDescription.1107842	สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 1500 แก่ศัตรูใน<color=#f44f06>รอยบัวเพลิง</color>ทันที และกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color> ทุก 1 ศัตรูที่โดน คูลดาวน์สกิลนี้ -1 วินาที
+ExtraEffect.EsayDescription.1107941	<color=#d6b85b>หลบ</color>: <color=#d6b85b>รีโหลด</color>เสร็จทันที\\n·<color=#d6b85b>รีโหลดตอนแม็กกาซีนเต็ม</color>: การยิงครั้งถัดไปยิงกระสุนเพิ่ม 1 นัด และความเสียหาย +100% ซ้อนได้สูงสุด 2 ชั้น
+ExtraEffect.EsayDescription.1107942	<color=#d6b85b>รีโหลด</color>เสร็จทันที 2 ครั้ง
+ExtraEffect.EsayDescription.1108111	<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> พลังโจมตีกระสุน +200% นาน 5 วินาที
+ExtraEffect.EsayDescription.1108121	<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> พลังโจมตีกระสุน +300% นาน 5 วินาที
+ExtraEffect.EsayDescription.1108131	<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> พลังโจมตีกระสุน +400% นาน 5 วินาที
+ExtraEffect.EsayDescription.1108141	<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> พลังโจมตีกระสุน +500% นาน 5 วินาที\\n·<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> รีเซ็ตคูลดาวน์สกิลรบทันที และสกิลรบครั้งถัดไปไม่เข้าคูลดาวน์
+ExtraEffect.EsayDescription.1108112	ยิง<color=#e92f2f>กระสุนหัวรู</color> สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 300 และฟื้นค่าท่าไม้ตาย 10%
+ExtraEffect.EsayDescription.1108122	ยิง<color=#e92f2f>กระสุนหัวรู</color> สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 360 และฟื้นค่าท่าไม้ตาย 10%
+ExtraEffect.EsayDescription.1108132	ยิง<color=#e92f2f>กระสุนหัวรู</color> สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 420 และฟื้นค่าท่าไม้ตาย 10%
+ExtraEffect.EsayDescription.1108142	ยิง<color=#e92f2f>กระสุนหัวรู</color> สร้าง<color=#e92f2f><color=#a024ff>ความเสียหายสกิลรบ</color>กายภาพ</color> 540 และฟื้นค่าท่าไม้ตาย 10% ทั้งยังนับเป็นความเสียหายกระสุนด้วย
+ExtraEffect.EsayDescription.1501001	ความเร็วเคลื่อนที่ +{0}%
+ExtraEffect.EsayDescription.1501002	อัตราคริติคอล +{0}%
+ExtraEffect.EsayDescription.1501003	ความเสียหายคริติคอล +{0}%
+ExtraEffect.EsayDescription.1501004	อัตรา<link=\\"9034\\">ทุบหนัก</link> +{0}%
+ExtraEffect.EsayDescription.1501005	ความเสียหายสุดท้าย +{0}%
+ExtraEffect.EsayDescription.1501006	ความจุแม็กกาซีน +{0}%
+ExtraEffect.EsayDescription.1501007	ความเร็วรีโหลด +{0}%
+ExtraEffect.EsayDescription.1501008	คูลดาวน์สกิลรบ -{0}%
+ExtraEffect.EsayDescription.1501009	อัตรายิง +{0}%
+ExtraEffect.EsayDescription.1501010	ความเร็วสะสมพลัง +{0}%
+ExtraEffect.EsayDescription.1501011	กระสุนมีโอกาส {0}% กระตุ้น [เลือดออก] ทันที
+ExtraEffect.EsayDescription.1501012	กระสุนมีโอกาส {0}% กระตุ้น [แช่แข็ง] ทันที
+ExtraEffect.EsayDescription.1501013	กระสุนมีโอกาส {0}% กระตุ้น [ปั่นป่วน] ทันที
+ExtraEffect.EsayDescription.1501014	กระสุนมีโอกาส {0}% กระตุ้น [กัดกร่อน] ทันที
+ExtraEffect.EsayDescription.1501015	กระสุนมีโอกาส {0}% กระตุ้น [ลุกไหม้] ทันที
+ExtraEffect.EsayDescription.1501016	การกระจายของอาวุธ -{0}%
+ExtraEffect.EsayDescription.1501017	อัตราสะสมท่าไม้ตาย +{0}%
+ExtraEffect.EsayDescription.1501018	กระสุนเพิ่มความเสียหายกายภาพ {0}%
+ExtraEffect.EsayDescription.1501019	กระสุนเพิ่มความเสียหายเยือกแข็ง {0}%
+ExtraEffect.EsayDescription.1501020	กระสุนเพิ่มความเสียหายสายฟ้า {0}%
+ExtraEffect.EsayDescription.1501021	กระสุนเพิ่มความเสียหายกรด {0}%
+ExtraEffect.EsayDescription.1501022	กระสุนเพิ่มความเสียหายเพลิง {0}%
+ExtraEffect.EsayDescription.1501023	ค่าสะสม<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color> +{0}%
+ExtraEffect.EsayDescription.1501024	ความเสียหายต่อศัตรูอีลิท +{0}%
+ExtraEffect.EsayDescription.1501025	การเด้ง +1
+ExtraEffect.EsayDescription.1501026	เจาะทะลุ +1
+ExtraEffect.EsayDescription.1501027	ลูกกระสุน +1
+ExtraEffect.EsayDescription.1501028	นัดแรก: มีโอกาส {0}% กระตุ้น [เลือดออก]
+ExtraEffect.EsayDescription.1501029	นัดแรก: มีโอกาส {0}% กระตุ้น [แช่แข็ง]
+ExtraEffect.EsayDescription.1501030	นัดแรก: มีโอกาส {0}% กระตุ้น [ปั่นป่วน]
+ExtraEffect.EsayDescription.1501031	นัดแรก: มีโอกาส {0}% กระตุ้น [กัดกร่อน]
+ExtraEffect.EsayDescription.1501032	นัดแรก: มีโอกาส {0}% กระตุ้น [ลุกไหม้]
+ExtraEffect.EsayDescription.1502001	ความเร็วเคลื่อนที่ +{0}%
+ExtraEffect.EsayDescription.1502002	อัตราคริติคอล +{0}%
+ExtraEffect.EsayDescription.1502003	ความเสียหายคริติคอล +{0}%
+ExtraEffect.EsayDescription.1502004	อัตรา<link=\\"9034\\">ทุบหนัก</link> +{0}%
+ExtraEffect.EsayDescription.1502005	ความเสียหายสุดท้าย +{0}%
+ExtraEffect.EsayDescription.1502006	ความจุแม็กกาซีน +{0}%
+ExtraEffect.EsayDescription.1502007	ความเร็วรีโหลด +{0}%
+ExtraEffect.EsayDescription.1502008	คูลดาวน์สกิลรบ -{0}%
+ExtraEffect.EsayDescription.1502009	อัตรายิง +{0}%
+ExtraEffect.EsayDescription.1502010	ความเร็วสะสมพลัง +{0}%
+ExtraEffect.EsayDescription.1502011	กระสุนมีโอกาส {0}% กระตุ้น [เลือดออก] ทันที
+ExtraEffect.EsayDescription.1502012	กระสุนมีโอกาส {0}% กระตุ้น [แช่แข็ง] ทันที
+ExtraEffect.EsayDescription.1502013	กระสุนมีโอกาส {0}% กระตุ้น [ปั่นป่วน] ทันที
+ExtraEffect.EsayDescription.1502014	กระสุนมีโอกาส {0}% กระตุ้น [กัดกร่อน] ทันที
+ExtraEffect.EsayDescription.1502015	กระสุนมีโอกาส {0}% กระตุ้น [ลุกไหม้] ทันที
+ExtraEffect.EsayDescription.1502016	การกระจายของอาวุธ -{0}%
+ExtraEffect.EsayDescription.1502017	อัตราสะสมท่าไม้ตาย +{0}%
+ExtraEffect.EsayDescription.1502018	กระสุนเพิ่มความเสียหายกายภาพ {0}%
+ExtraEffect.EsayDescription.1502019	กระสุนเพิ่มความเสียหายเยือกแข็ง {0}%
+ExtraEffect.EsayDescription.1502020	กระสุนเพิ่มความเสียหายสายฟ้า {0}%
+ExtraEffect.EsayDescription.1502021	กระสุนเพิ่มความเสียหายกรด {0}%
+ExtraEffect.EsayDescription.1502022	กระสุนเพิ่มความเสียหายเพลิง {0}%
+ExtraEffect.EsayDescription.1502023	ค่าสะสม<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color> +{0}%
+ExtraEffect.EsayDescription.1502024	ความเสียหายต่อศัตรูอีลิท +{0}%
+ExtraEffect.EsayDescription.1502025	การเด้ง +1
+ExtraEffect.EsayDescription.1502026	เจาะทะลุ +{0}
+ExtraEffect.EsayDescription.1502027	ลูกกระสุน +1
+ExtraEffect.EsayDescription.1502028	นัดแรก: มีโอกาส {0}% กระตุ้น [เลือดออก]
+ExtraEffect.EsayDescription.1502029	นัดแรก: มีโอกาส {0}% กระตุ้น [แช่แข็ง]
+ExtraEffect.EsayDescription.1502030	นัดแรก: มีโอกาส {0}% กระตุ้น [ปั่นป่วน]
+ExtraEffect.EsayDescription.1502031	นัดแรก: มีโอกาส {0}% กระตุ้น [กัดกร่อน]
+ExtraEffect.EsayDescription.1502032	นัดแรก: มีโอกาส {0}% กระตุ้น [ลุกไหม้]
+ExtraEffect.EsayDescription.1503001	ความเร็วเคลื่อนที่ +{0}%
+ExtraEffect.EsayDescription.1503002	อัตราคริติคอล +{0}%
+ExtraEffect.EsayDescription.1503003	ความเสียหายคริติคอล +{0}%
+ExtraEffect.EsayDescription.1503004	อัตรา<link=\\"9034\\">ทุบหนัก</link> +{0}%
+ExtraEffect.EsayDescription.1503005	ความเสียหายสุดท้าย +{0}%
+ExtraEffect.EsayDescription.1503006	ความจุแม็กกาซีน +{0}%
+ExtraEffect.EsayDescription.1503007	ความเร็วรีโหลด +{0}%
+ExtraEffect.EsayDescription.1503008	คูลดาวน์สกิลรบ -{0}%
+ExtraEffect.EsayDescription.1503009	อัตรายิง +{0}%
+ExtraEffect.EsayDescription.1503010	ความเร็วสะสมพลัง +{0}%
+ExtraEffect.EsayDescription.1503011	กระสุนมีโอกาส {0}% กระตุ้น [เลือดออก] ทันที
+ExtraEffect.EsayDescription.1503012	กระสุนมีโอกาส {0}% กระตุ้น [แช่แข็ง] ทันที
+ExtraEffect.EsayDescription.1503013	กระสุนมีโอกาส {0}% กระตุ้น [ปั่นป่วน] ทันที
+ExtraEffect.EsayDescription.1503014	กระสุนมีโอกาส {0}% กระตุ้น [กัดกร่อน] ทันที
+ExtraEffect.EsayDescription.1503015	กระสุนมีโอกาส {0}% กระตุ้น [ลุกไหม้] ทันที
+ExtraEffect.EsayDescription.1503016	การกระจายของอาวุธ -{0}%
+ExtraEffect.EsayDescription.1503017	อัตราสะสมท่าไม้ตาย +{0}%
+ExtraEffect.EsayDescription.1503018	กระสุนเพิ่มความเสียหายกายภาพ {0}%
+ExtraEffect.EsayDescription.1503019	กระสุนเพิ่มความเสียหายเยือกแข็ง {0}%
+ExtraEffect.EsayDescription.1503020	กระสุนเพิ่มความเสียหายสายฟ้า {0}%
+ExtraEffect.EsayDescription.1503021	กระสุนเพิ่มความเสียหายกรด {0}%
+ExtraEffect.EsayDescription.1503022	กระสุนเพิ่มความเสียหายเพลิง {0}%
+ExtraEffect.EsayDescription.1503023	ค่าสะสม<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color> +{0}%
+ExtraEffect.EsayDescription.1503024	ความเสียหายต่อศัตรูอีลิท +{0}%
+ExtraEffect.EsayDescription.1503025	การเด้ง +{0}
+ExtraEffect.EsayDescription.1503026	เจาะทะลุ +{0}
+ExtraEffect.EsayDescription.1503027	ลูกกระสุน +{0}
+ExtraEffect.EsayDescription.1503028	นัดแรก: มีโอกาส {0}% กระตุ้น [เลือดออก]
+ExtraEffect.EsayDescription.1503029	นัดแรก: มีโอกาส {0}% กระตุ้น [แช่แข็ง]
+ExtraEffect.EsayDescription.1503030	นัดแรก: มีโอกาส {0}% กระตุ้น [ปั่นป่วน]
+ExtraEffect.EsayDescription.1503031	นัดแรก: มีโอกาส {0}% กระตุ้น [กัดกร่อน]
+ExtraEffect.EsayDescription.1503032	นัดแรก: มีโอกาส {0}% กระตุ้น [ลุกไหม้]
+ExtraEffect.EsayDescription.1504001	ความเร็วเคลื่อนที่ +{0}%
+ExtraEffect.EsayDescription.1504002	อัตราคริติคอล +{0}%
+ExtraEffect.EsayDescription.1504003	ความเสียหายคริติคอล +{0}%
+ExtraEffect.EsayDescription.1504004	อัตรา<link=\\"9034\\">ทุบหนัก</link> +{0}%
+ExtraEffect.EsayDescription.1504005	ความเสียหายสุดท้าย +{0}%
+ExtraEffect.EsayDescription.1504006	ความจุแม็กกาซีน +{0}%
+ExtraEffect.EsayDescription.1504007	ความเร็วรีโหลด +{0}%
+ExtraEffect.EsayDescription.1504008	คูลดาวน์สกิลรบ -{0}%
+ExtraEffect.EsayDescription.1504009	อัตรายิง +{0}%
+ExtraEffect.EsayDescription.1504010	ความเร็วสะสมพลัง +{0}%
+ExtraEffect.EsayDescription.1504011	กระสุนมีโอกาส {0}% กระตุ้น [เลือดออก] ทันที
+ExtraEffect.EsayDescription.1504012	กระสุนมีโอกาส {0}% กระตุ้น [แช่แข็ง] ทันที
+ExtraEffect.EsayDescription.1504013	กระสุนมีโอกาส {0}% กระตุ้น [ปั่นป่วน] ทันที
+ExtraEffect.EsayDescription.1504014	กระสุนมีโอกาส {0}% กระตุ้น [กัดกร่อน] ทันที
+ExtraEffect.EsayDescription.1504015	กระสุนมีโอกาส {0}% กระตุ้น [ลุกไหม้] ทันที
+ExtraEffect.EsayDescription.1504016	การกระจายของอาวุธ -{0}%
+ExtraEffect.EsayDescription.1504017	อัตราสะสมท่าไม้ตาย +{0}%
+ExtraEffect.EsayDescription.1504018	กระสุนเพิ่มความเสียหายกายภาพ {0}%
+ExtraEffect.EsayDescription.1504019	กระสุนเพิ่มความเสียหายเยือกแข็ง {0}%
+ExtraEffect.EsayDescription.1504020	กระสุนเพิ่มความเสียหายสายฟ้า {0}%
+ExtraEffect.EsayDescription.1504021	กระสุนเพิ่มความเสียหายกรด {0}%
+ExtraEffect.EsayDescription.1504022	กระสุนเพิ่มความเสียหายเพลิง {0}%
+ExtraEffect.EsayDescription.1504023	ค่าสะสม<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color> +{0}%
+ExtraEffect.EsayDescription.1504024	ความเสียหายต่อศัตรูอีลิท +{0}%
+ExtraEffect.EsayDescription.1504025	การเด้ง +{0}
+ExtraEffect.EsayDescription.1504026	เจาะทะลุ +{0}
+ExtraEffect.EsayDescription.1504027	ลูกกระสุน +{0}
+ExtraEffect.EsayDescription.1504028	นัดแรก: มีโอกาส {0}% กระตุ้น [เลือดออก]
+ExtraEffect.EsayDescription.1504029	นัดแรก: มีโอกาส {0}% กระตุ้น [แช่แข็ง]
+ExtraEffect.EsayDescription.1504030	นัดแรก: มีโอกาส {0}% กระตุ้น [ปั่นป่วน]
+ExtraEffect.EsayDescription.1504031	นัดแรก: มีโอกาส {0}% กระตุ้น [กัดกร่อน]
+ExtraEffect.EsayDescription.1504032	นัดแรก: มีโอกาส {0}% กระตุ้น [ลุกไหม้]
+ExtraEffect.EsayDescription.1505031	มีโอกาส 20% ยิงโดยไม่เปลืองกระสุน
+ExtraEffect.EsayDescription.1505041	ความเสียหาย +50% การกระจายของอาวุธ +50%
+ExtraEffect.EsayDescription.1505071	อัตรายิง +20% ความเร็วรีโหลด +20%
+ExtraEffect.EsayDescription.1505081	ความเสียหาย +20% เพิ่มแรงผลักของกระสุนอย่างมาก
+ExtraEffect.EsayDescription.1505082	-
+ExtraEffect.EsayDescription.1505091	ลูกกระสุน +2 ความเสียหายของลูกกระสุนส่วนเพิ่ม +20%
+ExtraEffect.EsayDescription.1505092	-
+ExtraEffect.EsayDescription.1505111	เจาะทะลุศัตรูได้ทุกตัว
+ExtraEffect.EsayDescription.1505131	การเด้ง +2 เด้งกลับมาโดนตัวเองได้
+ExtraEffect.EsayDescription.1505161	ความเสียหายสุดท้าย +100% ความเสียหายที่ได้รับ +100%
+ExtraEffect.EsayDescription.1505171	กระสุนเพิ่มความเสียหายจริง 20%
+ExtraEffect.EsayDescription.1505191	กระสุนมีโอกาส 5% กระตุ้น [เลือดออก] ทันที
+ExtraEffect.EsayDescription.1505201	กระสุนมีโอกาส 5% กระตุ้น [แช่แข็ง] ทันที
+ExtraEffect.EsayDescription.1505211	กระสุนมีโอกาส 5% กระตุ้น [ปั่นป่วน] ทันที
+ExtraEffect.EsayDescription.1505221	กระสุนมีโอกาส 5% กระตุ้น [กัดกร่อน] ทันที
+ExtraEffect.EsayDescription.1505231	กระสุนมีโอกาส 5% กระตุ้น [ลุกไหม้] ทันที
+ExtraEffect.EsayDescription.1505241	นัดแรก: มีโอกาส 15% กระตุ้น [เลือดออก]
+ExtraEffect.EsayDescription.1505251	นัดแรก: มีโอกาส 15% กระตุ้น [แช่แข็ง]
+ExtraEffect.EsayDescription.1505261	นัดแรก: มีโอกาส 15% กระตุ้น [ปั่นป่วน]
+ExtraEffect.EsayDescription.1505271	นัดแรก: มีโอกาส 15% กระตุ้น [กัดกร่อน]
+ExtraEffect.EsayDescription.1505281	นัดแรก: มีโอกาส 15% กระตุ้น [ลุกไหม้]
+ExtraEffect.EsayDescription.1505511	เมื่อยิง: มีโอกาส 30% กระตุ้นยิงคู่
+ExtraEffect.EsayDescription.1505521	เมื่อใช้ท่าไม้ตาย: วีรบุรุษจะให้ยืมดวงของเขา
+ExtraEffect.EsayDescription.1505531	ความเร็วทั้งหมดของคุณ +50%
+ExtraEffect.EsayDescription.1505541	ทุก 1 เรลิคตำนาน ความเสียหายสุดท้าย +20%
+ExtraEffect.EsayDescription.1505551	น้องสาวของแอมเบอร์มาเล่นกับคุณ
+ExtraEffect.EsayDescription.1505561	กระสุนเพิ่มลูกหน้าไม้ สร้างความเสียหาย 150% ของพลังโจมตีกระสุน
+ExtraEffect.EsayDescription.1505571	อัตราคริติคอลส่วนเกินจะแปลงเป็นความเสียหายคริติคอล 300%
+ExtraEffect.EsayDescription.1505581	ออกจากโรงงานใหม่เอี่ยม ดาเมจต่อวินาทีของอาวุธ +100%
+ExtraEffect.EsayDescription.1505591	เอฟเฟกต์ของอัฟฟิกซ์ธรรมดาคูณสอง
+ExtraEffect.EsayDescription.1505601	ความเสียหายแปรปรวน +300%
+ExtraEffect.EsayDescription.1505611	ความเสียหายสกิลรบ +300%
+ExtraEffect.EsayDescription.1505621	รัวๆๆ... บ้าคลั่งสุดขีด!!!
+ExtraEffect.EsayDescription.1505631	ปืนปีศาจดูดเลือด
+ExtraEffect.EsayDescription.1505641	อำนาจยิงไม่จำกัด
+ExtraEffect.EsayDescription.1505651	ความเสียหายเพลิง +100%
+ExtraEffect.EsayDescription.1505661	ความเสียหายเยือกแข็ง +100%
+ExtraEffect.EsayDescription.1505671	ความเสียหายกรด +100%
+ExtraEffect.EsayDescription.1505681	ความเสียหายสายฟ้า +100%
+ExtraEffect.EsayDescription.1505691	ความเสียหายกายภาพ +100%
+ExtraEffect.EsayDescription.1505701	สุริยะแห่งโทสะ
+ExtraEffect.EsayDescription.1505711	ธารเยือกแข็ง
+ExtraEffect.EsayDescription.1505721	โนวาพิษ
+ExtraEffect.EsayDescription.1505731	ดาราแห่งการทำลาย
+ExtraEffect.EsayDescription.1505741	หอกสังหารมังกร
+ExtraEffect.EsayDescription.1505751	ลำแสงมรณะโกลาหล
+ExtraEffect.EsayDescription.1505761	[แตกสลาย]: ด่านถัดไปจะไปยังแดนลับ!
+ExtraEffect.EsayDescription.1505762	[แตกสลาย]: ด่านถัดไปจะไปยังแดนลับ!
+ExtraEffect.EsayDescription.1505763	[แตกสลาย]: ด่านถัดไปจะไปยังแดนลับ!
+ExtraEffect.EsayDescription.1505771	เงินคืออำนาจ!
+ExtraEffect.EsayDescription.1505781	นักรบขีดสุด
+ExtraEffect.EsayDescription.1505791	ปืนใหญ่กระจก
+ExtraEffect.EsayDescription.1505801	เอฟเฟกต์ [ออกเดินทาง] ทำงานเพิ่ม 1 ครั้ง
+ExtraEffect.EsayDescription.1505811	เอฟเฟกต์ [ปลายทาง] ทำงานเพิ่ม 1 ครั้ง
+ExtraEffect.EsayDescription.1505821	เอฟเฟกต์ [แตกสลาย] ทำงานเพิ่ม 1 ครั้ง
+ExtraEffect.EsayDescription.1505831	โทสะของโปรแกรมเมอร์!
+ExtraEffect.EsayDescription.1505841	อัฟฟิกซ์อาวุธแดง 34
+ExtraEffect.EsayDescription.1505851	อัฟฟิกซ์อาวุธแดง 35
+ExtraEffect.EsayDescription.1505861	อัฟฟิกซ์อาวุธแดง 36
+ExtraEffect.EsayDescription.1505871	อัฟฟิกซ์อาวุธแดง 37
+ExtraEffect.EsayDescription.1505881	อัฟฟิกซ์อาวุธแดง 38
+ExtraEffect.EsayDescription.1505891	อัฟฟิกซ์อาวุธแดง 39
+ExtraEffect.EsayDescription.1505901	อัฟฟิกซ์อาวุธแดง 40
+ExtraEffect.EsayDescription.1500001	นี่คืออาวุธเริ่มต้น
+ExtraEffect.EsayDescription.90101	ความเสียหายสุดท้าย +5%
+ExtraEffect.EsayDescription.90102	พลังชีวิตพื้นฐาน +5%
+ExtraEffect.EsayDescription.90201	ซื้อยาฟรีได้ 1 ครั้งในทุกร้านค้า
+ExtraEffect.EsayDescription.90202	เปิดหีบสมบัติครั้งแรก ได้รับ 15 เหรียญ
+ExtraEffect.EsayDescription.90203	เข้าร้านค้า ฟื้นพลังชีวิตที่เสียไป 25%
+ExtraEffect.EsayDescription.90301	ความเสียหายคริติคอล +20%
+ExtraEffect.EsayDescription.90302	อัตราคริติคอล +5% อัตรา<link=\\"9034\\">ทุบหนัก</link> +5%
+ExtraEffect.EsayDescription.90303	ความเร็วเคลื่อนที่ +8%
+ExtraEffect.EsayDescription.90304	ความเสียหายที่ได้รับทั้งหมด -5%
+ExtraEffect.EsayDescription.90401	อัตราสะสมท่าไม้ตาย +15%
+ExtraEffect.EsayDescription.90402	แผงขายเรลิคในร้านค้า +1
+ExtraEffect.EsayDescription.90403	เข้าร้านค้า ได้รับ <color=#d6b85b>[เกราะ]</color> 10
+ExtraEffect.EsayDescription.90501	<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> อัตราคริติคอล +25% นาน 8 วินาที
+ExtraEffect.EsayDescription.90502	ความเสียหายสกิลรบ +15%
+ExtraEffect.EsayDescription.90503	พลังโจมตีกระสุน +15%
+ExtraEffect.EsayDescription.90504	กำจัดบอส มีโอกาส 10% ดรอปเรลิคปริศนาเพิ่ม 1 ชิ้น
+ExtraEffect.EsayDescription.90505	ถ้าไม่ได้รับความเสียหายนาน 5 วินาที ความเร็วเคลื่อนที่ +15%
+ExtraEffect.EsayDescription.90506	[เตรียมพร้อมใหม่] ได้รับ <color=#d6b85b>[เกราะ]</color> เพิ่ม 5
+ExtraEffect.EsayDescription.90507	ก่อนได้รับความเสียหาย: ถ้าพลังชีวิตต่ำกว่า 50% จะสร้างฟองป้องกันนาน 3 วินาที ผู้เล่นในฟองป้องกันจะไม่รับความเสียหายใดๆ จำกัด 1 ครั้งต่อด่าน
+ExtraEffect.EsayDescription.905021	ความเสียหายสกิลรบ +30%
+ExtraEffect.EsayDescription.905031	ความเสียหายจากการยิง +30%
+ExtraEffect.EsayDescription.905041	กำจัดบอส มีโอกาส 20% ดรอปเรลิคปริศนาเพิ่ม 1 ชิ้น
+ExtraEffect.EsayDescription.905051	ถ้าไม่ได้รับความเสียหายนาน 5 วินาที ความเร็วเคลื่อนที่ +30%
+ExtraEffect.EsayDescription.905061	[เตรียมพร้อมใหม่] ได้รับ <color=#d6b85b>[เกราะ]</color> เพิ่ม 10
+ExtraEffect.EsayDescription.90601	<color=#d6b85b>เมื่อกระตุ้น<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color>:</color> มีโอกาส 10% สร้างความเสียหายธาตุอาวุธปัจจุบัน 260% แก่ศัตรู ความเสียหายนี้ได้รับผลจากโบนัสความเสียหายสกิลรบ
+ExtraEffect.EsayDescription.90602	อัตราดรอปไอเทม<color=#b41cf4>มหากาพย์</color> +10%
+ExtraEffect.EsayDescription.90603	เมื่อพลังชีวิตต่ำกว่า 30% ได้รับเอฟเฟกต์ [สู้เพื่ออยู่รอด]: กระสุนโดนศัตรูจะฟื้นพลังชีวิต 1% ของสูงสุด สูงสุด 1 ครั้งต่อวินาที
+ExtraEffect.EsayDescription.90701	คูลดาวน์สกิลรบ -10%
+ExtraEffect.EsayDescription.90702	อัตรายิง +15% ความเร็วรีโหลด +15%
+ExtraEffect.EsayDescription.90703	เมื่อเข้าจุดพัก มีโอกาส 25% ได้รับอาวุธหรือชิ้นส่วนอาวุธปริศนา 1 ชิ้น
+ExtraEffect.EsayDescription.90704	เมื่อเข้าจุดพัก มีโอกาส 25% ได้รับเรลิคปริศนา 1 ชิ้น
+ExtraEffect.EsayDescription.90705	กำจัดบอส ฟื้นพลังชีวิตที่เสียไป 10%
+ExtraEffect.EsayDescription.90706	ขณะอยู่ในสถานะ [สู้เพื่ออยู่รอด] ความเสียหายที่ได้รับ -10%
+ExtraEffect.EsayDescription.907011	คูลดาวน์สกิลรบ -20%
+ExtraEffect.EsayDescription.907021	อัตรายิง +30% ความเร็วรีโหลด +30%
+ExtraEffect.EsayDescription.907031	เมื่อเข้าจุดพัก มีโอกาส 50% ได้รับอาวุธหรือชิ้นส่วนอาวุธปริศนา 1 ชิ้น
+ExtraEffect.EsayDescription.907041	เมื่อเข้าจุดพัก มีโอกาส 50% ได้รับเรลิคปริศนา 1 ชิ้น
+ExtraEffect.EsayDescription.907051	กำจัดบอส ฟื้นพลังชีวิตที่เสียไป 20%
+ExtraEffect.EsayDescription.907061	ขณะอยู่ในสถานะ [สู้เพื่ออยู่รอด] ความเสียหายที่ได้รับ -20%
+ExtraEffect.EsayDescription.90801	เมื่อเกิด [เจาะจุดอ่อน] คูลดาวน์สกิลรบปัจจุบัน -20%
+ExtraEffect.EsayDescription.90802	เมื่อเกิด [เจาะจุดอ่อน] โบนัสจาก [มือปืนไว] คูณสอง นาน 3 วินาที
+ExtraEffect.EsayDescription.90803	เมื่อเปิดหีบในห้องอาวุธและชิ้นส่วนอาวุธ สามารถสละรางวัลเพื่อรีเฟรชอัฟฟิกซ์ของอาวุธหลักแทนได้
+ExtraEffect.EsayDescription.90804	เมื่อเลือกเรลิค รีเฟรชได้ 1 ครั้ง
+ExtraEffect.EsayDescription.90805	เอฟเฟกต์ของ [นักล่าอาบเลือด] +50%
+ExtraEffect.EsayDescription.90806	[สู้เพื่ออยู่รอด] เปลี่ยนเป็นกระตุ้นเมื่อพลังชีวิตต่ำกว่า 50%
+ExtraEffect.EsayDescription.90901	โอกาสกระตุ้น [เจาะจุดอ่อน] +10%
+ExtraEffect.EsayDescription.90902	เมื่อเริ่มเกม ได้รับยาสมปรารถนา 1 ขวด
+ExtraEffect.EsayDescription.90903	เมื่อล้มลง ฟื้นคืนชีพด้วยพลังชีวิต 30% ของสูงสุด (จำกัด 1 ครั้งต่อเกม)
+ExtraEffect.EsayDescription.91001	ความเสียหายสุดท้าย +30% (อัปเกรดได้ไม่จำกัด แต่การอัปเกรดหลังจากนี้ให้แค่ +1% ต่อเลเวล)
+ExtraEffect.EsayDescription.91002	พลังชีวิตพื้นฐาน +30% (อัปเกรดได้ไม่จำกัด แต่การอัปเกรดหลังจากนี้ให้แค่ +1% ต่อเลเวล)
