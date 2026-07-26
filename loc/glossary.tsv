@@ -1,0 +1,283 @@
+# Shared terms. english<TAB>thai<TAB>note
+# Append anything a later batch will also hit. Weapons, stats and status effects recur everywhere.
+
+# --- core nouns ---
+Relic	เรลิค	tarot-themed passive items; keep as a loanword, ศักดิ์สิทธิ์/วัตถุมงคล reads far too solemn
+Pearl	ไข่มุก
+Weapon Part	ชิ้นส่วนอาวุธ
+Weapon	อาวุธ
+Item	ไอเทม
+Tarot	ไพ่ทาโรต์
+Chapter	บท
+Boss	บอส
+Skill	สกิล
+Talent	พรสวรรค์
+Buff	บัฟ
+Debuff	ดีบัฟ
+
+# --- stats ---
+Health	พลังชีวิต
+HP	HP	leave the abbreviation alone in cramped stat rows
+Damage	ความเสียหาย
+Attack	โจมตี
+Defense	ป้องกัน
+Speed	ความเร็ว
+Critical Rate	อัตราคริติคอล
+Critical Damage	ความเสียหายคริติคอล
+Range	ระยะ
+Reload	รีโหลด
+Ammo	กระสุน
+Cooldown	คูลดาวน์
+Melee	ประชิด
+Ranged	ระยะไกล
+
+# --- status effects ---
+Poison	พิษ
+Burn	เผาไหม้
+Freeze	แช่แข็ง
+Stun	สตัน
+Bleed	เลือดออก
+Shield	โล่
+
+# --- UI verbs ---
+Confirm	ยืนยัน
+Cancel	ยกเลิก
+Back	ย้อนกลับ
+Continue	เล่นต่อ
+Settings	ตั้งค่า
+Quit	ออก
+Save	บันทึก
+Load	โหลด
+Equip	สวมใส่
+Upgrade	อัปเกรด
+Reroll	สุ่มใหม่
+Skip	ข้าม
+Ready	พร้อม
+Unlock	ปลดล็อก
+Refresh	รีเฟรช
+Activate	เปิดใช้	shorter than เปิดใช้งาน; "Activated" = เปิดใช้แล้ว, "Not Activated" = ยังไม่เปิดใช้
+Pick Up	เก็บ
+Interact	โต้ตอบ
+Share	แชร์
+Drop	ทิ้ง
+Dismantle	แยกชิ้นส่วน
+Details	รายละเอียด
+Hold to …	กดค้างเพื่อ…
+
+# --- set by loc/th/gameui.tsv (batch 1) — keep these ---
+Effect	เอฟเฟกต์	never ผลกระทบ; the game says "effects" constantly (particles + item effects)
+DMG	ดาเมจ	only for the abbreviated form; spelled-out "Damage" stays ความเสียหาย
+Ultimate	ท่าไม้ตาย
+Battle Skill	สกิลรบ
+Passive Effect	เอฟเฟกต์พาสซีฟ
+Basic Skill	สกิลพื้นฐาน
+Charge	สะสมพลัง
+Dodge	หลบ	源 翻滚 is a roll, but หลบ reads better on a button
+Specialization	ความชำนาญ	Novice/Advanced/Epic/Legendary → ขั้นต้น/ขั้นสูง/เอปิก/ตำนาน
+Squad / Team	ทีม	Squad Level = เลเวลทีม, Squad Skill Points = แต้มสกิลทีม
+Level	เลเวล	the stat/rank; "Reach Level" = ถึงเลเวล
+Points	แต้ม	skill/talent points
+Camp	แคมป์
+Run	รอบ	one roguelike run; "Start a New Run" = เล่นอีกรอบ
+Coins	เหรียญ
+Inventory	กระเป๋า
+Story Fragment	เศษเรื่องราว
+Hunter's Notes	บันทึกนักล่า
+Item Encyclopedia	สารานุกรมไอเทม
+Emote	อิโมท
+Forge	หลอม	Forge Station = แท่นหลอม, Forbidden Forging = หลอมต้องห้าม
+Distortion	การบิดเบือน	畸变; Distortion Node = จุดบิดเบือน
+Bullet Attack	พลังโจมตีกระสุน
+Final DMG	ความเสียหายสุดท้าย
+Elemental Damage	ความเสียหายธาตุ
+Act	องก์	chapter headings: "Act I" = องก์ที่ 1
+
+# --- rarity tiers: see the weapon-batch block below for Common/Rare/Epic/Legendary ---
+Mythic	มิธิค	神话, the tier above Legendary
+
+# --- difficulty tiers (the in-game difficulty picker, in order) ---
+Journey	เดินเล่น	逸旅, the easiest tier
+Common	ธรรมดา
+Hard	ยาก
+Hell	นรก
+Nightmare	ฝันร้าย
+Reality	ความจริง
+
+# --- elements: see the weapon-batch block below. Note Freeze != Frost:
+# Freeze (冻结, the status) = แช่แข็ง; Frost (the element) = เยือกแข็ง; Ice = น้ำแข็ง
+
+# --- damage-type nouns (used as "<type> DMG") ---
+Hemorrhage	เลือดออก
+Disruption	ปั่นป่วน
+Corrosion	กัดกร่อน
+Ignition	ลุกไหม้
+Transmutation	แปรปรวน	异常
+
+# --- multiplayer ---
+Lobby / Room	ห้อง
+Host	โฮสต์
+Lobby Code	รหัสห้อง
+Single Player	เล่นคนเดียว
+Multiplayer	เล่นหลายคน
+Reconnect	เชื่อมต่อใหม่
+
+# --- proper nouns ---
+Wavelock	เวฟล็อก
+Alicia	อลิเซีย
+Ella	เอลลา
+Holy Sun Calendar	ศักราชสุริยัน	圣阳历
+
+# --- added by the weapon / weapon-part / item batch ---
+
+# rarity tiers (appear as bare words AND inside <color> tags)
+Common	ธรรมดา
+Rare	หายาก
+Epic	มหากาพย์
+Legendary	ตำนาน
+Quality	คุณภาพ
+
+# elements — these five recur on relics, weapons, potions, shop text
+Element	ธาตุ
+Physical	กายภาพ
+Frost	เยือกแข็ง	Frost is เยือกแข็ง, plain Ice is น้ำแข็ง — keep them apart
+Lightning	สายฟ้า
+Acid	กรด
+Fire	เพลิง	ไฟ only where เพลิง is too heavy (Ember Spark ประกายไฟ)
+Ice	น้ำแข็ง
+
+# weapon stats
+Fire Rate	อัตรายิง
+Reload Speed	ความเร็วรีโหลด
+Movement Speed	ความเร็วเคลื่อนที่
+Armor	เกราะ	source EN says Armor, ZH says 护盾 shield; เกราะ, not โล่
+Critical Chance	อัตราคริติคอล
+Final Damage	ความเสียหายสุดท้าย
+Damage Taken	ความเสียหายที่ได้รับ
+Projectile	ลูกกระสุน
+Drop Rate	อัตราดรอป
+Stacks	ชั้น	"Stacks +10" -> "+10 ชั้น"
+permanently	ถาวร	trails the number: "อัตรายิง +20% ถาวร"
+Restore	ฟื้น
+
+# named mechanics / status keywords (wrapped in <link> tags in-game)
+Smite	ทุบหนัก
+Ember	เถ้าเพลิง	Ashes (the weapon) is เถ้าถ่าน — different word on purpose
+Growth	เติบโต
+
+# item / economy nouns
+Potion	ยา	prefix, not ยาน้ำ/น้ำยา — "Fire Rate Potion" -> "ยาอัตรายิง"
+Unidentified	ปริศนา	suffix: "Unidentified Relic" -> "เรลิคปริศนา"
+Coin	เหรียญ
+Shop	ร้านค้า
+Refresh	รีเฟรช
+Inventory	กระเป๋า
+Hunter's Notes	บันทึกนักล่า
+run (one playthrough)	เกม	"clearing a run" -> "ผ่านเกม"
+
+# recurring weapon nouns
+Dominator	อัศวิน	the Four Horsemen set; ZH says 骑士 knight
+Musket	ปืนคาบศิลา
+Crossbow	หน้าไม้
+Cannon	ปืนใหญ่
+Bow	ธนู
+Barrel	ลำกล้อง
+Magazine	แม็กกาซีน
+Bulwark	ป้อมปราการ
+Overload	โอเวอร์โหลด
+
+# --- added by the character / area / difficulty batch ---
+
+# people — transliterated by ear, use these exact spellings in dialogue
+Jester	เจสเตอร์
+Lanny	แลนนี
+Marcus	มาร์คัส
+Jenny	เจนนี
+Elena	เอเลนา
+Long Tong	หลงถง	ZH 龙瞳, a Chinese name — read from the pinyin, not the English
+Stella	สเตลลา
+Lily	ลิลี่	Priestess Lily -> นักบวชลิลี่
+Labi	ลาบี
+Hotty	ฮ็อตตี้	ZH 小哈提
+Ella	เอลลา
+Alicia	อลิเซีย
+Raven	เรเวน	Scholar Raven -> นักปราชญ์เรเวน
+Lorelei	โลเรไล
+Wavelock	เวฟล็อค	the city; shows up in half the map names
+
+# recurring role nouns — these build most enemy names
+Hunter	นักล่า	the player's profession, 80+ hits in the source
+the Order	ลัทธิ	suffix แห่งลัทธิ on enemies: The Order Priest -> นักบวชแห่งลัทธิ
+Witch	แม่มด
+Priest	นักบวช	ZH 神官
+Priest (clergyman)	บาทหลวง	ZH 教士 — only Priest Wraith; kept apart from นักบวช on purpose
+Sister (nun)	แม่ชี
+Cardinal	คาร์ดินัล
+Wraith	วิญญาณ	prefix: Merchant Wraith -> วิญญาณพ่อค้า
+Corrupted	เสื่อมทราม	suffix: Corrupted Captain -> กัปตันเสื่อมทราม
+Revived	คืนชีพ	suffix: Revived Priest -> นักบวชคืนชีพ
+Chimera	ไคเมร่า
+Slime	สไลม์
+Mimic	มิมิก
+Iron Maiden	ไอรอนเมเดน
+Frost Mage	จอมเวทเยือกแข็ง
+Merchant	พ่อค้า
+Diviner	หมอดู
+Quartermaster	นายทหารเสบียง
+Alchemist	นักเล่นแร่แปรธาตุ
+Blacksmith	ช่างตีเหล็ก
+Chest	หีบสมบัติ
+
+# areas
+Temporary Camp	ค่ายชั่วคราว
+Seabreeze Woods	ป่าลมทะเล
+Seabreeze Village	หมู่บ้านลมทะเล
+Crossroads	สี่แยก
+Gate Bridge	สะพานประตูเมือง
+King's Avenue	ถนนราชา
+Lower Residences	ย่านที่พักเมืองล่าง
+Upper Residences	ย่านที่พักเมืองบน
+Harbor Market	ย่านการค้าท่าเรือ
+Air Harbor	ท่าอากาศ	Wavelock Air Harbor -> ท่าอากาศเวฟล็อค
+Fortress	ป้อม	Short on purpose; Wavelock Fortress -> ป้อมเวฟล็อค
+Fortress Sewer	ท่อระบายป้อม
+Specimen Disposal Facility	ที่ทิ้งตัวอย่างทดลอง
+Wavelock Laboratory	ห้องแล็บเวฟล็อค
+Chaos Quarry	เหมืองโกลาหล
+Throne Chamber	ห้องบัลลังก์
+Sky Corridor	ระเบียงลอยฟ้า
+Sky Garden	สวนลอยฟ้า
+Ritual Hall	หอพิธีกรรม
+Secret Passage	ทางลับ
+Secret Realm	แดนลับ	ZH 秘境 / 大秘藏; Secret Realm Chest -> หีบสมบัติแดนลับ
+The Order Fleet	กองเรือลัทธิ
+
+# difficulty tiers and run systems
+Journey	เดินทาง	easiest tier
+Common (difficulty)	ปกติ	ZH 普通 — the rarity tier Common stays ธรรมดา
+Hard	ยาก
+Nightmare	ฝันร้าย
+Hell	นรก
+Reality	ความจริง	hardest tier
+Chaos Battle Scar	รอยแผลโกลาหล	counted with รอย: "เผยรอยแผลโกลาหล 2 รอย"; also in gameui.tsv
+Soul Gem	โซลเจม	ZH 红魂
+Calamity	ภัยพิบัติ
+Squad	ทีม
+Talent Tree	ต้นไม้พรสวรรค์
+Emote Wheel	วงล้ออีโมท
+Orb Board	กระดานลูกแก้ว	ZH 宝珠盘 — orb here is 宝珠, not the ไข่มุก Pearl
+Buildup	ค่าสะสม	"[Freeze] Buildup" -> "[แช่แข็ง] ค่าสะสม"
+
+# status buildups (c_fightingattributes)
+Hemorrhage	เลือดออก	same word as Bleed
+Disruption	ปั่นป่วน
+Corrosion	กัดกร่อน
+Ignition	ลุกไหม้
+
+# NPC interaction verbs
+Talk	พูดคุย
+Inspect	ดู
+Eavesdrop	แอบฟัง
+Forge	ตีอาวุธ
+Divine (verb)	ทำนาย
+Rescue	ปลดปล่อย
+Embark	ออกเดินทาง

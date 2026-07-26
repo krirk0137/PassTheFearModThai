@@ -4,9 +4,11 @@ docs/
 CLAUDE.md
 
 # --- the game's own text ---------------------------------------------------
-# source.tsv holds the game's English and Chinese script verbatim, extracted from the
-# install. The Thai translation is ours to publish; the original script is not.
+# These hold the game's English and Chinese script verbatim, extracted from the install.
+# The Thai translation is ours to publish; the original script is not.
 loc/source.tsv
+loc/source/
+loc/source_parts/
 
 # --- generated output ------------------------------------------------------
 # Unpacked/decrypted game data. Multi-GB, and not ours to redistribute.

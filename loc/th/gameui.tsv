@@ -1,0 +1,446 @@
+# key	thai
+GameUI.Login.1	เล่นคนเดียว
+GameUI.Login.2	เล่นหลายคน
+GameUI.Login.3	เลือกเซฟ
+GameUI.Login.4	ตั้งค่า
+GameUI.Login.5	ออกจากเกม
+GameUI.Setting.Title.1	ทั่วไป
+GameUI.Setting.Title.2	ภาพ
+GameUI.Setting.Title.3	คีย์บอร์ด/เมาส์
+GameUI.Setting.Title.4	จอย
+GameUI.Setting.Rule.1	ภาษา
+GameUI.Setting.Rule.2	เสียงรวม
+GameUI.Setting.Rule.3	เพลง
+GameUI.Setting.Rule.4	เสียงเอฟเฟกต์
+GameUI.Setting.Rule.5	เสียงพากย์
+GameUI.Setting.Rule.6	ซ่อนเอฟเฟกต์
+GameUI.Setting.Frame.1	ตั้งค่าภาพ
+GameUI.Setting.Frame.2	เต็มจอ
+GameUI.Setting.Frame.3	หน้าต่าง
+GameUI.Setting.Frame.4	ไร้ขอบ
+GameUI.Setting.Frame.5	ความละเอียด
+GameUI.Setting.Frame.6	แสดงดาเมจ
+GameUI.Setting.Frame.7	แสดงเลือด
+GameUI.Setting.Frame.8	แรงสั่นจอ
+GameUI.Setting.Frame.9	ความสว่าง
+GameUI.Setting.Frame.10	V-Sync
+GameUI.Setting.Frame.11	คุณภาพเอฟเฟกต์
+GameUI.Setting.Frame.12	ซ่อนเอฟเฟกต์ทั้งหมด
+GameUI.Setting.Frame.13	คุณภาพต่ำ
+GameUI.Setting.Frame.14	คุณภาพกลาง
+GameUI.Setting.Frame.15	คุณภาพสูง
+GameUI.Setting.Frame.16	สูงสุด
+GameUI.Setting.Frame.17	ซ่อนเอฟเฟกต์เพื่อน
+GameUI.Setting.Frame.18	รักษาเฟรมเรต
+GameUI.Setting.Frame.19	คุณภาพเอฟเฟกต์เพื่อน
+GameUI.Setting.Control.1	เดินขึ้น
+GameUI.Setting.Control.2	เดินลง
+GameUI.Setting.Control.3	เดินซ้าย
+GameUI.Setting.Control.4	เดินขวา
+GameUI.Setting.Control.5	ยิง
+GameUI.Setting.Control.6	สกิลรบ
+GameUI.Setting.Control.7	ท่าไม้ตาย
+GameUI.Setting.Control.8	หลบ
+GameUI.Setting.Control.9	รีโหลด
+GameUI.Setting.Control.10	เก็บ/โต้ตอบ
+GameUI.Setting.Control.11	แชร์
+GameUI.Setting.Control.12	สลับอาวุธ
+GameUI.Setting.Control.13	โหมดเล็ง
+GameUI.Setting.Control.14	เล็งเอง
+GameUI.Setting.Control.15	ช่วยเล็ง
+GameUI.Setting.Control.16	เล็งอัตโนมัติ (ใกล้สุด)
+GameUI.Setting.Control.17	จอยสั่น
+GameUI.Setting.Control.18	เส้นช่วยเล็ง
+GameUI.Setting.Control.19	เล็งอัตโนมัติ (บอสก่อน)
+GameUI.Setting.1	รีเซ็ต
+GameUI.Setting.2	ย้อนกลับ
+GameUI.Setting.3	เมื่อเปิด จะปิดเอฟเฟกต์บางส่วนตอนเฟรมเรตต่ำ เพื่อให้เฟรมเรตนิ่งขึ้น
+GameUI.Setting.4	เมื่อเปิด จะซ่อนเอฟเฟกต์ทั้งหมดที่มาจากเพื่อนร่วมทีม
+GameUI.Save.1	เลือก
+GameUI.Save.2	ย้อนกลับ
+GameUI.Save.3	กดค้างเพื่อลบเซฟ
+GameUI.Save.4	เซฟว่าง
+GameUI.Save.6	เล่นล่าสุด
+GameUI.Save.7	จำนวนรอบทั้งหมด
+GameUI.Save.8	เลเวลทีม
+GameUI.Save.9	บันทึกนักล่า
+GameUI.Save.10	ความยากปัจจุบัน
+GameUI.Save.11	ลบเซฟ {0} หรือไม่?
+GameUI.Battle.1	กำลังเลือกตัวละคร…
+GameUI.Battle.2	เป้าหมายภารกิจ
+GameUI.Battle.3	ความยาก {0}
+GameUI.Battle.4	ความเสียหายรวม
+GameUI.Battle.5	ความเสียหายต่อด่าน
+GameUI.Func.1	ความยาก
+GameUI.Func.2	ผู้สร้าง
+GameUI.Func.3	ปลดล็อก
+GameUI.Func.4	รางวัลปลดล็อก
+GameUI.Func.5	เงื่อนไขปลดล็อก
+GameUI.Func.6	ชิ้นส่วนอาวุธ
+GameUI.Func.7	วินาที
+GameUI.Func.8	คูลดาวน์
+GameUI.Func.9	เลเวล
+GameUI.Func.10	ค่าพื้นฐาน
+GameUI.Func.11	อัปเกรด
+GameUI.Func.12	ค่าการยิง
+GameUI.Func.13	กำลังชุบชีวิต
+GameUI.Func.14	แชร์
+GameUI.Func.15	ยกเลิกแชร์
+GameUI.Func.16	บันทึก
+GameUI.Func.17	แต้มคงเหลือ
+GameUI.Func.18	เลเวลทีม
+GameUI.Func.19	แต้มสกิลทีม
+GameUI.Func.20	เคลื่อนที่
+GameUI.Func.21	เหรียญ
+GameUI.Func.22	ไอเทมปริศนา
+GameUI.Func.23	อาวุธ
+GameUI.Func.24	ชิ้นส่วนอาวุธ
+GameUI.Func.25	เรลิค
+GameUI.Func.26	ไพ่ทาโรต์
+GameUI.Func.27	ยา
+GameUI.Func.28	เศษเรื่องราว
+GameUI.Func.29	หลบ
+GameUI.Func.30	โจมตี
+GameUI.Func.31	รีโหลด
+GameUI.Func.32	ยังไม่ปลดล็อกเศษเรื่องราวนี้
+GameUI.Func.33	ความเสียหายธาตุ
+GameUI.Func.34	สกิลพื้นฐาน
+GameUI.Func.35	ความชำนาญขั้นต้น
+GameUI.Func.36	ความชำนาญขั้นสูง
+GameUI.Func.37	ความชำนาญมหากาพย์
+GameUI.Func.38	ความชำนาญตำนาน
+GameUI.Func.39	ชิ้นส่วนอาวุธ
+GameUI.Func.40	จากค้อนตำนาน
+GameUI.Func.41	จากการแยกชิ้นส่วน
+GameUI.Func.42	กำลังเลือกตัวละคร…
+GameUI.Func.43	ใหม่
+GameUI.Func.44	ธรรมดา
+GameUI.Func.45	หายาก
+GameUI.Func.46	มหากาพย์
+GameUI.Func.47	ตำนาน
+GameUI.Func.48	เบา
+GameUI.Func.49	กลาง
+GameUI.Func.50	หนัก
+GameUI.Func.51	พลังชีวิต
+GameUI.Func.52	ความเร็วเคลื่อนที่
+GameUI.Func.53	อัตราคริติคอล
+GameUI.Func.54	ความเสียหายคริติคอล
+GameUI.Func.55	อัตราทุบหนัก
+GameUI.Func.56	พลังโจมตีกระสุน
+GameUI.Func.57	ความเร็วรีโหลด
+GameUI.Func.58	อัตรายิง
+GameUI.Func.59	ความเสียหายสุดท้าย
+GameUI.Func.60	ข้อมูลตัวละคร
+GameUI.Func.61	แชร์ให้เพื่อน
+GameUI.Func.62	ยกเลิกแชร์
+GameUI.Func.63	เก็บ
+GameUI.Func.64	ซื้อ
+GameUI.Func.65	เปลี่ยน
+GameUI.Func.66	เปิดใช้
+GameUI.Func.67	ช่างตีเหล็ก
+GameUI.Func.68	ปิด
+GameUI.Func.69	อัปเกรดอาวุธ
+GameUI.Func.70	อัปเกรดชิ้นส่วน
+GameUI.Func.71	เก็บไว้
+GameUI.Func.72	เปลี่ยน
+GameUI.Func.73	สุ่มค่าใหม่
+GameUI.Func.74	สลับชิ้นส่วน
+GameUI.Func.75	ทิ้ง
+GameUI.Func.76	รายละเอียดตัวละคร
+GameUI.Func.77	กลับไปกระเป๋า
+GameUI.Func.78	สลับอาวุธ
+GameUI.Func.79	เปลี่ยน
+GameUI.Func.80	รายละเอียด
+GameUI.Func.81	เลือก
+GameUI.Func.82	เลือกความยาก
+GameUI.Func.83	จบเกม 1 รอบเพื่อปลดล็อกความยากถัดไป
+GameUI.Func.84	ยืนยัน
+GameUI.Func.85	อัปเกรด
+GameUI.Func.86	เริ่มเกม
+GameUI.Func.87	ออก
+GameUI.Func.88	แต้มสกิลคงเหลือ
+GameUI.Func.89	คืนแต้ม
+GameUI.Func.90	เปิดใช้ได้
+GameUI.Func.91	เปิดใช้แล้ว
+GameUI.Func.92	ถึงเลเวล
+GameUI.Func.93	ปลดล็อก
+GameUI.Func.94	เบาะแสเรื่องราว
+GameUI.Func.95	ปลดล็อกไอเทม
+GameUI.Func.96	ปัจจุบัน
+GameUI.Func.97	รางวัล!
+GameUI.Func.98	เลือก
+GameUI.Func.99	รีเฟรช
+GameUI.Func.100	พลิก
+GameUI.Func.101	เลือกโชคชะตา
+GameUI.Func.102	สวมใส่แล้ว
+GameUI.Func.103	ยังไม่สวมใส่
+GameUI.Func.104	สรุปผลการรบ
+GameUI.Func.105	เวลาที่เล่น:
+GameUI.Func.106	ย้อนกลับ
+GameUI.Func.107	ความเสียหายรวม
+GameUI.Func.108	ความเสียหายต่อบอส
+GameUI.Func.109	ความเสียหายที่ได้รับ
+GameUI.Func.110	จำนวนครั้งที่ล้ม
+GameUI.Func.111	จำนวนครั้งที่ช่วยเพื่อน
+GameUI.Func.112	DPS
+GameUI.Func.113	อัตราคริติคอล:
+GameUI.Func.114	เอฟเฟกต์อาวุธ:
+GameUI.Func.115	คูลดาวน์:
+GameUI.Func.116	เอฟเฟกต์พาสซีฟ:
+GameUI.Func.117	กฎของแคมป์
+GameUI.Func.118	ความยาก
+GameUI.Func.119	ประเภทแคมป์
+GameUI.Func.120	จำกัดผู้เล่น
+GameUI.Func.121	ยืนยัน
+GameUI.Func.122	ย้อนกลับ
+GameUI.Func.123	ใส่รหัสห้อง
+GameUI.Func.124	สร้างห้อง
+GameUI.Func.125	เข้าด้วยรหัส
+GameUI.Func.126	ปิด
+GameUI.Func.127	รหัสห้องของคุณ
+GameUI.Func.128	คัดลอก
+GameUI.Func.129	สลับ
+GameUI.Func.130	เล่นต่อ
+GameUI.Func.131	ตั้งค่า
+GameUI.Func.132	เตะผู้เล่น
+GameUI.Func.133	เริ่มใหม่
+GameUI.Func.134	ออกจากโหมดหลายคน
+GameUI.Func.135	กลับหน้าหลัก
+GameUI.Func.136	หยุดเกมได้เฉพาะโหมดเล่นคนเดียว
+GameUI.Func.137	สถิติความเสียหาย
+GameUI.Func.138	กลับแคมป์แล้วเริ่มรอบใหม่?
+GameUI.Func.139	กลับแคมป์แล้วเริ่มรอบใหม่?
+GameUI.Func.140	แจ้งเตือน
+GameUI.Func.141	ยืนยัน
+GameUI.Func.142	ออกจากโหมดหลายคนแล้วจะเชื่อมต่อกลับไม่ได้ แต่เล่นรอบนี้ต่อในโหมดคนเดียวได้ ยืนยันออก?
+GameUI.Func.143	กลับหน้าหลัก? ความคืบหน้าที่ยังไม่บันทึกจะหายไป
+GameUI.Func.144	กลับหน้าหลัก?
+GameUI.Func.145	คัดลอกแล้ว!
+GameUI.Func.146	พรสวรรค์หลัก
+GameUI.Func.147	ท่าไม้ตาย
+GameUI.Func.148	พรสวรรค์ขั้นต้น
+GameUI.Func.149	พรสวรรค์ขั้นกลาง
+GameUI.Func.150	พรสวรรค์ขั้นสูง
+GameUI.Func.151	พรสวรรค์ขั้นยอด
+GameUI.Func.152	พรสวรรค์ขั้นสุดยอด
+GameUI.Func.153	ต้องจบบทฝึกสอนก่อนจึงจะเล่นโหมดหลายคนได้
+GameUI.Func.154	ห้องเต็มแล้ว เข้าไม่ได้
+GameUI.Func.155	เข้าไม่ได้ เชื่อมต่อกับโฮสต์หมดเวลา
+GameUI.Func.156	ห้องเริ่มเกมไปแล้ว เข้าระหว่างเกมไม่ได้
+GameUI.Func.157	ไม่มีห้องนี้ เชื่อมต่อไม่ได้
+GameUI.Func.158	เชื่อมต่อ
+GameUI.Func.159	เดโมจบแล้ว ขอบคุณที่เล่น
+GameUI.Func.160	กดค้างเพื่อแยกชิ้นส่วน
+GameUI.Func.161	ภารกิจล้มเหลว
+GameUI.Func.162	การเชื่อมต่อหลายคนหลุดแล้ว
+GameUI.Func.163	วาง
+GameUI.Func.164	เปลี่ยนเป็นโหมดคนเดียวหรือเริ่มเกมรอบใหม่ จะเชื่อมต่อกลับห้องเดิมไม่ได้ ดำเนินการต่อ?
+GameUI.Func.165	เปลี่ยนไฟล์เซฟแล้วจะเชื่อมต่อกลับห้องเดิมไม่ได้ ดำเนินการต่อ?
+GameUI.Func.166	โฮสต์ยุบห้องแล้ว
+GameUI.Func.167	ผู้เล่น {0} ออกจากห้องแล้ว
+GameUI.Func.168	ห้องเต็มแล้ว เข้าไม่ได้
+GameUI.Func.169	ห้องเริ่มเกมไปแล้ว เข้าระหว่างเกมไม่ได้
+GameUI.Func.170	ไม่มีห้องนี้
+GameUI.Func.171	เวอร์ชันไม่ตรงกับโฮสต์
+GameUI.Func.172	ถ้าโฮสต์ออกจากห้อง ห้องจะถูกยุบ แต่คุณเล่นต่อในโหมดคนเดียวได้ ยืนยันออกจากโหมดหลายคน?
+GameUI.Func.173	กำลังเชื่อมต่อใหม่…
+GameUI.Func.174	ห้องถูกยุบแล้ว หรือโฮสต์ยังไม่เปิดห้อง
+GameUI.Func.175	ตั้งวงล้ออิโมท
+GameUI.Func.176	กด
+GameUI.Func.177	เปิดวงล้อ
+GameUI.Func.178	คลังอิโมท
+GameUI.Func.179	เปลี่ยนอิโมท
+GameUI.Func.180	มีแล้ว
+GameUI.Func.181	ทั้งหมด
+GameUI.Func.182	ตั้งอิโมทนี้
+GameUI.Func.183	ยกเลิกการตั้ง
+GameUI.Func.184	ยังไม่เคยเก็บไอเทมนี้
+GameUI.Func.185	สารานุกรมไอเทม
+GameUI.Func.186	แท็บซ้าย
+GameUI.Func.187	แท็บขวา
+GameUI.Func.188	มี/ไม่มี
+GameUI.Func.189	เปิดวงล้อ
+GameUI.Func.190	หลอม
+GameUI.Func.191	แท่นหลอมพังแล้ว
+GameUI.Func.192	เลือก
+GameUI.Func.193	ครั้งนี้ฟรี!
+GameUI.Func.194	เริ่มเกมรอบใหม่จะเชื่อมต่อกลับห้องเดิมไม่ได้ กรุณายืนยัน
+GameUI.Func.195	เลือกเรลิคชื่อเดียวกันเพื่อหลอมต้องห้าม
+GameUI.Func.196	เลือกเรลิคด้านล่าง
+GameUI.Func.197	กดเพิ่มลงวิชลิสต์
+GameUI.Func.198	ขอบคุณมากที่เล่นเกมของเรา! เกมยังอยู่ระหว่างการพัฒนา และยังมีอะไรอีกมากรออยู่ เรายินดีอย่างยิ่งหากคุณเข้าร่วมคอมมูนิตี้ของเรา และส่งความคิดเห็นดีๆ มาให้ ถ้าคุณชอบเกมนี้ ฝากเพิ่มลงวิชลิสต์ด้วยนะ ขอบคุณอีกครั้งที่เล่น! เลือก [กลับแคมป์] ในเมนู เพื่อเริ่มรอบใหม่
+GameUI.Func.199	ยังไม่ปลดล็อกเศษเรื่องราวนี้
+GameUI.Func.200	ยังไม่เคยเก็บไอเทมนี้
+GameUI.Func.201	สารานุกรมไอเทม
+GameUI.Func.202	บันทึกนักล่า
+GameUI.Func.203	เบาะแสที่ 1
+GameUI.Func.204	เบาะแสที่ 2
+GameUI.Func.205	เบาะแสที่ 3
+GameUI.Func.206	1) เกมนี้เป็นเกมแนวสวมบทบาท เหมาะสำหรับผู้ใช้อายุ 16 ปีขึ้นไป แนะนำให้ผู้เยาว์เล่นภายใต้การดูแลของผู้ปกครอง  2) เกมนี้อยู่ในโลกสมมติ มีเนื้อเรื่องต้นฉบับและฉากหลังแนวแฟนตาซี เนื้อหาส่งเสริมค่านิยมเชิงบวก ไม่ได้ดัดแปลงจากประวัติศาสตร์หรือเหตุการณ์จริง รูปแบบการเล่นเน้นแอ็กชัน มีด่านแบบสุ่มหลายชั้นที่กระตุ้นให้ผู้เล่นพัฒนาฝีมือและท้าทายตัวเอง เกมไม่มีระบบสังคมที่ให้พูดคุยกับคนแปลกหน้า  3) เกมมีระบบยืนยันตัวตนด้วยชื่อจริง ผู้ใช้ที่ยืนยันแล้วว่าเป็นผู้เยาว์จะอยู่ภายใต้การจัดการดังนี้     1. บทใหม่บางบทในเกมต้องชำระเงินเพื่อปลดล็อก     2. ผู้ใช้อายุต่ำกว่า 8 ปีชำระเงินไม่ได้ ผู้ใช้อายุ 8 ปีถึงต่ำกว่า 16 ปี ใช้จ่ายได้ไม่เกิน 50 หยวนต่อครั้ง และไม่เกิน 200 หยวนต่อเดือน     3. ผู้ใช้อายุ 16 ปีถึงต่ำกว่า 18 ปี ใช้จ่ายได้ไม่เกิน 100 หยวนต่อครั้ง และไม่เกิน 400 หยวนต่อเดือน     4. ผู้ใช้ที่เป็นผู้เยาว์เข้าเล่นได้เฉพาะเวลา 20:00 ถึง 21:00 น. ของวันศุกร์ เสาร์ อาทิตย์ และวันหยุดนักขัตฤกษ์ นอกเวลาดังกล่าวจะเข้าเล่นไม่ได้  4) เกมนี้เน้นการต่อสู้และเนื้อเรื่อง ช่วยฝึกทักษะการแก้ปัญหาและการประสานงานระหว่างมือกับตา พร้อมมอบประสบการณ์เชิงบวกที่ช่วยเสริมความมั่นใจและการเติบโตของผู้เล่น
+GameUI.Func.207	อัตราสำเร็จ
+GameUI.Func.208	เล่นอีกรอบ
+GameUI.Func.209	เริ่มใหม่
+GameUI.Func.210	เลือกตัวละคร
+GameUI.Func.211	เรียนผู้เล่นทุกท่าน  ยินดีต้อนรับสู่เดโมนี้! ขอบคุณมากที่สละเวลามาเล่นเกมของเราตั้งแต่ช่วงพัฒนา  ในเดโมนี้คุณจะได้เล่นตัวละคร 4 ตัวที่มีเอกลักษณ์ต่างกัน พร้อมอาวุธและชิ้นส่วนอาวุธกว่า 30 แบบ เรลิคกว่า 170 ชิ้น และไพ่ทาโรต์ 22 ใบที่มีทั้งผลดีและผลเสีย เราหวังว่าการผสมผสานเหล่านี้จะจุดประกายความคิดสร้างสรรค์ และทำให้เกิดบิลด์กับสไตล์การเล่นที่คาดไม่ถึง  เดโมนี้ยังเปิดโหมดเล่นหลายคนด้วย ระบบเล่นหลายคนยังอยู่ระหว่างปรับปรุง จึงอาจเจออาการกระตุกหรือปัญหาที่ไม่คาดคิด ขออภัยในความไม่สะดวก และเรายินดีรับฟังความคิดเห็นหรือรายงานบั๊กจากคุณเสมอ  ขอบคุณอีกครั้งที่เล่น หวังว่าคุณจะสนุกกับการเดินทางครั้งนี้ และความคิดเห็นของคุณจะช่วยให้เราทำเกมได้ดียิ่งขึ้น
+GameUI.Func.212	คำนำ
+GameUI.Func.213	เชื่อมต่อใหม่
+GameUI.Func.214	รหัสห้องผิด
+GameUI.Func.215	นักล่าผู้กล้าหาญ คุณทำได้เกินความคาดหมายของเรา และค้นพบบิลด์ที่เหมาะกับคุณจริงๆ แล้ว  การผ่านโหมดยากคือรางวัลที่เกมมอบให้คุณ ส่วนการที่คุณผ่านมันได้คือรางวัลที่ยิ่งใหญ่ที่สุดสำหรับเรา  ปล่อยพวกบอสไว้ก่อนเถอะ พวกมันบอบช้ำพอแล้ว เมื่อเวอร์ชันเต็มมาถึง เราจะมีความท้าทายที่ใหญ่กว่า โหดกว่า และสะใจกว่ารออยู่ ระหว่างนี้ขอบคุณที่เล่น และเราหวังว่าจะได้พบคุณอีกในการล่าครั้งหน้า
+GameUI.Func.216	กดค้างเพื่อถอดอาวุธรอง
+GameUI.Func.217	มิธิค
+GameUI.Func.218	ยกเลิก
+GameUI.Func.219	ค้นหา
+GameUI.Func.220	รีเซ็ต
+GameUI.Func.221	เริ่ม
+GameUI.Func.222	พร้อม
+GameUI.Func.223	ยกเลิกพร้อม
+GameUI.Func.224	จำนวนห้อง
+GameUI.Func.225	ประเภทเซิร์ฟเวอร์
+GameUI.Func.226	เพื่อน
+GameUI.Func.227	รหัส
+GameUI.Func.228	ผู้เล่น
+GameUI.Func.229	แสดงห้องที่กำลังเล่น
+GameUI.Func.230	แสดง
+GameUI.Func.231	ซ่อน
+GameUI.Func.232	แสดงห้องเต็ม
+GameUI.Func.233	ในเครื่อง
+GameUI.Func.234	ทั้งหมด
+GameUI.Func.235	เฉพาะเพื่อน
+GameUI.Func.236	ไม่มีรหัส
+GameUI.Func.237	มีรหัส
+GameUI.Func.238	ค้นหาห้อง
+GameUI.Func.239	รายการห้อง
+GameUI.Func.240	เดินเล่น
+GameUI.Func.241	ธรรมดา
+GameUI.Func.242	ยาก
+GameUI.Func.243	นรก
+GameUI.Func.244	ฝันร้าย
+GameUI.Func.245	ความจริง
+GameUI.Func.246	ทั้งหมด
+GameUI.Func.247	จำนวนคน
+GameUI.Func.248	เครือข่าย
+GameUI.Func.249	ยกเลิก
+GameUI.Func.250	ใส่ชื่อห้อง
+GameUI.Func.251	 - ห้อง
+GameUI.Func.252	ค้นชื่อห้องหรือรหัส
+GameUI.Func.253	ใส่รหัส
+GameUI.Func.254	ห้องเต็ม
+GameUI.Func.255	เลือกแก้ไข
+GameUI.Func.256	เข้าห้อง
+GameUI.Func.257	ต้องใส่ชื่อห้อง
+GameUI.Func.258	Steam
+GameUI.Func.259	LAN
+GameUI.Func.260	ชื่อห้อง
+GameUI.Func.261	ห้อง
+GameUI.Func.262	ค้นตามชื่อ
+GameUI.Func.263	ค้นตามรหัส
+GameUI.Func.264	อยู่ในห้องแล้ว เข้าซ้ำไม่ได้
+GameUI.Func.265	อยู่ในเกมแล้ว เข้าโหมดหลายคนไม่ได้
+GameUI.Func.266	เป้าหมายภารกิจ
+GameUI.Func.267	รีเฟรช
+GameUI.Func.268	LAN
+GameUI.Func.269	ค้นตามชื่อ
+GameUI.Func.270	ค้นตามรหัส
+GameUI.Func.271	กำลังเชื่อมต่อ...
+GameUI.Func.272	ไม่พบห้อง หรือห้องถูกปิดแล้ว
+GameUI.Func.273	ห้องเต็ม เข้าไม่สำเร็จ!
+GameUI.Func.274	เข้าไม่สำเร็จ: ข้อผิดพลาดไม่ทราบสาเหตุ!
+GameUI.Func.275	คุณถูกห้ามเข้าห้องนี้!
+GameUI.Func.276	เข้า
+GameUI.Func.277	ประเภทห้อง
+GameUI.Func.278	ห้องสาธารณะ
+GameUI.Func.279	ห้องส่วนตัว
+GameUI.Func.280	ดูการบิดเบือนได้ที่หน้ารายละเอียดตัวละคร
+GameUI.Func.281	พลังชีวิตศัตรู
+GameUI.Func.282	พลังโจมตีศัตรู
+GameUI.Func.283	ยังไม่เปิดใช้
+GameUI.Func.284	เลือกได้
+GameUI.Func.285	แนะนำ
+GameUI.Func.286	รอยรบโกลาหล
+GameUI.Func.287	เปิดใช้จุดบิดเบือน {0} จุด
+GameUI.Func.288	ความเสียหายแปรปรวน
+GameUI.Func.289	กำลังสลับเครือข่าย…
+GameUI.Func.290	เปลี่ยน
+GameUI.Func.291	ดู
+GameUI.Func.292	เครือข่ายไม่ดี สลับเซิร์ฟเวอร์ไหม?
+GameUI.Func.293	เรลิคหลอมต้องห้าม
+GameUI.Func.294	ยังไม่เลือก
+GameUI.Func.295	กรุณาเปิดใช้ล็อกทองทั้งหมด
+GameUI.Func.296	พื้นฐาน
+GameUI.Func.297	การรบ
+GameUI.Func.298	ค่าสถานะ
+GameUI.Func.299	สกิลพื้นฐาน
+GameUI.Func.300	บัฟ
+GameUI.Func.301	อัปเกรด
+GameUI.Func.302	ความเสียหายเลือดออก
+GameUI.Func.303	ความเสียหายแช่แข็ง
+GameUI.Func.304	เพดานความเสียหายปั่นป่วน
+GameUI.Func.305	ความเสียหายกัดกร่อน
+GameUI.Func.306	ความเสียหายลุกไหม้
+GameUI.Func.307	รอโฮสต์เลือก
+GameUI.Func.308	เพดานพลังโจมตีกระสุน
+GameUI.Func.309	สุ่ม
+GameUI.Func.310	ปลดล็อกหลังกำจัด <color=#d32424>[เอลลา]</color>
+GameUI.Func.311	ปลดล็อกหลังกำจัด <color=#d32424>[พรแด่อลิเซีย]</color>
+GameUI.Func.312	ปลดล็อกหลังกำจัด <color=#d32424>[เวฟล็อกร่วมใจ]</color>
+GameUI.Func.313	ปลดล็อกหลังกำจัด <color=#d32424>[บาปแห่งเวฟล็อก]</color>
+GameUI.Func.314	มีบันทึกนักล่าใหม่ให้ปลดล็อก
+GameUI.Func.315	 - กระเป๋า
+GameUI.Func.316	คุณถูกโฮสต์เตะออกจากห้อง
+GameUI.Func.317	กำลังดูกระเป๋าของ {0}P
+GameUI.Func.318	ปลดล็อกตัวละคร:
+GameUI.Func.319	สลับเครือข่ายไม่สำเร็จ!
+GameUI.Func.320	โต้ตอบ
+GameUI.Func.321	สถานะบัฟ
+GameUI.Func.322	กระเป๋าของฉัน
+GameUI.Func.323	 - กระเป๋า
+GameUI.Func.324	กระเป๋าคนก่อน
+GameUI.Func.325	กระเป๋าคนถัดไป
+GameUI.Func.326	พรสวรรค์ทีม
+GameUI.Func.327	ตอนนี้เครือข่ายอาจมีปัญหา
+GameUI.Func.328	สาเหตุที่อาจทำให้สร้างห้องหรือเข้าห้องของผู้เล่นอื่นไม่ได้:\\n1. Steam ออฟไลน์ หรือ Steamworks SDK เริ่มทำงานไม่สำเร็จ\\n2. คุณกับเพื่อนใช้ VPN คนละภูมิภาค อาจทำให้ Steam เจาะ NAT ไม่สำเร็จ\\n3. การปิด VPN ขณะที่ Steam เปิดอยู่ อาจทำให้การเชื่อมต่อเซิร์ฟเวอร์ Steam ขาด โดย Steam จะไม่แจ้งเตือน\\n\\nวิธีแก้ที่เป็นไปได้: ปิด VPN แล้วเปิด Steam ใหม่
+GameUI.Chatpter.1	องก์ที่ 1 คืนแห่งหายนะ
+GameUI.Chatpter.2	องก์ที่ 2 เทศกาลแห่งความพินาศ
+GameUI.Chatpter.3	องก์ที่ 3 ฝังร่างในพายุ
+GameUI.Chatpter.4	องก์ที่ 4 บาปในอดีต
+GameUI.Chatpter.5	องก์ที่ 5 บทเพลงอาลัยของอลิเซีย
+GameUI.Chatpter.6	องก์ที่ 6 ขอให้รอดชีวิต
+GameUI.ChatpterDesc.1	ศักราชสุริยัน 16 กรกฎาคม 1246 เวลา 20:18 น.\\nเกาะเวฟล็อก ป่าลมทะเล
+GameUI.ChatpterDesc.2	ศักราชสุริยัน 16 กรกฎาคม 1246 เวลา 22:26 น.\\nเกาะเวฟล็อก ถนนราชา
+GameUI.ChatpterDesc.3	ศักราชสุริยัน 17 กรกฎาคม 1246 เวลา 00:37 น.\\nเกาะเวฟล็อก ลิฟต์ท่าอากาศ
+GameUI.ChatpterDesc.4	ศักราชสุริยัน 17 กรกฎาคม 1246 เวลา 01:52 น.\\nเกาะเวฟล็อก ท่อระบายน้ำป้อมปราการ
+GameUI.ChatpterDesc.5	ศักราชสุริยัน 17 กรกฎาคม 1246 เวลา 03:28 น.\\nเกาะเวฟล็อก ป้อมปราการเวฟล็อก
+GameUI.ChatpterDesc.6	ศักราชสุริยัน 17 กรกฎาคม 1246 เวลา 04:44 น.\\nเกาะเวฟล็อก ท่าเรือป้อมปราการ
+GameUI.Skill.1	ท่าไม้ตาย
+GameUI.Skill.2	สะสมพลัง
+GameUI.Skill.3	สกิลรบ
+GameUI.Skill.4	เอฟเฟกต์พาสซีฟ
+GameUI.Skill.5	ทั่วไป
+GameUI.Skill.6	กายภาพ
+GameUI.Skill.7	เยือกแข็ง
+GameUI.Skill.8	สายฟ้า
+GameUI.Skill.9	กรด
+GameUI.Skill.10	เพลิง
+GameUI.Skill.11	ดาเมจ
+GameUI.Skill.12	สกิลรบ
+GameUI.Skill.13	พลังโจมตีกระสุน
+GameUI.Skill.14	หลากสี
+GameUI.Relic.1	เรลิค
+GameUI.Relic.2	เลือกเรลิค 1 ชิ้น เพื่อรับสำเนาของมัน
+GameUI.Relic.3	เลือกเรลิค 1 ชิ้นเพื่อทำลาย แล้วรับเอฟเฟกต์ของมันอย่างถาวร
+GameUI.Relic.4	เลือกเรลิค 1 ชิ้นเพื่อทำลาย เรลิคธาตุเดียวกันจะมีโอกาสดรอปเพิ่ม 10% ตลอดรอบนี้
+GameUI.Weapon.1	อาวุธ
+GameUI.Weapon.2	ชิ้นส่วนอาวุธ
+GameUI.Video.1	สุขสันต์วันเกิด อลิเซีย
+GameUI.Video.2	วันนี้เรามารวมกันที่นี่ เพื่อมอบพรให้กับเธอ
+GameUI.Video.3	เธอเกิดมาเพื่อเป็นที่รัก เป็นสมบัติล้ำค่าของโลกใบนี้
+GameUI.Video.4	และเป็นดวงมณีเปล่งประกายแห่งเวฟล็อก
+GameUI.Video.5	ขอให้ความรักนี้หล่อเลี้ยงเธอ และนำทางเธอผ่านความมืดแห่งการเปลี่ยนแปลง
+GameUI.Video.6	บางทีโชคชะตาใหม่อาจกำลังรออยู่
+GameUI.Video.7	แต่ไม่ว่าจะเกิดอะไรขึ้น
+GameUI.Video.8	ขอให้จำสิ่งนี้ไว้ให้ดี
+GameUI.Video.9	เธอคือลูกที่ฉันรักที่สุด
+GameUI.Video.10	ฉันขอให้เธอมีความสุขตลอดไป
+GameUI.Video.11	และด้วยพลังของเธอ
+GameUI.Video.12	ขอให้ความสุขส่งต่อไปถึงทุกคนที่รักเธอ
+GameUI.Video.13	และนำโลกใบนี้กลับคืนสู่รุ่งอรุณอีกครั้ง

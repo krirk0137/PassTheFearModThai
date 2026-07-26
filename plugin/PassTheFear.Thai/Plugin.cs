@@ -37,6 +37,9 @@ public sealed class Plugin : BasePlugin
     // Plain statics. Never read config through the plugin instance from a Harmony patch —
     // patches can run before or after the instance is in a usable state.
     internal static bool OptEnabled = true;
+    internal static bool OptAddToPicker = true;
+    internal static string OptLanguageLabel = "ไทย";
+    internal static string OptBaseLanguage = "English";
     internal static string OptFontBundle = "Kanit_sdf";
     internal static string OptFontAssetName = "Kanit";
     internal static float OptSweepSeconds = 1f;
@@ -50,6 +53,15 @@ public sealed class Plugin : BasePlugin
         var file = Config.Bind("General", "File", "Thai.tsv",
             "Translation table, relative to this plugin's folder. Format: key<TAB>value, UTF-8, "
             + "'#' comments. Escapes in the value: \\n \\t \\\\ .").Value;
+
+        OptAddToPicker = Config.Bind("Language", "AddToPicker", true,
+            "Add Thai as a selectable language in Settings. False = Thai is simply overlaid on "
+            + "whatever language is selected, which is simpler and cannot break the picker.").Value;
+        OptLanguageLabel = Config.Bind("Language", "Label", OptLanguageLabel,
+            "How Thai is labelled in the picker.").Value;
+        OptBaseLanguage = Config.Bind("Language", "BaseLanguage", OptBaseLanguage,
+            "Which shipped language's dictionaries are loaded underneath Thai. Untranslated keys "
+            + "fall through to this, so it is also the fallback language.").Value;
 
         OptFontBundle = Config.Bind("Font", "Bundle", OptFontBundle,
             "AssetBundle in this plugin's folder holding the Thai TMP font asset. Building one from "
@@ -67,8 +79,10 @@ public sealed class Plugin : BasePlugin
 
         try
         {
-            new Harmony(Guid).PatchAll(typeof(LocalizationPatches));
-            Logger.LogInfo("Harmony patch on XmlLocalizationHelper.ParseData installed.");
+            var harmony = new Harmony(Guid);
+            harmony.PatchAll(typeof(LocalizationPatches));
+            harmony.PatchAll(typeof(LanguagePatches));
+            Logger.LogInfo("Harmony patches installed (ParseData, ReadData, CheckLanguageBtn).");
         }
         catch (Exception e)
         {

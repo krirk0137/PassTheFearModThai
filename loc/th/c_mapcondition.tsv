@@ -1,0 +1,13 @@
+# key	thai
+MapCondition.UIEffect.10001	ถ้าทีมบาดเจ็บน้อยกว่า 3 ครั้ง จะได้รางวัลเพิ่ม!
+MapCondition.UIEffect.10101	ถ้าเคลียร์ด่านภายใน 30 วินาที จะได้รางวัลเพิ่ม!
+MapCondition.UIEffect.10201	มอนสเตอร์ทรงพลังบุกเข้ามา!
+MapCondition.UIEffect.20000	ยิ่งเคลียร์เร็ว รางวัลยิ่งดี\\nเวลาเหลือ > 20 วิ: เรลิคมหากาพย์ปริศนา\\nเวลาเหลือ > 0 วิ: เรลิคปริศนา\\nหมดเวลา: เรลิคสุ่ม 1 ชิ้น
+MapCondition.UIEffect.20101	ปกป้องหีบสมบัติ! โดนโจมตี 3 ครั้งจะพัง!
+MapCondition.UIEffect.20201	กำจัดบอส!
+MapCondition.UIConditional.10001	บาดเจ็บได้อีก: {0}
+MapCondition.UIConditional.10101	เวลาที่เหลือ: {0}
+MapCondition.UIConditional.10201	0
+MapCondition.UIConditional.20000	เวลาที่เหลือ: {0}
+MapCondition.UIConditional.20101	บาดเจ็บได้อีก: {0}
+MapCondition.UIConditional.20201	0

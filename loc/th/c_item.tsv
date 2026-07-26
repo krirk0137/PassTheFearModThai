@@ -1,0 +1,145 @@
+# key	thai
+Item.Name.31	เรลิคปริศนา
+Item.Name.32	ไพ่ทาโรต์ปริศนา
+Item.Name.33	เรลิคมหากาพย์ปริศนา
+Item.Name.34	เรลิคตำนานปริศนา
+Item.Name.35	อาวุธปริศนา
+Item.Name.36	ชิ้นส่วนอาวุธปริศนา
+Item.Name.37	อาวุธมหากาพย์ปริศนา
+Item.Name.38	อาวุธตำนานปริศนา
+Item.Name.39	ชิ้นส่วนมหากาพย์ปริศนา
+Item.Name.40	ชิ้นส่วนตำนานปริศนา
+Item.Name.7001	ยาฟื้นพลัง
+Item.Name.7002	ยาฟื้นพลังขั้นสูง
+Item.Name.7101	ยาอัตรายิง
+Item.Name.7102	ยารีโหลด
+Item.Name.7103	ยาเกราะ
+Item.Name.7104	ยาเสือชีตาห์
+Item.Name.7105	ยาอัตราคริติคอล
+Item.Name.7106	ยาความเสียหายคริติคอล
+Item.Name.7107	ยาความเสียหายสุดท้าย
+Item.Name.7108	ยาทุบหนัก
+Item.Name.7109	ยาไมดาส
+Item.Name.7110	ยาลูกกระสุน
+Item.Name.7111	ยาเถ้าเพลิง
+Item.Name.7112	ยาเติบโต
+Item.Name.7113	ยากายภาพ
+Item.Name.7114	ยาเยือกแข็ง
+Item.Name.7115	ยาสายฟ้า
+Item.Name.7116	ยากรด
+Item.Name.7117	ยาเพลิง
+Item.Name.7201	ยาสมปรารถนา
+Item.Name.7202	ยาสมปรารถนา
+Item.Name.7203	ยาสมปรารถนา
+Item.Name.7301	ยาไมดาสชั้นต่ำ
+Item.Name.7302	ยาไมดาสชั้นดี
+Item.Name.7303	ยาไมดาสตำนาน
+Item.Name.7304	ยาหายาก
+Item.Name.7305	ยามหากาพย์
+Item.Name.7306	ยาตำนาน
+Item.Name.7307	ยาร่างจำลอง
+Item.Name.7308	ยากลายหิน
+Item.Name.7309	ยาแม่มด
+Item.Name.7310	ยาสำรวจ
+Item.Name.7311	ยากลืนกลาย
+Item.Name.7312	ยาธาตุ
+Item.Name.7313	ยาห้าสี
+Item.Name.7314	ค้อนตำนาน
+Item.Name.7315	ยาเรลิคสุ่ม
+Item.Name.7316	ยาเรลิคกายภาพ
+Item.Name.7317	ยาเรลิคเยือกแข็ง
+Item.Name.7318	ยาเรลิคสายฟ้า
+Item.Name.7319	ยาเรลิคกรด
+Item.Name.7320	ยาเรลิคเพลิง
+Item.Name.7321	ยาเรลิคทั่วไป
+Item.Introduce.31	เลือกเรลิค 1 ชิ้น
+Item.Introduce.32	เลือกไพ่ทาโรต์ 1 ใบ
+Item.Introduce.33	เลือกเรลิค<color=#b41cf4>มหากาพย์</color> 1 ชิ้น
+Item.Introduce.34	เลือกเรลิค<color=#f4a51c>ตำนาน</color> 1 ชิ้น
+Item.Introduce.35	เลือกอาวุธ 1 ชิ้น
+Item.Introduce.36	เลือกชิ้นส่วนอาวุธ 1 ชิ้น
+Item.Introduce.37	เลือกอาวุธ<color=#b41cf4>มหากาพย์</color> 1 ชิ้น
+Item.Introduce.38	เลือกอาวุธ<color=#f4a51c>ตำนาน</color> 1 ชิ้น
+Item.Introduce.39	เลือกชิ้นส่วนอาวุธ<color=#b41cf4>มหากาพย์</color> 1 ชิ้น
+Item.Introduce.40	เลือกชิ้นส่วนอาวุธ<color=#f4a51c>ตำนาน</color> 1 ชิ้น
+Item.Introduce.7001	ฟื้นพลังชีวิต 20%
+Item.Introduce.7002	ฟื้นพลังชีวิต 50%
+Item.Introduce.7101	อัตรายิง +20% ถาวร
+Item.Introduce.7102	ความเร็วรีโหลด +20% ถาวร
+Item.Introduce.7103	เกราะ +20
+Item.Introduce.7104	ความเร็วเคลื่อนที่ +20% ถาวร
+Item.Introduce.7105	อัตราคริติคอล +10% ถาวร
+Item.Introduce.7106	ความเสียหายคริติคอล +20% ถาวร
+Item.Introduce.7107	ความเสียหายสุดท้าย +20% ถาวร
+Item.Introduce.7108	อัตรา<link=\\"9034\\">ทุบหนัก</link> +20% ถาวร
+Item.Introduce.7109	ได้รับเหรียญ +10%
+Item.Introduce.7110	ลูกกระสุน +2 ถาวร
+Item.Introduce.7111	<color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color> +10 ชั้น
+Item.Introduce.7112	<color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color> +10 ชั้น
+Item.Introduce.7113	อัตราดรอปเรลิค<color=#e92f2f>กายภาพ</color> +10%
+Item.Introduce.7114	อัตราดรอปเรลิค<color=#11f7ef>เยือกแข็ง</color> +10%
+Item.Introduce.7115	อัตราดรอปเรลิค<color=#f7e301>สายฟ้า</color> +10%
+Item.Introduce.7116	อัตราดรอปเรลิค<color=#3dda4f>กรด</color> +10%
+Item.Introduce.7117	อัตราดรอปเรลิค<color=#f44f06>เพลิง</color> +10%
+Item.Introduce.7201	ความจริงถักทอขึ้นจากภาพลวง
+Item.Introduce.7202	ความจริงถักทอขึ้นจากภาพลวง
+Item.Introduce.7203	ความจริงถักทอขึ้นจากภาพลวง
+Item.Introduce.7301	ทำลายเรลิคคุณภาพต่ำสุดของคุณ แล้วคืนเรลิค<color=#1c77f4>หายาก</color> 1 ชิ้น
+Item.Introduce.7302	ทำลายเรลิคคุณภาพต่ำสุดของคุณ แล้วคืนเรลิค<color=#b41cf4>มหากาพย์</color> 1 ชิ้น
+Item.Introduce.7303	ทำลายเรลิคคุณภาพต่ำสุดของคุณ แล้วคืนเรลิค<color=#f4a51c>ตำนาน</color> 1 ชิ้น
+Item.Introduce.7304	รีเฟรชร้านค้า สินค้าทั้งหมดกลายเป็นคุณภาพ<color=#1c77f4>หายาก</color>
+Item.Introduce.7305	รีเฟรชร้านค้า สินค้าทั้งหมดกลายเป็นคุณภาพ<color=#b41cf4>มหากาพย์</color>
+Item.Introduce.7306	รีเฟรชร้านค้า สินค้าทั้งหมดกลายเป็นคุณภาพ<color=#f4a51c>ตำนาน</color>
+Item.Introduce.7307	รับสำเนาเรลิคที่คุณมีอยู่ 1 ชิ้น
+Item.Introduce.7308	ป้องกันความเสียหายครั้งถัดไปทั้งหมด
+Item.Introduce.7309	ในการต่อสู้ครั้งถัดไป ความเสียหาย +50% ความเสียหายที่ได้รับ +100%
+Item.Introduce.7310	เลือก 1 จาก 3 เรลิคของธาตุที่คุณมีมากที่สุด
+Item.Introduce.7311	รีเฟรชร้านค้า สินค้าทั้งหมดเป็นธาตุเดียวกับอาวุธหลักของคุณ
+Item.Introduce.7312	ทำลายเรลิคในกระเป๋า 1 ชิ้น อัตราดรอปเรลิคธาตุเดียวกัน +10% ตลอดเกมนี้
+Item.Introduce.7313	ความเสียหายสุดท้าย +2% ถาวร ต่อธาตุเรลิคที่คุณมีแตกต่างกัน 1 ชนิด
+Item.Introduce.7314	ทำลายเรลิคในกระเป๋า 1 ชิ้น รับเอฟเฟกต์ของมันถาวร
+Item.Introduce.7315	รับเรลิคแบบสุ่ม 1 ชิ้น
+Item.Introduce.7316	เลือกเรลิค<color=#e92f2f>กายภาพ</color> 1 ชิ้น
+Item.Introduce.7317	เลือกเรลิค<color=#11f7ef>เยือกแข็ง</color> 1 ชิ้น
+Item.Introduce.7318	เลือกเรลิค<color=#f7e301>สายฟ้า</color> 1 ชิ้น
+Item.Introduce.7319	เลือกเรลิค<color=#3dda4f>กรด</color> 1 ชิ้น
+Item.Introduce.7320	เลือกเรลิค<color=#f44f06>เพลิง</color> 1 ชิ้น
+Item.Introduce.7321	เลือกเรลิคทั่วไป 1 ชิ้น
+Item.UnlockCondition.100225	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.100255	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.100285	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.100315	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.100345	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.110615	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.41001	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41002	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41003	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41004	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41005	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41006	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41007	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41008	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41009	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41010	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41011	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41012	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41013	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41014	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41015	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41016	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41017	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41018	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41019	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41020	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41021	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41022	ปลดล็อกเมื่อผ่านเกมพร้อมไพ่ทาโรต์ที่ตรงกัน
+Item.UnlockCondition.41176	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.41177	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.41178	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.41179	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.41180	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.41181	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.41182	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.41183	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.41184	ปลดล็อกผ่านบันทึกนักล่า
+Item.UnlockCondition.41185	ปลดล็อกผ่านบันทึกนักล่า

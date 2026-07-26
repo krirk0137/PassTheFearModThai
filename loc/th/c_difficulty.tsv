@@ -1,0 +1,31 @@
+# key	thai
+Difficulty.DifficultyName.1101	เดินทาง
+Difficulty.DifficultyName.1201	เดินทาง
+Difficulty.DifficultyName.2101	ปกติ
+Difficulty.DifficultyName.3101	ยาก
+Difficulty.DifficultyName.3201	ยาก
+Difficulty.DifficultyName.3202	ยาก
+Difficulty.DifficultyName.4101	ฝันร้าย
+Difficulty.DifficultyName.4201	ฝันร้าย
+Difficulty.DifficultyName.4202	ฝันร้าย
+Difficulty.DifficultyName.5101	นรก
+Difficulty.DifficultyName.5201	นรก
+Difficulty.DifficultyName.5202	นรก
+Difficulty.DifficultyName.6101	ความจริง
+Difficulty.DifficultyName.6201	ความจริง
+Difficulty.DifficultyName.6202	ความจริง
+Difficulty.Description.1101	<color=#3dda4f>ความเสียหายที่ได้รับ -50%</color>
+Difficulty.Description.1201	<color=#f44f06>โซลเจมและ EXP ของทีมที่ได้รับ -50%</color>
+Difficulty.Description.2101	ไม่มีผลพิเศษ
+Difficulty.Description.3101	<color=#3dda4f>นักล่ามากประสบการณ์ดูของเป็น โอกาสได้ไอเทมคุณภาพสูงเพิ่มขึ้นเล็กน้อย</color>
+Difficulty.Description.3201	<color=#f44f06>ก่อนออกเดินทาง เผยรอยแผลโกลาหล 1 รอย</color>
+Difficulty.Description.3202	<color=#f44f06>ภัยพิบัติแผ่ขยาย ศัตรูจากบทถัดไปจะปรากฏขึ้น</color>
+Difficulty.Description.4101	<color=#3dda4f>นักล่ามากประสบการณ์ดูของเป็น โอกาสได้ไอเทมคุณภาพสูงเพิ่มขึ้นเล็กน้อย</color>
+Difficulty.Description.4201	<color=#f44f06>ก่อนออกเดินทาง เผยรอยแผลโกลาหล 2 รอย</color>
+Difficulty.Description.4202	<color=#f44f06>ภัยพิบัติแผ่ขยาย ศัตรูจาก 2 บทถัดไปจะปรากฏขึ้น</color>
+Difficulty.Description.5101	<color=#3dda4f>ดวงของนักล่าดีขึ้น โอกาสได้ไอเทมคุณภาพสูงเพิ่มขึ้น</color>
+Difficulty.Description.5201	<color=#f44f06>ก่อนออกเดินทาง เผยรอยแผลโกลาหล 3 รอย</color>
+Difficulty.Description.5202	<color=#f44f06>ภัยพิบัติแผ่ขยาย ศัตรูจาก 3 บทถัดไปจะปรากฏขึ้น</color>
+Difficulty.Description.6101	<color=#3dda4f>นักล่ากลายเป็นสุดยอดนักหาสมบัติ โอกาสได้ไอเทมคุณภาพสูงเพิ่มขึ้นอย่างมาก</color>
+Difficulty.Description.6201	<color=#f44f06>ก่อนออกเดินทาง เผยรอยแผลโกลาหล 3 รอย และแต่ละบทจะเผยเพิ่มอีก 1 รอย</color>
+Difficulty.Description.6202	<color=#f44f06>ภัยพิบัติแผ่ขยาย ศัตรูจาก 4 บทถัดไปจะปรากฏขึ้น</color>
