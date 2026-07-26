@@ -32,9 +32,15 @@ def rows(path: Path, columns: int) -> list[list[str]]:
 
 
 def check(name: str, source_dir: Path, th_dir: Path) -> list[str]:
+    # The two biggest dictionaries were halved so they could be translated in parallel, and
+    # those halves live in a sibling directory under their own names.
     src_path = source_dir / f"{name}.tsv"
+    if not src_path.exists():
+        src_path = source_dir.parent / "source_parts" / f"{name}.tsv"
     th_path = th_dir / f"{name}.tsv"
 
+    if not src_path.exists():
+        return [f"{name}: no source file to check against"]
     if not th_path.exists():
         return [f"{name}: not translated yet"]
 

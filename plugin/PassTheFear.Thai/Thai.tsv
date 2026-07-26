@@ -32,6 +32,21 @@ Difficulty.Description.5202	<color=#f44f06>ภัยพิบัติแผ่�
 Difficulty.Description.6101	<color=#3dda4f>นักล่ากลายเป็นสุดยอดนักหาสมบัติ โอกาสได้ไอเทมคุณภาพสูงเพิ่มขึ้นอย่างมาก</color>
 Difficulty.Description.6201	<color=#f44f06>ก่อนออกเดินทาง เผยรอยแผลโกลาหล 3 รอย และแต่ละบทจะเผยเพิ่มอีก 1 รอย</color>
 Difficulty.Description.6202	<color=#f44f06>ภัยพิบัติแผ่ขยาย ศัตรูจาก 4 บทถัดไปจะปรากฏขึ้น</color>
+Difficulty.Description.7101	<color=#3dda4f>นักล่ากลายเป็นยอดนักหาสมบัติ โอกาสได้ไอเทมคุณภาพสูงเพิ่มขึ้นมาก</color>
+Difficulty.Description.7201	<color=#f44f06>จันทร์เลือดกำลังจะขึ้น อสูรทั้งหมดจะแข็งแกร่งขึ้น</color>
+Difficulty.Description.7202	<color=#f44f06>ยากจะจินตนาการว่าเมื่อจันทร์เลือดมาถึง จะเกิดเรื่องน่ากลัวอะไรขึ้นบ้าง</color>
+Difficulty.DifficultyName.7101	จันทร์เลือดใกล้มาถึง
+Difficulty.DifficultyName.7201	จันทร์เลือดใกล้มาถึง
+Difficulty.DifficultyName.7202	จันทร์เลือดใกล้มาถึง
+Difficulty.DifficultyName.8101	จันทร์เลือด
+Difficulty.DifficultyName.8102	จันทร์เลือด
+Difficulty.DifficultyName.8103	จันทร์เลือด
+Difficulty.DifficultyName.9101	จันทร์เลือด
+Difficulty.DifficultyName.9102	จันทร์เลือด
+Difficulty.DifficultyName.9103	จันทร์เลือด
+Difficulty.DifficultyName.10101	จันทร์เลือด
+Difficulty.DifficultyName.10102	จันทร์เลือด
+Difficulty.DifficultyName.10103	จันทร์เลือด
 Emoji.Name.1001	ดีใจ
 Emoji.Name.1002	เจ็บ
 Emoji.Name.1003	ช่วยด้วย
@@ -50,11 +65,482 @@ Emoji.Name.1015	สมองโล่ง
 Emoji.Name.1016	พูดไม่ออก
 Emoji.Name.1017	ขำน้ำตาไหล
 Emoji.Name.1018	หัวใจน้อยๆ
+ExtraEffect.EffectName.1101612	ประเภทความเสียหาย
+ExtraEffect.EffectName.1101622	ประเภทความเสียหาย
+ExtraEffect.EffectName.1101632	ประเภทความเสียหาย
+ExtraEffect.EffectName.1101642	ประเภทความเสียหาย
+ExtraEffect.EffectName.1101712	ประเภทสถานะ
+ExtraEffect.EffectName.1101722	ประเภทสถานะ
+ExtraEffect.EffectName.1101732	ประเภทสถานะ
+ExtraEffect.EffectName.1101742	ประเภทสถานะ
+ExtraEffect.EffectName.1102912	มือปืนสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1102922	มือปืนสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1102932	มือปืนสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1102942	มือปืนสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103012	ประกายเร็ว แอ็กทีฟ
+ExtraEffect.EffectName.1103022	ประกายเร็ว แอ็กทีฟ
+ExtraEffect.EffectName.1103032	ประกายเร็ว แอ็กทีฟ
+ExtraEffect.EffectName.1103042	ประกายเร็ว แอ็กทีฟ
+ExtraEffect.EffectName.1103112	ชิ้นหล่อสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103122	ชิ้นหล่อสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103132	ชิ้นหล่อสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103142	ชิ้นหล่อสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103212	หัวตะปูล่อฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103222	หัวตะปูล่อฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103232	หัวตะปูล่อฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103242	หัวตะปูล่อฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103312	หัวลูกศรสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103322	หัวลูกศรสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103332	หัวลูกศรสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103342	หัวลูกศรสายฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103412	ลำกล้องไฟฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103422	ลำกล้องไฟฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103432	ลำกล้องไฟฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103442	ลำกล้องไฟฟ้า แอ็กทีฟ
+ExtraEffect.EffectName.1103512	ฟีนิกซ์ แอ็กทีฟ
+ExtraEffect.EffectName.1103522	ฟีนิกซ์ แอ็กทีฟ
+ExtraEffect.EffectName.1103532	ฟีนิกซ์ แอ็กทีฟ
+ExtraEffect.EffectName.1103542	ฟีนิกซ์ แอ็กทีฟ
+ExtraEffect.EffectName.1103612	เพลิงพัน +
+ExtraEffect.EffectName.1103622	เพลิงพัน +
+ExtraEffect.EffectName.1103632	เพลิงพัน +
+ExtraEffect.EffectName.1103642	เพลิงพัน +
+ExtraEffect.EffectName.1103712	เร่งอุณหภูมิ แอ็กทีฟ
+ExtraEffect.EffectName.1103722	เร่งอุณหภูมิ แอ็กทีฟ
+ExtraEffect.EffectName.1103732	เร่งอุณหภูมิ แอ็กทีฟ
+ExtraEffect.EffectName.1103742	เร่งอุณหภูมิ แอ็กทีฟ
+ExtraEffect.EffectName.1103912	ลูกไฟระเบิด แอ็กทีฟ
+ExtraEffect.EffectName.1103922	ลูกไฟระเบิด แอ็กทีฟ
+ExtraEffect.EffectName.1103932	ลูกไฟระเบิด แอ็กทีฟ
+ExtraEffect.EffectName.1103942	ลูกไฟระเบิด แอ็กทีฟ
+ExtraEffect.EffectName.1104012	เพลิงโกลาหล แอ็กทีฟ
+ExtraEffect.EffectName.1104022	เพลิงโกลาหล แอ็กทีฟ
+ExtraEffect.EffectName.1104032	เพลิงโกลาหล แอ็กทีฟ
+ExtraEffect.EffectName.1104042	เพลิงโกลาหล แอ็กทีฟ
+ExtraEffect.EffectName.1104212	นักล่าสมบัติ แอ็กทีฟ
+ExtraEffect.EffectName.1104222	นักล่าสมบัติ แอ็กทีฟ
+ExtraEffect.EffectName.1104232	นักล่าสมบัติ แอ็กทีฟ
+ExtraEffect.EffectName.1104242	นักล่าสมบัติ แอ็กทีฟ
+ExtraEffect.EffectName.1104312	ลำกล้องรุ่นเก่า แอ็กทีฟ
+ExtraEffect.EffectName.1104322	ลำกล้องรุ่นเก่า แอ็กทีฟ
+ExtraEffect.EffectName.1104332	ลำกล้องรุ่นเก่า แอ็กทีฟ
+ExtraEffect.EffectName.1104342	ลำกล้องรุ่นเก่า แอ็กทีฟ
+ExtraEffect.EffectName.1104612	ผู้ทลายน้ำแข็ง แอ็กทีฟ
+ExtraEffect.EffectName.1104622	ผู้ทลายน้ำแข็ง แอ็กทีฟ
+ExtraEffect.EffectName.1104632	ผู้ทลายน้ำแข็ง แอ็กทีฟ
+ExtraEffect.EffectName.1104642	ผู้ทลายน้ำแข็ง แอ็กทีฟ
+ExtraEffect.EffectName.1104712	ราชาหิมะ แอ็กทีฟ
+ExtraEffect.EffectName.1104722	ราชาหิมะ แอ็กทีฟ
+ExtraEffect.EffectName.1104732	ราชาหิมะ แอ็กทีฟ
+ExtraEffect.EffectName.1104742	ราชาหิมะ แอ็กทีฟ
+ExtraEffect.EffectName.1104812	ผู้พิทักษ์เหล็กเพลิง แอ็กทีฟ
+ExtraEffect.EffectName.1104822	ผู้พิทักษ์เหล็กเพลิง แอ็กทีฟ
+ExtraEffect.EffectName.1104832	ผู้พิทักษ์เหล็กเพลิง แอ็กทีฟ
+ExtraEffect.EffectName.1104842	ผู้พิทักษ์เหล็กเพลิง แอ็กทีฟ
+ExtraEffect.EffectName.1104912	แม่นเป้า แอ็กทีฟ
+ExtraEffect.EffectName.1104922	แม่นเป้า แอ็กทีฟ
+ExtraEffect.EffectName.1104932	แม่นเป้า แอ็กทีฟ
+ExtraEffect.EffectName.1104942	แม่นเป้า แอ็กทีฟ
+ExtraEffect.EffectName.1105112	เยือกแข็งฉับพลัน แอ็กทีฟ
+ExtraEffect.EffectName.1105122	เยือกแข็งฉับพลัน แอ็กทีฟ
+ExtraEffect.EffectName.1105132	เยือกแข็งฉับพลัน แอ็กทีฟ
+ExtraEffect.EffectName.1105142	เยือกแข็งฉับพลัน แอ็กทีฟ
+ExtraEffect.EffectName.1105212	ทลายป้อมปราการ แอ็กทีฟ
+ExtraEffect.EffectName.1105222	ทลายป้อมปราการ แอ็กทีฟ
+ExtraEffect.EffectName.1105232	ทลายป้อมปราการ แอ็กทีฟ
+ExtraEffect.EffectName.1105242	ทลายป้อมปราการ แอ็กทีฟ
+ExtraEffect.EffectName.1105312	แม็กกาซีนหนัก แอ็กทีฟ
+ExtraEffect.EffectName.1105322	แม็กกาซีนหนัก แอ็กทีฟ
+ExtraEffect.EffectName.1105332	แม็กกาซีนหนัก แอ็กทีฟ
+ExtraEffect.EffectName.1105342	แม็กกาซีนหนัก แอ็กทีฟ
+ExtraEffect.EffectName.1105412	ฤดูหนาวลึก แอ็กทีฟ
+ExtraEffect.EffectName.1105422	ฤดูหนาวลึก แอ็กทีฟ
+ExtraEffect.EffectName.1105432	ฤดูหนาวลึก แอ็กทีฟ
+ExtraEffect.EffectName.1105442	ฤดูหนาวลึก แอ็กทีฟ
+ExtraEffect.EffectName.1105512	อุกกาบาตยักษ์ แอ็กทีฟ
+ExtraEffect.EffectName.1105522	อุกกาบาตยักษ์ แอ็กทีฟ
+ExtraEffect.EffectName.1105532	อุกกาบาตยักษ์ แอ็กทีฟ
+ExtraEffect.EffectName.1105542	อุกกาบาตยักษ์ แอ็กทีฟ
+ExtraEffect.EffectName.1105612	ช็อกวิญญาณ แอ็กทีฟ
+ExtraEffect.EffectName.1105622	ช็อกวิญญาณ แอ็กทีฟ
+ExtraEffect.EffectName.1105632	ช็อกวิญญาณ แอ็กทีฟ
+ExtraEffect.EffectName.1105642	ช็อกวิญญาณ แอ็กทีฟ
+ExtraEffect.EffectName.1105712	แผ่กระจาย แอ็กทีฟ
+ExtraEffect.EffectName.1105722	แผ่กระจาย แอ็กทีฟ
+ExtraEffect.EffectName.1105732	แผ่กระจาย แอ็กทีฟ
+ExtraEffect.EffectName.1105742	แผ่กระจาย แอ็กทีฟ
+ExtraEffect.EffectName.1105812	เหนียวหนึบ แอ็กทีฟ
+ExtraEffect.EffectName.1105822	เหนียวหนึบ แอ็กทีฟ
+ExtraEffect.EffectName.1105832	เหนียวหนึบ แอ็กทีฟ
+ExtraEffect.EffectName.1105842	เหนียวหนึบ แอ็กทีฟ
+ExtraEffect.EffectName.1105912	ฟื้นคืน แอ็กทีฟ
+ExtraEffect.EffectName.1105922	ฟื้นคืน แอ็กทีฟ
+ExtraEffect.EffectName.1105932	ฟื้นคืน แอ็กทีฟ
+ExtraEffect.EffectName.1105942	ฟื้นคืน แอ็กทีฟ
+ExtraEffect.EffectName.1106012	รอยกัดกร่อน แอ็กทีฟ
+ExtraEffect.EffectName.1106022	รอยกัดกร่อน แอ็กทีฟ
+ExtraEffect.EffectName.1106032	รอยกัดกร่อน แอ็กทีฟ
+ExtraEffect.EffectName.1106042	รอยกัดกร่อน แอ็กทีฟ
+ExtraEffect.EffectName.1106141	หัวใจแห่งจุดจบ พาสซีฟ
+ExtraEffect.EffectName.1106142	หัวใจแห่งจุดจบ แอ็กทีฟ
+ExtraEffect.EffectName.1106512	ขดลวดแม่เหล็ก แอ็กทีฟ
+ExtraEffect.EffectName.1106522	ขดลวดแม่เหล็ก แอ็กทีฟ
+ExtraEffect.EffectName.1106532	ขดลวดแม่เหล็ก แอ็กทีฟ
+ExtraEffect.EffectName.1106542	ขดลวดแม่เหล็ก แอ็กทีฟ
+ExtraEffect.EffectName.1106612	เหล็กหลอม แอ็กทีฟ
+ExtraEffect.EffectName.1106622	เหล็กหลอม แอ็กทีฟ
+ExtraEffect.EffectName.1106632	เหล็กหลอม แอ็กทีฟ
+ExtraEffect.EffectName.1106642	เหล็กหลอม แอ็กทีฟ
+ExtraEffect.EffectName.1106712	เพลิงหายนะ แอ็กทีฟ
+ExtraEffect.EffectName.1106722	เพลิงหายนะ แอ็กทีฟ
+ExtraEffect.EffectName.1106732	เพลิงหายนะ แอ็กทีฟ
+ExtraEffect.EffectName.1106742	เพลิงหายนะ แอ็กทีฟ
+ExtraEffect.EffectName.1106812	ยิงรัว แอ็กทีฟ
+ExtraEffect.EffectName.1106822	ยิงรัว แอ็กทีฟ
+ExtraEffect.EffectName.1106832	ยิงรัว แอ็กทีฟ
+ExtraEffect.EffectName.1106842	ยิงรัว แอ็กทีฟ
+ExtraEffect.EffectName.1106912	น้ำแข็งแกร่ง แอ็กทีฟ
+ExtraEffect.EffectName.1106922	น้ำแข็งแกร่ง แอ็กทีฟ
+ExtraEffect.EffectName.1106932	น้ำแข็งแกร่ง แอ็กทีฟ
+ExtraEffect.EffectName.1106942	น้ำแข็งแกร่ง แอ็กทีฟ
+ExtraEffect.EffectName.1107012	เครื่องทำฟอง แอ็กทีฟ
+ExtraEffect.EffectName.1107022	เครื่องทำฟอง แอ็กทีฟ
+ExtraEffect.EffectName.1107032	เครื่องทำฟอง แอ็กทีฟ
+ExtraEffect.EffectName.1107042	เครื่องทำฟอง แอ็กทีฟ
+ExtraEffect.EffectName.1107112	หลุมดำ แอ็กทีฟ
+ExtraEffect.EffectName.1107122	หลุมดำ แอ็กทีฟ
+ExtraEffect.EffectName.1107132	หลุมดำ แอ็กทีฟ
+ExtraEffect.EffectName.1107142	หลุมดำ แอ็กทีฟ
+ExtraEffect.EffectName.1107212	ทั่วไป แอ็กทีฟ
+ExtraEffect.EffectName.1107222	ทั่วไป แอ็กทีฟ
+ExtraEffect.EffectName.1107232	ทั่วไป แอ็กทีฟ
+ExtraEffect.EffectName.1107242	ทั่วไป แอ็กทีฟ
+ExtraEffect.EffectName.1107312	ปืนใหญ่ลม แอ็กทีฟ
+ExtraEffect.EffectName.1107322	ปืนใหญ่ลม แอ็กทีฟ
+ExtraEffect.EffectName.1107332	ปืนใหญ่ลม แอ็กทีฟ
+ExtraEffect.EffectName.1107342	ปืนใหญ่ลม แอ็กทีฟ
+ExtraEffect.EffectName.90101	ฝึกแม่นปืน
+ExtraEffect.EffectName.90102	ฝึกร่างกาย
+ExtraEffect.EffectName.90201	ขโมยยา 1 ขวด
+ExtraEffect.EffectName.90202	ถุงเหรียญใบเล็ก
+ExtraEffect.EffectName.90203	พักสักหน่อย
+ExtraEffect.EffectName.90301	เสริมแม่นปืน Lv.1
+ExtraEffect.EffectName.90302	เสริมแม่นปืน Lv.1
+ExtraEffect.EffectName.90303	เสริมความคล่องแคล่ว Lv.1
+ExtraEffect.EffectName.90304	เสริมร่างกาย Lv.1
+ExtraEffect.EffectName.90401	ฮึกเหิม
+ExtraEffect.EffectName.90402	ตัวเลือกมากขึ้น
+ExtraEffect.EffectName.90403	พักหายใจ
+ExtraEffect.EffectName.90501	เจตนาสังหาร
+ExtraEffect.EffectName.90502	เสริมสกิลรบ Lv.2
+ExtraEffect.EffectName.90503	เสริมแม่นปืน Lv.2
+ExtraEffect.EffectName.90504	นักล่าค่าหัว
+ExtraEffect.EffectName.90505	ตัวไว
+ExtraEffect.EffectName.90506	เสริมเกราะ
+ExtraEffect.EffectName.90507	ฟองป้องกัน
+ExtraEffect.EffectName.905021	เสริมสกิลรบ Lv.2
+ExtraEffect.EffectName.905031	เสริมแม่นปืน Lv.2
+ExtraEffect.EffectName.905041	นักล่าค่าหัว
+ExtraEffect.EffectName.905051	ตัวไว
+ExtraEffect.EffectName.905061	เสริมเกราะ
+ExtraEffect.EffectName.90601	จู่โจมจุดอ่อน
+ExtraEffect.EffectName.90602	นักล่ามหากาพย์
+ExtraEffect.EffectName.90603	สู้เพื่ออยู่รอด
+ExtraEffect.EffectName.90701	เสริมสกิลรบ Lv.3
+ExtraEffect.EffectName.90702	ชักปืนไว
+ExtraEffect.EffectName.90703	พ่อค้าปืน
+ExtraEffect.EffectName.90704	พ่อค้าเรลิค
+ExtraEffect.EffectName.90705	นักล่าอาบเลือด
+ExtraEffect.EffectName.90706	เสริมสู้เพื่ออยู่รอด
+ExtraEffect.EffectName.907011	เสริมสกิลรบ Lv.3
+ExtraEffect.EffectName.907021	ชักปืนไว
+ExtraEffect.EffectName.907031	พ่อค้าปืน
+ExtraEffect.EffectName.907041	พ่อค้าเรลิค
+ExtraEffect.EffectName.907051	นักล่าอาบเลือด
+ExtraEffect.EffectName.907061	เสริมสู้เพื่ออยู่รอด
+ExtraEffect.EffectName.90801	เอฟเฟกต์จุดอ่อน
+ExtraEffect.EffectName.90802	ยิงไว
+ExtraEffect.EffectName.90803	หล่อดาบใหม่
+ExtraEffect.EffectName.90804	เรลิคอีกชุด
+ExtraEffect.EffectName.90805	นักล่าเกียรติยศ
+ExtraEffect.EffectName.90806	เสริมพลังเร็ว
+ExtraEffect.EffectName.90901	เสริมเอฟเฟกต์จุดอ่อน
+ExtraEffect.EffectName.90902	เก็บของดีหน้าประตู
+ExtraEffect.EffectName.90903	อีกครั้ง
+ExtraEffect.EffectName.91001	สังหารปิดท้าย
+ExtraEffect.EffectName.91002	ร่างเหล็ก
+ExtraEffect.EsayDescription.1002241	<color=#ffaecf><color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color>: คริติคอลเสมอ และกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>ทันที\\n·<color=#d77d3a>ความเสียหายจาก<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color> +666%</color></color>
+ExtraEffect.EsayDescription.1002321	เมื่อ<color=#11f7ef>กระสุนน้ำแข็ง</color>โดนศัตรู จะแตกเป็น<color=#11f7ef>เศษธารน้ำแข็ง</color> 3 ชิ้นพุ่งไปข้างหลัง <color=#11f7ef>เศษธารน้ำแข็ง</color>สร้างความเสียหาย 20% ของ<color=#11f7ef>กระสุนน้ำแข็ง</color>
+ExtraEffect.EsayDescription.1002331	เมื่อ<color=#11f7ef>กระสุนน้ำแข็ง</color>โดนศัตรู จะแตกเป็น<color=#11f7ef>เศษธารน้ำแข็ง</color> 3 ชิ้นพุ่งไปข้างหลัง <color=#11f7ef>เศษธารน้ำแข็ง</color>สร้างความเสียหาย <color=#d77d3a>50%</color> ของ<color=#11f7ef>กระสุนน้ำแข็ง</color> และ<color=#d77d3a>เจาะทะลุศัตรูได้ทุกตัว</color>
+ExtraEffect.EsayDescription.1002551	<color=#ffaecf>โจมตีศัตรูที่ติด<color=#3dda4f>[กัดกร่อน]</color> จะแพร่<color=#3dda4f>[โรคระบาด]</color> สร้าง<color=#3dda4f>ความเสียหายกรด</color> 300% ของพลังโจมตีกระสุน และกระตุ้น<color=#3dda4f>[กัดกร่อน]</color>\\n·ศัตรูที่ติด<color=#3dda4f>[กัดกร่อน]</color>อยู่แล้ว เมื่อได้รับความเสียหายจาก<color=#3dda4f>[โรคระบาด]</color> จะกระตุ้น<color=#3dda4f>[โรคระบาด]</color>ซ้ำอีกครั้ง โดยรับผลจาก<color=#3dda4f>[โรคระบาด]</color>ได้เพียงครั้งเดียวในเวลาสั้นๆ</color>
+ExtraEffect.EsayDescription.1002851	<color=#ffaecf>กระสุนยิ่งน้อย พลังโจมตีกระสุนยิ่งสูง เมื่อแม็กกาซีนเหลือไม่ถึงครึ่ง จะยิง<color=#e92f2f>กระสุนตะกละ</color> สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color>แบบวงกว้าง 500% ของพลังโจมตีกระสุน</color>
+ExtraEffect.EsayDescription.1003151	<color=#ffaecf><color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color>: ติด<color=#11f7ef>ตราแห่งความตาย</color> เมื่อสะสมครบ 4 ชั้นหรือเป้าหมายตาย จะระเบิด<color=#11f7ef>วงแหวนมรณะ</color> ใส่<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>แก่ทุกคน\\n·<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>ก็ติด<color=#11f7ef>ตราแห่งความตาย</color>ด้วย และสังหารศัตรูที่มีพลังชีวิตต่ำกว่า 10% ทันที</color>
+ExtraEffect.EsayDescription.1003251	<color=#ffaecf>พลังงานอัดเข้าร่าง ยิงตัวคุณออกไปเป็นกระสุนที่เด้งได้ สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color>แก่ศัตรูทุกตัวตลอดเส้นทาง ระหว่างนี้จะไม่รับความเสียหาย\\n·ความเร็วเคลื่อนที่ยิ่งสูง ลูกกระสุนยิ่งมาก และ<color=#f7e301>แสงวาบ</color>ยิ่งแรง</color>
+ExtraEffect.EsayDescription.1003351	<color=#ffaecf>ทุก 1 ชั้นของ<color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color>/<color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color>/<color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> กระสุนของคุณจะเพิ่มความเสียหายธาตุนั้น 1 หน่วย และได้รับโบนัสจาก<color=#e92f2f>ความเสียหายกายภาพ</color>\\n·<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color>: โบนัสความเสียหายธาตุที่เพิ่มมาคูณสอง</color>
+ExtraEffect.EsayDescription.1003441	<color=#ffaecf><color=#d6b85b>รีโหลดตอนแม็กกาซีนเต็ม</color>: อัดพลังให้กระสุน\\n·<color=#d6b85b>Lv.1</color>: ยิง<color=#f7e301>กระสุนพลังงานวาบ</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 500% ของพลังโจมตีกระสุน\\n·<color=#d6b85b>Lv.2</color>: ยิง<color=#f7e301>คลื่นกระแทกเจาะทะลุ</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 1000% ของพลังโจมตีกระสุน</color>
+ExtraEffect.EsayDescription.1003531	รับ<color=#3dda4f>กระดูกหางแมงป่อง</color>ที่เด้งกลับมาจะเติมกระสุน รับสำเร็จ 3 ครั้งติดกัน <color=#3dda4f>กระดูกหางแมงป่อง</color>จะสร้าง<color=#3dda4f>ความเสียหายกรด</color>แบบวงกว้าง 100% ของพลังโจมตีกระสุน
+ExtraEffect.EsayDescription.1003541	<color=#d77d3a>ภายใน 2 วินาทีหลังรับ<color=#3dda4f>กระดูกหางแมงป่อง</color> พลังโจมตีกระสุน +30% ซ้อนได้</color>
+ExtraEffect.EsayDescription.1003612	เมื่อมี<color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> การยิงจะมี<color=#99b7bb><link=\\"9035\\">โอกาสปรับตัว</link></color> 20% กระตุ้น<color=#a024ff>สกิลรบ</color>
+ExtraEffect.EsayDescription.1003613	<color=#d77d3a>เมื่อมี<color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color>มากกว่า 60 หน่วย <color=#a024ff>ความเสียหายสกิลรบ</color> +100% ทุกครั้งที่<color=#a024ff>สกิลรบ</color>ไม่ทำงาน โอกาสกระตุ้นจะเพิ่มขึ้น 1% จนกว่าจะทำงาน</color>
+ExtraEffect.EsayDescription.1003712	<color=#d6b85b><link=\\"9031\\">[นัดแรก]</link></color>: อัตราคริติคอล +15% นาน 5 วินาที
+ExtraEffect.EsayDescription.1003713	<color=#d77d3a><color=#d6b85b><link=\\"9031\\">[นัดแรก]</link></color>: อัตราคริติคอล +25% และความเสียหายคริติคอล +30% นาน 5 วินาที</color>
+ExtraEffect.EsayDescription.1003931	<color=#d6b85b>หลบ</color>: ความเสียหายของกระสุนนัดถัดไป +50%
+ExtraEffect.EsayDescription.1003941	<color=#d77d3a>การยิงครั้งที่ 3 ใส่เป้าหมายเดิม จะเพิ่ม<color=#e92f2f>ความเสียหายกายภาพ</color> 100% และกระตุ้น<color=#e92f2f><link=\\"9011\\">[เลือดออก]</link></color></color>
+ExtraEffect.EsayDescription.1004031	<color=#d6b85b>เมื่อใช้สกิลรบ</color>: กระสุนนัดถัดไปจะเรียก<color=#f44f06>พายุเพลิง</color>นาน 2 วินาที สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 100% ต่อวินาที
+ExtraEffect.EsayDescription.1004041	<color=#d77d3a><color=#a024ff>ความเสียหายสกิลรบ</color> +50% ทุกครั้งที่<color=#f44f06>พายุเพลิง</color>สร้างความเสียหาย คูลดาวน์<color=#a024ff>สกิลรบ</color>ลดลง 1 วินาที</color>
+ExtraEffect.EsayDescription.1004131	<color=#d6b85b>สะสมพลังเต็ม</color>: เมื่อกระสุนสร้างความเสียหาย จะกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>
+ExtraEffect.EsayDescription.1004141	<color=#d77d3a>เมื่อกระตุ้น<color=#d6b85b><link=\\"9033\\">[แปรปรวน]</link></color>ครบ 20 ครั้ง จะมี<color=#f44f06>อุกกาบาต</color>ตกใส่ศัตรูที่ใกล้ที่สุด สร้าง<color=#f44f06>ความเสียหายเพลิง</color>แบบวงกว้าง 1000%</color>
+ExtraEffect.EsayDescription.1004231	ลูกกระสุน +4\\n·เมื่อกระสุนสร้างความเสียหายครบ 3 ครั้งในเวลาสั้นๆ จะกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>
+ExtraEffect.EsayDescription.1004241	<color=#d77d3a>คริติคอลเสมอเมื่อโจมตีศัตรูที่ติดสถานะ</color><color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>
+ExtraEffect.EsayDescription.1004431	เมื่อ<color=#d6b85b>หยุดยิง</color> 1 วินาที นัดถัดไปจะกลายเป็น<color=#f7e301>ลำแสงสายฟ้า</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 450% ของพลังโจมตีกระสุน อัตรายิงยิ่งสูง ช่วงรอยิ่งสั้น
+ExtraEffect.EsayDescription.1004441	เมื่อ<color=#d6b85b>หยุดยิง</color> 1 วินาที นัดถัดไปจะกลายเป็น<color=#f7e301>ลำแสงสายฟ้า</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 450% ของพลังโจมตีกระสุน อัตรายิงยิ่งสูง ช่วงรอยิ่งสั้น\\n·<color=#d77d3a><color=#f7e301>ลำแสงสายฟ้า</color>มีโอกาสอัปเกรดเป็น<color=#f7e301>ลำแสงสายฟ้าขั้นสุด</color> ความเสียหายคูณสอง</color>
+ExtraEffect.EsayDescription.1004513	ทุก 4 นัดที่ยิง การเด้ง +1 รีเซ็ตหลัง<color=#d6b85b>รีโหลด</color>
+ExtraEffect.EsayDescription.1004514	<color=#d77d3a>ความเสียหายจากการเด้งไม่ลดลง และเด้งกลับมาโดนตัวเองได้</color>
+ExtraEffect.EsayDescription.1004731	เมื่อกระสุนโดนศัตรู จะเกิด<color=#3dda4f>หมอก</color> ศัตรูในหมอกรับ<color=#3dda4f>ความเสียหายกรด</color> 60% ต่อวินาที นาน 1 วินาที\\n·สะสมพลังยิ่งนาน <color=#3dda4f>หมอก</color>ยิ่งแรง
+ExtraEffect.EsayDescription.1004741	<color=#d77d3a>กระสุนจะสร้าง<color=#3dda4f>หมอก</color>ไว้ตลอดเส้นทาง </color>ศัตรูในหมอกรับ<color=#3dda4f>ความเสียหายกรด</color> 60% ต่อวินาที นาน 1 วินาที\\n·สะสมพลังยิ่งนาน <color=#3dda4f>หมอก</color>ยิ่งแรง
+ExtraEffect.EsayDescription.1004831	ลูกกระสุน +4\\n·โจมตีศัตรูระยะใกล้จะคริติคอลเสมอ
+ExtraEffect.EsayDescription.1004841	<color=#d77d3a>ความเสียหายคริติคอลของกระสุน +150%</color>
+ExtraEffect.EsayDescription.1004931	ความเสียหายต่อศัตรูระยะไกล +200%
+ExtraEffect.EsayDescription.1004941	ความเสียหายกระสุนต่อศัตรูระยะไกล +200%<color=#d77d3a> และกระตุ้น<color=#e92f2f><link=\\"9011\\">[เลือดออก]</link></color>ทันที</color>
+ExtraEffect.EsayDescription.1005031	<color=#d6b85b>เมื่อยิงโดนศัตรู</color>: ความเร็วกระสุน +2% และมีโอกาส 0.5% กระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>ทันที ทำงานได้มากสุด 1 ครั้งต่อวินาที ซ้อนได้สูงสุด 100 ชั้น และรีเซ็ตหลังรีโหลด
+ExtraEffect.EsayDescription.1005041	<color=#d6b85b>เมื่อยิงโดนศัตรู</color>: ความเร็วกระสุน +2% <color=#d77d3a>พลังโจมตีกระสุน +3%</color> และมีโอกาส <color=#d77d3a>1%</color> กระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>ทันที ทำงานได้มากสุด 1 ครั้งต่อวินาที ซ้อนได้สูงสุด 100 ชั้น และรีเซ็ตหลังรีโหลด
+ExtraEffect.EsayDescription.1005131	ยิงศัตรูที่ติด<color=#11f7ef>[แช่แข็ง]</color>/<color=#f7e301>[ปั่นป่วน]</color>/<color=#3dda4f>[กัดกร่อน]</color> จะทำให้<color=#f44f06>[เผาไหม้]</color> สร้าง<color=#f44f06>ความเสียหายเพลิง</color> 10% ของพลังโจมตีกระสุนต่อวินาที นาน 4 วินาที ซ้อนได้ไม่จำกัด
+ExtraEffect.EsayDescription.1005141	ยิงศัตรูที่ติด<color=#11f7ef>[แช่แข็ง]</color>/<color=#f7e301>[ปั่นป่วน]</color>/<color=#3dda4f>[กัดกร่อน]</color> จะทำให้<color=#f44f06>[เผาไหม้]</color> สร้าง<color=#f44f06>ความเสียหายเพลิง</color> <color=#d77d3a>20%</color> ของพลังโจมตีกระสุนต่อวินาที <color=#d77d3a>และมีโอกาส 15% กระตุ้น</color><color=#f44f06>ลุกไหม้</color> นาน 4 วินาที ซ้อนได้ไม่จำกัด
+ExtraEffect.EsayDescription.1005142	ยิงศัตรูที่ติด<color=#11f7ef>[แช่แข็ง]</color>/<color=#f7e301>[ปั่นป่วน]</color>/<color=#3dda4f>[กัดกร่อน]</color> จะทำให้<color=#f44f06>[เผาไหม้]</color> สร้าง<color=#f44f06>ความเสียหายเพลิง</color> 10% ของพลังโจมตีกระสุนต่อวินาที นาน 4 วินาที ซ้อนได้ไม่จำกัด
+ExtraEffect.EsayDescription.1005231	ทุก 4 นัดที่ยิง ลูกกระสุน +1 รีเซ็ตหลัง<color=#d6b85b>รีโหลด</color>
+ExtraEffect.EsayDescription.1005241	<color=#d77d3a>ลูกกระสุนส่วนเพิ่มแต่ละลูกทำให้ความเสียหายสุดท้าย +15%</color>
+ExtraEffect.EsayDescription.1005331	<color=#d6b85b>สะสมพลัง</color>จะเพิ่มลูกกระสุน และความเสียหายของลูกกระสุนส่วนเพิ่มไม่ลดลง\\n·กระสุนทุกนัดเพิ่ม<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 25%
+ExtraEffect.EsayDescription.1005341	<color=#d77d3a>เมื่อกระสุนสร้างความเสียหายครบ 5 ครั้งในเวลาสั้นๆ: ปล่อย<color=#11f7ef>โนวาเยือกแข็ง</color>ใส่เป้าหมาย กระตุ้น<color=#11f7ef>[แช่แข็ง]</color>ในวงกว้าง</color>
+ExtraEffect.EsayDescription.1005631	ความเสียหายแปรปรวน +30% การยิงแบบ<color=#3dda4f>เหนียวหนึบ</color>ได้รับโบนัสความเสียหายแปรปรวนด้วย
+ExtraEffect.EsayDescription.1005641	ความเสียหายแปรปรวน +<color=#d77d3a>60%</color> การยิงแบบ<color=#3dda4f>เหนียวหนึบ</color>ได้รับโบนัสความเสียหายแปรปรวนด้วย\\n·<color=#d77d3a><color=#3dda4f>ค่ากัดกร่อน</color>ของ<color=#3dda4f>เหนียวหนึบ</color>คูณสอง ทุกครั้งที่กระตุ้น<color=#3dda4f><link=\\"9014\\">[กัดกร่อน]</link></color> ความเสียหายแปรปรวน +10% หายเมื่อผ่านด่าน</color>
+ExtraEffect.EsayDescription.1005431	<color=#d6b85b>ยิงทันทีเมื่อสะสมพลังเต็ม</color>: <color=#f7e301>หอกสายฟ้า</color>จะกลายเป็น<color=#f7e301>คลื่นฟ้าคำราม</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 200% ของพลังโจมตีกระสุน
+ExtraEffect.EsayDescription.1005441	<color=#d6b85b>ยิงทันทีเมื่อสะสมพลังเต็ม</color>: <color=#f7e301>หอกสายฟ้า</color>จะกลายเป็น<color=#f7e301>คลื่นฟ้าคำราม</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> <color=#d77d3a>500%</color> ของพลังโจมตีกระสุน<color=#d77d3a>\\n·<color=#d6b85b>เมื่อใช้สกิลรบ:</color> ใน 3 วินาทีถัดมา ทุกนัดที่ยิงจะสะสมพลังเต็มทันที</color>
+ExtraEffect.EsayDescription.1005513	ตะปูเหล็กจะ<color=#f7e301>ทำเครื่องหมาย</color>ศัตรู ทุกวินาที <color=#f7e301>ฟ้าผ่า</color>จะฟาดใส่เป้าหมายที่<color=#f7e301>ถูกทำเครื่องหมาย</color>เท่ากับ<color=#d6b85b>จำนวนลูกกระสุน</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 100%\\n·<color=#d6b85b>รีโหลด</color>: จุดระเบิดเครื่องหมายและเรียก<color=#f7e301>ฟ้าผ่า</color> สร้างความเสียหายสองเท่า
+ExtraEffect.EsayDescription.1005514	ตะปูเหล็กจะ<color=#f7e301>ทำเครื่องหมาย</color>ศัตรู ทุกวินาที <color=#f7e301>ฟ้าผ่า</color>จะฟาดใส่เป้าหมายที่<color=#f7e301>ถูกทำเครื่องหมาย</color>เท่ากับ<color=#d6b85b>จำนวนลูกกระสุน</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color><color=#d77d3a>แบบวงกว้าง 200%</color>\\n·<color=#d6b85b>รีโหลด</color>: จุดระเบิดเครื่องหมายและเรียก<color=#f7e301>ฟ้าผ่า</color> สร้าง<color=#d77d3a>ความเสียหายสามเท่า</color>
+ExtraEffect.EsayDescription.1005831	<color=#d6b85b>สะสมพลังเต็ม</color>: ออก<color=#d6b85b>[<link=\\"9034\\">ทุบหนัก</link>]</color>เสมอ และ 50% ของอัตรา<link=\\"9034\\">ทุบหนัก</link>จะแปลงเป็นโบนัสความเสียหายสุดท้าย
+ExtraEffect.EsayDescription.1005841	<color=#d6b85b>สะสมพลังเต็ม</color>: ออก<color=#d6b85b>[<link=\\"9034\\">ทุบหนัก</link>]</color>เสมอ และ <color=#d77d3a>100%</color> ของอัตรา<link=\\"9034\\">ทุบหนัก</link>จะแปลงเป็นโบนัสความเสียหายสุดท้าย\\n·<color=#d77d3a>เพดานพลังโจมตีกระสุน +100%\\n·<color=#d77d3a><color=#d6b85b>[<link=\\"9034\\">ทุบหนัก</link>]</color>: เติมกระสุนทันที</color>
+ExtraEffect.EsayDescription.1005931	อัตรายิงจะเพิ่มขึ้นเรื่อยๆ จนกว่าจะหยุดยิง
+ExtraEffect.EsayDescription.1005941	<color=#d77d3a><color=#d6b85b>รีโหลด</color>: ได้รับสถานะ<color=#d6b85b>อมตะ</color>ชั่วครู่ หากรับความเสียหายระหว่างนี้จะ<color=#d6b85b>รีโหลด</color>เสร็จทันที</color>
+ExtraEffect.EsayDescription.1006031	ศัตรูที่โดน<color=#f44f06>หน้าไม้ระเบิด</color>จะกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>หลังผ่านไป 4 วินาที\\n·<color=#d6b85b>เมื่อใช้สกิลรบ:</color> กระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>ก่อนกำหนด และความเสียหาย<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color> +150%
+ExtraEffect.EsayDescription.1006041	ศัตรูที่โดน<color=#f44f06>หน้าไม้ระเบิด</color>จะกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>หลังผ่านไป 5 วินาที\\n·<color=#d6b85b>เมื่อใช้สกิลรบ:</color> กระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>ก่อนกำหนด และความเสียหาย<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color> +<color=#d77d3a>300%</color>\\n·<color=#d77d3a>รัศมี<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color> +50%</color>
+ExtraEffect.EsayDescription.1006131	จำนวนกระสุนที่ยิงไม่ขึ้นกับ<color=#d6b85b>ลูกกระสุน</color> ทุก 1 <color=#d6b85b>ลูกกระสุน</color>เพิ่มพลังโจมตีกระสุน 40%\\n·ลูกกระสุนตั้งแต่ 3 ขึ้นไป เวลาสะสมพลัง -50%\\n·ลูกกระสุนตั้งแต่ 5 ขึ้นไป จะแตกเป็น<color=#f44f06>ลูกไฟเล็ก</color>ที่สร้างความเสียหาย 150%
+ExtraEffect.EsayDescription.1006141	จำนวนกระสุนที่ยิงไม่ขึ้นกับ<color=#d6b85b>ลูกกระสุน</color> ทุก 1 <color=#d6b85b>ลูกกระสุน</color>เพิ่มพลังโจมตีกระสุน <color=#d77d3a>60%</color>\\n·ลูกกระสุนตั้งแต่ 3 ขึ้นไป เวลาสะสมพลัง -50%\\n·ลูกกระสุนตั้งแต่ 5 ขึ้นไป จะแตกเป็น<color=#f44f06>ลูกไฟเล็ก</color>ที่สร้างความเสียหาย <color=#d77d3a>200%</color>\\n·<color=#d77d3a>ลูกกระสุน +4 <color=#f44f06>ลูกไฟเล็ก</color>เจาะทะลุศัตรูได้</color>
+ExtraEffect.EsayDescription.1006341	<color=#d77d3a>ยิง<color=#11f7ef>ดาวหางเยือกแข็ง</color>ขนาดยักษ์ สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 100% และเพิ่ม<color=#11f7ef>ค่าแช่แข็ง</color>ให้ศัตรูตลอดเส้นทางเป็นระยะ</color>
+ExtraEffect.EsayDescription.1006431	สะสมพลังได้ 2 ระดับ\\n·<color=#d6b85b>สะสมพลังระดับ 1</color>: ยิง<color=#f7e301>ลูกศรแยกร่าง</color> 3 ดอก สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 150% ของพลังโจมตีกระสุน\\n·<color=#d6b85b>สะสมพลังระดับ 2</color>: ปล่อย<color=#f7e301>ห่าลูกศร</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 300% ของพลังโจมตีกระสุน
+ExtraEffect.EsayDescription.1006441	สะสมพลังได้ 2 ระดับ\\n·<color=#d6b85b>สะสมพลังระดับ 1</color>: ยิง<color=#f7e301>ลูกศรแยกร่าง</color> 3 ดอก สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 150% ของพลังโจมตีกระสุน\\n·<color=#d77d3a><color=#d6b85b>สะสมพลังระดับ 2</color>: ปล่อย<color=#f7e301>ห่าลูกศรขั้นสุด</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 300% ของพลังโจมตีกระสุน</color>
+ExtraEffect.EsayDescription.1006631	<color=#d6b85b>รีโหลด</color>: สร้าง<color=#3dda4f>ดอกตูม</color>ที่ใต้เท้าเท่ากับ<color=#d6b85b>จำนวนลูกกระสุน</color> ยิงเพื่อผลักออกไป และจะระเบิดเมื่อเข้าใกล้ศัตรู สร้าง<color=#3dda4f>ความเสียหายกรด</color> 500%
+ExtraEffect.EsayDescription.1006641	<color=#d6b85b>รีโหลด</color>: สร้าง<color=#3dda4f>ดอกตูม</color>ที่ใต้เท้าเท่ากับ<color=#d6b85b>จำนวนลูกกระสุน</color> ยิงเพื่อผลักออกไป และจะระเบิดเมื่อเข้าใกล้ศัตรู สร้าง<color=#3dda4f>ความเสียหายกรด</color> 500% <color=#d77d3a>เมื่อ<color=#3dda4f>ดอกตูม</color>ระเบิด จะยิง<color=#3dda4f>เข็มพิษเจาะทะลุ</color> 12 เล่มออกรอบทิศ สร้าง<color=#3dda4f>ความเสียหายกรด</color> 500% ของพลังโจมตีกระสุน</color>
+ExtraEffect.EsayDescription.1006731	<color=#d6b85b>สะสมพลังเต็ม</color>: ยิง<color=#3dda4f>ลูกศรต้นไม้</color>เจาะทะลุศัตรูและติด<color=#3dda4f>ตรานักล่า</color>\\n·<color=#d6b85b>เมื่อยิง</color>: ยิง<color=#3dda4f>ลูกศรต้นไม้ติดตาม</color>เพิ่มใส่ศัตรูที่มี<color=#3dda4f>ตรานักล่า</color> แล้วลบตราออก
+ExtraEffect.EsayDescription.1006741	<color=#d6b85b>สะสมพลังเต็ม</color>: ยิง<color=#3dda4f>ลูกศรต้นไม้</color>เจาะทะลุศัตรูและติด<color=#3dda4f>ตรานักล่า</color>\\n·<color=#d6b85b>เมื่อยิง</color>: ยิง<color=#3dda4f>ลูกศรต้นไม้ติดตาม</color>เพิ่มใส่ศัตรูที่มี<color=#3dda4f>ตรานักล่า</color> <color=#d77d3a>ใช้<color=#3dda4f>ตรานักล่า</color>ไปเพื่อสร้าง<color=#3dda4f>ความเสียหายกรด</color> 450% และมีโอกาส 50% ติดตราซ้ำ</color>
+ExtraEffect.EsayDescription.1006841	<color=#ffaecf><color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color>: ความเสียหายของ<color=#a024ff>สกิลรบ</color>สายทำความเสียหายครั้งถัดไป +600%</color>
+ExtraEffect.EsayDescription.1006842	<color=#ffaecf><color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color>: มีโอกาส 30% รีเซ็ตคูลดาวน์<color=#a024ff>สกิลรบ</color></color>
+ExtraEffect.EsayDescription.1006931	<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> สร้าง<color=#e92f2f>แดนสังหาร</color> ทำเครื่องหมายศัตรูในแดนต่อเนื่อง หลัง 1.5 วินาที สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color>สูงสุด 1000% ของพลังโจมตีกระสุนแก่ศัตรูที่ถูกทำเครื่องหมาย
+ExtraEffect.EsayDescription.1006941	<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> สร้าง<color=#e92f2f>แดนสังหาร</color> ทำเครื่องหมายศัตรูในแดนต่อเนื่อง หลัง 1.5 วินาที สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color>สูงสุด <color=#d77d3a>3000%</color> ของพลังโจมตีกระสุนแก่ศัตรูที่ถูกทำเครื่องหมาย
+ExtraEffect.EsayDescription.1007131	ยิง<color=#3dda4f>ใบไม้ใหม่</color>โจมตีศัตรูแล้วตกลงพื้น เมื่อ<color=#d6b85b>รีโหลด</color> จะเก็บ<color=#3dda4f>ใบไม้ใหม่</color>กลับ สร้าง<color=#3dda4f>ความเสียหายกรด</color> 150% ของพลังโจมตีกระสุนแก่ศัตรู มี<color=#3dda4f>ใบไม้ใหม่</color>บนพื้นพร้อมกันได้สูงสุด 7 ใบ
+ExtraEffect.EsayDescription.1007141	ยิง<color=#3dda4f>ใบไม้ใหม่</color>โจมตีศัตรูแล้วตกลงพื้น เมื่อ<color=#d6b85b>รีโหลด</color> จะเก็บ<color=#3dda4f>ใบไม้ใหม่</color>กลับ สร้าง<color=#3dda4f>ความเสียหายกรด</color><color=#d77d3a>แบบวงกว้าง</color> 150% ของพลังโจมตีกระสุนแก่ศัตรู <color=#d77d3a><color=#3dda4f>ใบไม้ใหม่</color>ที่เกินขีดจำกัด 7 ใบจะถูกเก็บกลับอัตโนมัติ</color>
+ExtraEffect.EsayDescription.1007231	อาวุธที่ถูกพลังลึกลับครอบงำ ฝืนกฎแห่งกาลเวลา
+ExtraEffect.EsayDescription.1007331	การยิงจะปล่อย<color=#11f7ef>รอยแยกเยือกแข็ง</color> สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 100% ของพลังโจมตีกระสุน ทุก 1 <color=#11f7ef>[เกราะ]</color>ที่เสียไป ความเสียหายพื้นฐานของ<color=#11f7ef>รอยแยกเยือกแข็ง</color>ในการต่อสู้นี้ +1%\\n·<color=#d6b85b>เมื่อเสีย<color=#11f7ef>[เกราะ]</color>:</color> จะยิง<color=#11f7ef>รอยแยกเยือกแข็ง</color>ใส่ศัตรูที่ใกล้ที่สุดอัตโนมัติ
+ExtraEffect.EsayDescription.1007341	การยิงจะปล่อย<color=#11f7ef>รอยแยกเยือกแข็ง</color> สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 100% ของพลังโจมตีกระสุน ทุก 1 <color=#11f7ef>[เกราะ]</color>ที่เสียไป ความเสียหายพื้นฐานของ<color=#11f7ef>รอยแยกเยือกแข็ง</color>ในการต่อสู้นี้ +<color=#d77d3a>1.5%</color>\\n·<color=#d77d3a>เมื่อเสีย<color=#11f7ef>[เกราะ]</color>: จะยิง<color=#11f7ef>รอยแยกเยือกแข็ง</color>ออกรอบทิศ</color>
+ExtraEffect.EsayDescription.1007431	<color=#d6b85b>เมื่อใช้สกิลรบ</color>: เรียก<color=#f7e301>หุ่นแม่เหล็ก</color>มาปล่อย<color=#f7e301>สนามแม่เหล็ก</color> ขณะผู้เล่นอยู่ในสนาม จะยิง<color=#f7e301>ปืนเรลกัน</color>โจมตีแทน สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 150% ของพลังโจมตีกระสุน
+ExtraEffect.EsayDescription.1007441	<color=#d6b85b>เมื่อใช้สกิลรบ</color>: เรียก<color=#f7e301>หุ่นแม่เหล็ก</color>มาปล่อย<color=#f7e301>สนามแม่เหล็ก</color>และ<color=#d77d3a>เคลื่อนที่ตามคุณ</color> ขณะผู้เล่นอยู่ในสนาม จะยิง<color=#f7e301>เรลกันขั้นสุด</color> สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> <color=#d77d3a>300%</color> ของพลังโจมตีกระสุน
+ExtraEffect.EsayDescription.1007531	<color=#d6b85b>เมื่อใช้สกิลรบ:</color> ปล่อย<color=#f7e301>ตาข่ายไฟฟ้า</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color> 250% ของพลังโจมตีกระสุน\\n·เมื่อโดนศัตรู ความเสียหายของ<color=#f7e301>ตาข่ายไฟฟ้า</color>ครั้งถัดไปจะเพิ่มขึ้น
+ExtraEffect.EsayDescription.1007541	<color=#d6b85b>เมื่อใช้สกิลรบ:</color> ปล่อย<color=#f7e301>ตาข่ายไฟฟ้ายักษ์</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color> <color=#d77d3a>400%</color> ของพลังโจมตีกระสุน และ<color=#d77d3a>กระตุ้น</color><color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color>\\n·เมื่อโดนศัตรู ความเสียหายของ<color=#f7e301>ตาข่ายไฟฟ้ายักษ์</color>ครั้งถัดไปจะ<color=#d77d3a>เพิ่มขึ้นมาก</color>
+ExtraEffect.EsayDescription.1007631	ยิง<color=#e92f2f>กระสุนลม</color> ทุกครั้งที่บินได้ระยะหนึ่งจะเกิด<color=#e92f2f>โซนิกบูม</color> สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color>แบบวงกว้าง 200% ของพลังโจมตีกระสุนแก่ศัตรู สะสมพลังยิ่งนาน กระสุนยิ่งบินไกล
+ExtraEffect.EsayDescription.1007641	ยิง<color=#e92f2f>กระสุนลม</color><color=#d77d3a>ที่เจาะทะลุศัตรู</color> ทุกครั้งที่บินได้ระยะหนึ่งจะเกิด<color=#e92f2f>โซนิกบูมยักษ์</color> สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color>แบบวงกว้าง <color=#d77d3a>300%</color> ของพลังโจมตีกระสุนแก่ศัตรู สะสมพลังยิ่งนาน กระสุนยิ่งบินไกล
+ExtraEffect.EsayDescription.1007731	<color=#d6b85b>สะสมพลัง</color>จะเพิ่มจำนวนกระสุนที่ยิงรัวออกไป
+ExtraEffect.EsayDescription.1007741	<color=#d77d3a><color=#f44f06>หน้าไม้เพลิง</color>ยิงกระสุนได้มากขึ้นและใช้เวลาสะสมพลังน้อยลง</color>
+ExtraEffect.EsayDescription.1007831	<color=#d6b85b>รีโหลด</color>: วาง<color=#11f7ef>มนุษย์หิมะ</color>ไว้ 1 ตัว มันจะขว้าง<color=#11f7ef>ลูกบอลหิมะ</color>ไปหา<color=#11f7ef>มนุษย์หิมะ</color>ตัวอื่น สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 200% ของพลังโจมตีกระสุนแก่ศัตรู และมีโอกาสกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color> มี<color=#11f7ef>มนุษย์หิมะ</color>พร้อมกันได้สูงสุด 3 ตัว
+ExtraEffect.EsayDescription.1007841	<color=#d6b85b>รีโหลด</color>: วาง<color=#11f7ef>มนุษย์หิมะ</color>ไว้ 1 ตัว มันจะขว้าง<color=#11f7ef>ลูกบอลหิมะ</color>ไปหา<color=#11f7ef>มนุษย์หิมะ</color>ตัวอื่น สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 200% ของพลังโจมตีกระสุนแก่ศัตรู <color=#d77d3a>และสร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 100% ของพลังโจมตีกระสุนต่อวินาทีแก่ศัตรูรอบข้าง ความเสียหายทั้งหมดมีโอกาสกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color></color> มี<color=#11f7ef>มนุษย์หิมะ</color>พร้อมกันได้สูงสุด 3 ตัว
+ExtraEffect.EsayDescription.1007931	ทุก 5 นัดที่ยิง จะปล่อย<color=#f44f06>เปลวพ่นไฟ</color>ใส่ศัตรูด้านหน้า สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 250% ของพลังโจมตีกระสุน และขยายรัศมี<color=#f44f06>เปลวพ่นไฟ</color>ครั้งถัดไป รีเซ็ตหลัง<color=#d6b85b>รีโหลด</color>
+ExtraEffect.EsayDescription.1007941	ทุก 5 นัดที่ยิง จะปล่อย<color=#f44f06>เปลวพ่นไฟ</color>ใส่ศัตรูด้านหน้า สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 250% ของพลังโจมตีกระสุน และขยายรัศมี<color=#f44f06>เปลวพ่นไฟ</color>ครั้งถัดไปพร้อม<color=#d77d3a>เพิ่มความเสียหาย</color> รีเซ็ตหลัง<color=#d6b85b>รีโหลด</color>\\n·<color=#d77d3a><color=#f44f06>เปลวพ่นไฟ</color>เติมกระสุน 1 นัดต่อศัตรู 1 ตัวที่โดน</color>
+ExtraEffect.EsayDescription.1008051	<color=#ffaecf>รวมพลังงานแล้วพุ่งออกไป สร้าง<color=#f44f06>ความเสียหายเพลิง</color> 200% ของพลังโจมตีกระสุนแก่ศัตรูตลอดเส้นทาง ระหว่างนี้จะไม่รับความเสียหาย\\n·ความเร็วเคลื่อนที่ยิ่งสูง ลูกกระสุนยิ่งมาก ความเสียหายยิ่งสูง</color>
+ExtraEffect.EsayDescription.1101611	เมื่อกระตุ้น [ลุกไหม้] มีโอกาส 15% เรียกระเบิดวันสิ้นโลก สร้างความเสียหายเพลิง 100% แก่ศัตรูทุกตัวในรัศมี 150 หลาจากเป้าหมาย ถ้า [ลุกไหม้] ถูกกระตุ้นโดย [นัดสุดท้าย] ของคุณ โอกาสจะเพิ่มขึ้น 50%
+ExtraEffect.EsayDescription.1101621	เมื่อกระตุ้น [ลุกไหม้] มีโอกาส 25% เรียกระเบิดวันสิ้นโลก สร้างความเสียหายเพลิง 150% แก่ศัตรูทุกตัวในรัศมี 150 หลาจากเป้าหมาย ถ้า [ลุกไหม้] ถูกกระตุ้นโดย [นัดสุดท้าย] ของคุณ โอกาสจะเพิ่มขึ้น 50%
+ExtraEffect.EsayDescription.1101631	เมื่อกระตุ้น [ลุกไหม้] มีโอกาส 35% เรียกระเบิดวันสิ้นโลก สร้างความเสียหายเพลิง 200% แก่ศัตรูทุกตัวในรัศมี 150 หลาจากเป้าหมาย ถ้า [ลุกไหม้] ถูกกระตุ้นโดย [นัดสุดท้าย] ของคุณ โอกาสจะเพิ่มขึ้น 50%
+ExtraEffect.EsayDescription.1101641	เมื่อกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color> จะมี<color=#99b7bb><link=\\"9035\\">โอกาสปรับตัว</link></color> 50% เรียก<color=#f44f06>ระเบิดวันสิ้นโลก</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color>แบบวงกว้าง 1000% ถ้า<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>ถูกกระตุ้นโดย<color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color> จะเรียก<color=#f44f06>ระเบิดวันสิ้นโลก</color>แน่นอน และยิง<color=#f44f06>นิวก์วันสิ้นโลก</color>เพิ่ม สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 2000% แก่ศัตรูในวงกว้าง
+ExtraEffect.EsayDescription.1101612	ความเสียหาย [ลุกไหม้] +25% และกระสุนทุกนัดถือเป็น [นัดสุดท้าย] นาน 4 วินาที
+ExtraEffect.EsayDescription.1101622	ความเสียหาย [ลุกไหม้] +50% และกระสุนทุกนัดถือเป็น [นัดสุดท้าย] นาน 4 วินาที
+ExtraEffect.EsayDescription.1101632	ความเสียหาย [ลุกไหม้] +75% และกระสุนทุกนัดถือเป็น [นัดสุดท้าย] นาน 4 วินาที
+ExtraEffect.EsayDescription.1101642	ความเสียหาย<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color> +100% และกระสุนทุกนัดถือเป็น<color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color> นาน 8 วินาที
+ExtraEffect.EsayDescription.1101711	เมื่อยิง มีโอกาส 15% ได้ลูกกระสุน +4
+ExtraEffect.EsayDescription.1101721	เมื่อยิง มีโอกาส 20% ได้ลูกกระสุน +4
+ExtraEffect.EsayDescription.1101731	<color=#3dda4f>[แตกหลายหัว]</color>: เมื่อยิง จะมี<color=#99b7bb><link=\\"9035\\">โอกาสปรับตัว</link></color> 25% ได้ลูกกระสุน +4
+ExtraEffect.EsayDescription.1101741	<color=#3dda4f>[แตกคลั่ง]</color>: เมื่อยิง จะมี<color=#99b7bb><link=\\"9035\\">โอกาสปรับตัว</link></color> 25% ได้ลูกกระสุน +8 ถ้า<color=#3dda4f>[แตกคลั่ง]</color>ไม่ทำงาน โอกาสจะเพิ่มขึ้นครั้งละ 10% จนกว่าจะทำงาน แล้วรีเซ็ต
+ExtraEffect.EsayDescription.1101712	ความเสียหายของกระสุนนัดถัดไป +25% และกระตุ้น<color=#3dda4f>[แตกหลายหัว]</color>แน่นอน
+ExtraEffect.EsayDescription.1101722	ความเสียหายของกระสุนนัดถัดไป +50% และกระตุ้น<color=#3dda4f>[แตกหลายหัว]</color>แน่นอน
+ExtraEffect.EsayDescription.1101732	ความเสียหายของกระสุนนัดถัดไป +75% และกระตุ้น<color=#3dda4f>[แตกหลายหัว]</color>แน่นอน
+ExtraEffect.EsayDescription.1101742	ความเสียหายของกระสุนนัดถัดไป +100% และกระตุ้น<color=#3dda4f>[แตกหลายหัว]</color>แน่นอน
+ExtraEffect.EsayDescription.1102911	<color=#f7e301>ความเสียหายสายฟ้า</color> +15%
+ExtraEffect.EsayDescription.1102921	<color=#f7e301>ความเสียหายสายฟ้า</color> +30%
+ExtraEffect.EsayDescription.1102931	<color=#f7e301>ความเสียหายสายฟ้า</color> +50%
+ExtraEffect.EsayDescription.1102941	<color=#f7e301>ความเสียหายสายฟ้า</color> +70%\\n·ความเสียหายต่อศัตรูที่ติด<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color> +50%
+ExtraEffect.EsayDescription.1102912	ยิง<color=#f7e301>กระสุนสายฟ้า</color>ไปข้างหน้า สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color> 300 แก่ศัตรูในวงกว้าง
+ExtraEffect.EsayDescription.1102922	ยิง<color=#f7e301>กระสุนสายฟ้า</color>ไปข้างหน้า สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color> 360 แก่ศัตรูในวงกว้าง
+ExtraEffect.EsayDescription.1102932	ยิง<color=#f7e301>กระสุนสายฟ้า</color>ไปข้างหน้า สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color> 420 แก่ศัตรูในวงกว้าง
+ExtraEffect.EsayDescription.1102942	ยิง<color=#f7e301>กระสุนสายฟ้า</color>ไปข้างหน้า สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color> 540 แก่ศัตรูในวงกว้าง\\n·<color=#f7e301>กระสุนสายฟ้า</color>สร้างความเสียหายต่อศัตรูที่ติด<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color> +50%
+ExtraEffect.EsayDescription.1103011	ทุก 4 นัดที่ยิง เติมกระสุนอัตโนมัติ 1 นัด
+ExtraEffect.EsayDescription.1103021	ทุก 3 นัดที่ยิง เติมกระสุนอัตโนมัติ 1 นัด
+ExtraEffect.EsayDescription.1103031	ทุก 2 นัดที่ยิง เติมกระสุนอัตโนมัติ 1 นัด
+ExtraEffect.EsayDescription.1103041	ทุก 2 นัดที่ยิง เติมกระสุนอัตโนมัติ 1 นัด และกระสุนของคุณสร้าง<color=#f7e301>ความเสียหายสายฟ้า</color>แบบวงกว้างเพิ่ม 50%
+ExtraEffect.EsayDescription.1103012	ยิงโดยไม่เปลืองกระสุน นาน 2 วินาที
+ExtraEffect.EsayDescription.1103022	ยิงโดยไม่เปลืองกระสุน นาน 3 วินาที
+ExtraEffect.EsayDescription.1103032	ยิงโดยไม่เปลืองกระสุน นาน 4 วินาที
+ExtraEffect.EsayDescription.1103042	ยิงโดยไม่เปลืองกระสุน และถ้าแม็กกาซีนไม่เต็ม ความเสียหายสุดท้าย +50% นาน 4 วินาที
+ExtraEffect.EsayDescription.1103111	มุมเบี่ยงของลูกกระสุนส่วนเพิ่ม -30%\\n·ความเสียหายของลูกกระสุนส่วนเพิ่ม +50%
+ExtraEffect.EsayDescription.1103121	มุมเบี่ยงของลูกกระสุนส่วนเพิ่ม -40%\\n·ความเสียหายของลูกกระสุนส่วนเพิ่ม +100%
+ExtraEffect.EsayDescription.1103131	มุมเบี่ยงของลูกกระสุนส่วนเพิ่ม -50%\\n·ความเสียหายของลูกกระสุนส่วนเพิ่ม +150%
+ExtraEffect.EsayDescription.1103141	มุมเบี่ยงของลูกกระสุนส่วนเพิ่ม -50%\\n·ความเสียหายของลูกกระสุนส่วนเพิ่ม +250%
+ExtraEffect.EsayDescription.1103112	ลูกกระสุน +2 นาน 4 วินาที
+ExtraEffect.EsayDescription.1103122	ลูกกระสุน +3 นาน 4 วินาที
+ExtraEffect.EsayDescription.1103132	ลูกกระสุน +4 นาน 4 วินาที
+ExtraEffect.EsayDescription.1103142	ลูกกระสุน +4 และ<color=#d6b85b>ลูกกระสุนส่วนเพิ่ม</color>ทั้งหมดคูณสอง นาน 4 วินาที
+ExtraEffect.EsayDescription.1103211	<color=#d6b85b>เมื่อยิง:</color> มีโอกาส 5% กระตุ้น<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color>ทันที
+ExtraEffect.EsayDescription.1103221	<color=#d6b85b>เมื่อยิง:</color> มีโอกาส 10% กระตุ้น<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color>ทันที
+ExtraEffect.EsayDescription.1103231	<color=#d6b85b>เมื่อยิง:</color> มีโอกาส 15% กระตุ้น<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color>ทันที
+ExtraEffect.EsayDescription.1103241	<color=#d6b85b>เมื่อยิง:</color> มีโอกาส 20% กระตุ้น<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color>ทันที\\n·เพดานเปราะบางของ<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color> +50%
+ExtraEffect.EsayDescription.1103212	ยิง<color=#f7e301>กระสุนกระแทกสายฟ้า</color>ไปตามทิศที่ยิง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color>แบบวงกว้าง 30 ศัตรูที่ติด<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color>รับความเสียหาย 400%
+ExtraEffect.EsayDescription.1103222	ยิง<color=#f7e301>กระสุนกระแทกสายฟ้า</color>ไปตามทิศที่ยิง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color>แบบวงกว้าง 40 ศัตรูที่ติด<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color>รับความเสียหาย 400%
+ExtraEffect.EsayDescription.1103232	ยิง<color=#f7e301>กระสุนกระแทกสายฟ้า</color>ไปตามทิศที่ยิง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color>แบบวงกว้าง 50 ศัตรูที่ติด<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color>รับความเสียหาย 400%
+ExtraEffect.EsayDescription.1103242	ยิง<color=#f7e301>กระสุนกระแทกสายฟ้า</color>ไปตามทิศที่ยิง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color>แบบวงกว้าง 60 ศัตรูที่ติด<color=#f7e301><link=\\"9013\\">[ปั่นป่วน]</link></color>รับความเสียหาย 400% ถ้าศัตรูตายจากเอฟเฟกต์นี้ คูลดาวน์สกิลรบจะรีเซ็ต
+ExtraEffect.EsayDescription.1103311	<color=#d6b85b>รีโหลด: </color>เข้าสู่สถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> นาน 2 วินาที\\n·<color=#f7e301>[เรียกสายฟ้า]</color>: ขณะอยู่ในสถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> กระสุนจะเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color> 30%
+ExtraEffect.EsayDescription.1103321	<color=#d6b85b>รีโหลด: </color>เข้าสู่สถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> นาน 2 วินาที\\n·<color=#f7e301>[เรียกสายฟ้า]</color>: ขณะอยู่ในสถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> กระสุนจะเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color> 60%
+ExtraEffect.EsayDescription.1103331	<color=#d6b85b>รีโหลด: </color>เข้าสู่สถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> นาน 2 วินาที\\n·<color=#f7e301>[เรียกสายฟ้า]</color>: ขณะอยู่ในสถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> กระสุนจะเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color> 90%
+ExtraEffect.EsayDescription.1103341	<color=#d6b85b>รีโหลด: </color>เข้าสู่สถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> นาน 2 วินาที\\n·<color=#f7e301>[เรียกสายฟ้า]</color>: ขณะอยู่ในสถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> กระสุนจะเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color> 150%
+ExtraEffect.EsayDescription.1103312	เข้าสู่สถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> นาน 3 วินาที\\n เอฟเฟกต์<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color>ของ<color=#f7e301>[เรียกสายฟ้า]</color> +100%
+ExtraEffect.EsayDescription.1103322	เข้าสู่สถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> นาน 3 วินาที\\n เอฟเฟกต์<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color>ของ<color=#f7e301>[เรียกสายฟ้า]</color> +100%
+ExtraEffect.EsayDescription.1103332	เข้าสู่สถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> นาน 3 วินาที\\n เอฟเฟกต์<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color>ของ<color=#f7e301>[เรียกสายฟ้า]</color> +100%
+ExtraEffect.EsayDescription.1103342	เข้าสู่สถานะ<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color> นาน 3 วินาที\\n เอฟเฟกต์<color=#f7e301><link=\\"9021\\">[โอเวอร์โหลด]</link></color>ของ<color=#f7e301>[เรียกสายฟ้า]</color> +100%
+ExtraEffect.EsayDescription.1103411	ทุก 3 วินาที นัดถัดไปเมื่อโจมตีโดนจะปล่อย<color=#f7e301>สายฟ้าลูกโซ่</color> เด้งได้สูงสุด 4 ครั้ง แต่ละครั้งสร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color>เท่ากับพลังโจมตีกระสุนสูงสุด
+ExtraEffect.EsayDescription.1103421	ทุก 3 วินาที นัดถัดไปเมื่อโจมตีโดนจะปล่อย<color=#f7e301>สายฟ้าลูกโซ่</color> เด้งได้สูงสุด 5 ครั้ง แต่ละครั้งสร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color>เท่ากับพลังโจมตีกระสุนสูงสุด
+ExtraEffect.EsayDescription.1103431	ทุก 3 วินาที นัดถัดไปเมื่อโจมตีโดนจะปล่อย<color=#f7e301>สายฟ้าลูกโซ่</color> เด้งได้สูงสุด 6 ครั้ง แต่ละครั้งสร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color>เท่ากับพลังโจมตีกระสุนสูงสุด
+ExtraEffect.EsayDescription.1103441	ทุก 3 วินาที นัดถัดไปเมื่อโจมตีโดนจะปล่อย<color=#f7e301>สายฟ้าลูกโซ่</color> เด้งได้สูงสุด 7 ครั้ง แต่ละครั้งสร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f7e301>สายฟ้า</color>เท่ากับพลังโจมตีกระสุนสูงสุด
+ExtraEffect.EsayDescription.1103412	นัดถัดไปกระตุ้น<color=#f7e301>สายฟ้าลูกโซ่</color>แน่นอน และความเสียหายของคุณ +500% นาน 3 วินาที
+ExtraEffect.EsayDescription.1103422	นัดถัดไปกระตุ้น<color=#f7e301>สายฟ้าลูกโซ่</color>แน่นอน และความเสียหายของคุณ +600% นาน 3 วินาที
+ExtraEffect.EsayDescription.1103432	นัดถัดไปกระตุ้น<color=#f7e301>สายฟ้าลูกโซ่</color>แน่นอน และความเสียหายของคุณ +700% นาน 3 วินาที
+ExtraEffect.EsayDescription.1103442	นัดถัดไปกระตุ้น<color=#f7e301>สายฟ้าลูกโซ่</color>แน่นอน และความเสียหายของคุณ +800% นาน 3 วินาที
+ExtraEffect.EsayDescription.1103511	หลังกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>ใส่ศัตรู ศัตรูนั้นรับความเสียหายเพิ่ม 10% นาน 5 วินาที
+ExtraEffect.EsayDescription.1103521	หลังกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>ใส่ศัตรู ศัตรูนั้นรับความเสียหายเพิ่ม 20% นาน 5 วินาที
+ExtraEffect.EsayDescription.1103531	หลังกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>ใส่ศัตรู ศัตรูนั้นรับความเสียหายเพิ่ม 30% นาน 5 วินาที
+ExtraEffect.EsayDescription.1103541	หลังกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>ใส่ศัตรู ศัตรูนั้นรับความเสียหายเพิ่ม 100% นาน 5 วินาที
+ExtraEffect.EsayDescription.1103512	ยิง<color=#f44f06>ฟีนิกซ์เพลิง</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 200 แก่ศัตรู และกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>
+ExtraEffect.EsayDescription.1103522	ยิง<color=#f44f06>ฟีนิกซ์เพลิง</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 240 แก่ศัตรู และกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>
+ExtraEffect.EsayDescription.1103532	ยิง<color=#f44f06>ฟีนิกซ์เพลิง</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 280 แก่ศัตรู และกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>
+ExtraEffect.EsayDescription.1103542	ยิง<color=#f44f06>ฟีนิกซ์เพลิง</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 360 แก่ศัตรู และกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color> 2 ครั้ง
+ExtraEffect.EsayDescription.1103611	<color=#f44f06>เพลิงพัน</color>: เมื่อยิง จะเพิ่ม<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 5
+ExtraEffect.EsayDescription.1103621	<color=#f44f06>เพลิงพัน</color>: เมื่อยิง จะเพิ่ม<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 10
+ExtraEffect.EsayDescription.1103631	<color=#f44f06>เพลิงพัน</color>: เมื่อยิง จะเพิ่ม<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 15
+ExtraEffect.EsayDescription.1103641	<color=#f44f06>เพลิงพัน</color>: เมื่อยิง จะเพิ่ม<color=#f44f06><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color> 25 ซึ่งออกคริติคอลและ<link=\\"9034\\">ทุบหนัก</link>ได้
+ExtraEffect.EsayDescription.1103612	เอฟเฟกต์<color=#f44f06>เพลิงพัน</color> +50 นาน 3 วินาที
+ExtraEffect.EsayDescription.1103622	เอฟเฟกต์<color=#f44f06>เพลิงพัน</color> +60 นาน 3 วินาที
+ExtraEffect.EsayDescription.1103632	เอฟเฟกต์<color=#f44f06>เพลิงพัน</color> +75 นาน 3 วินาที
+ExtraEffect.EsayDescription.1103642	เอฟเฟกต์<color=#f44f06>เพลิงพัน</color> +100 และ +1 ต่อทุก 1 ชั้นของ<color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color> นาน 3 วินาที
+ExtraEffect.EsayDescription.1103711	<color=#d6b85b>เมื่อยิง</color>: ได้รับ<color=#f44f06>[ร้อนระอุ]</color> 1 ชั้น ทุก 1 ชั้นเพิ่มอัตราคริติคอล 1% สูงสุด 20 ชั้น
+ExtraEffect.EsayDescription.1103721	<color=#d6b85b>เมื่อยิง</color>: ได้รับ<color=#f44f06>[ร้อนระอุ]</color> 1 ชั้น ทุก 1 ชั้นเพิ่มอัตราคริติคอล 1% สูงสุด 40 ชั้น
+ExtraEffect.EsayDescription.1103731	<color=#d6b85b>เมื่อยิง</color>: ได้รับ<color=#f44f06>[ร้อนระอุ]</color> 1 ชั้น ทุก 1 ชั้นเพิ่มอัตราคริติคอล 1% สูงสุด 60 ชั้น
+ExtraEffect.EsayDescription.1103741	<color=#d6b85b>เมื่อยิง</color>: ได้รับ<color=#f44f06>[ร้อนระอุ]</color> 2 ชั้น ทุก 1 ชั้นเพิ่มอัตราคริติคอล 1% สูงสุด 60 ชั้น
+ExtraEffect.EsayDescription.1103712	ล้าง<color=#f44f06>[ร้อนระอุ]</color>ทั้งหมด แล้วยิง<color=#f44f06>ลูกศรเพลิง</color>ที่คริติคอลแน่นอน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 300 แก่ศัตรูในวง ทุก 1 ชั้นที่ล้างไป <color=#f44f06>ลูกศรเพลิง</color>จะมีความเสียหายคริติคอล +2%
+ExtraEffect.EsayDescription.1103722	ล้าง<color=#f44f06>[ร้อนระอุ]</color>ทั้งหมด แล้วยิง<color=#f44f06>ลูกศรเพลิง</color>ที่คริติคอลแน่นอน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 360 แก่ศัตรูในวง ทุก 1 ชั้นที่ล้างไป <color=#f44f06>ลูกศรเพลิง</color>จะมีความเสียหายคริติคอล +2%
+ExtraEffect.EsayDescription.1103732	ล้าง<color=#f44f06>[ร้อนระอุ]</color>ทั้งหมด แล้วยิง<color=#f44f06>ลูกศรเพลิง</color>ที่คริติคอลแน่นอน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 420 แก่ศัตรูในวง ทุก 1 ชั้นที่ล้างไป <color=#f44f06>ลูกศรเพลิง</color>จะมีความเสียหายคริติคอล +2%
+ExtraEffect.EsayDescription.1103742	ล้าง<color=#f44f06>[ร้อนระอุ]</color>ทั้งหมด แล้วยิง<color=#f44f06>ลูกศรเพลิง</color>ที่คริติคอลแน่นอน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 540 แก่ศัตรูในวง ทุก 1 ชั้นที่ล้างไป <color=#f44f06>ลูกศรเพลิง</color>จะมีความเสียหายคริติคอล +5%
+ExtraEffect.EsayDescription.1103911	<color=#f44f06>ความเสียหายเพลิง</color> +15%
+ExtraEffect.EsayDescription.1103921	<color=#f44f06>ความเสียหายเพลิง</color> +30%
+ExtraEffect.EsayDescription.1103931	<color=#f44f06>ความเสียหายเพลิง</color> +45%
+ExtraEffect.EsayDescription.1103941	<color=#f44f06>ความเสียหายเพลิง</color> +75%\\n·<color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color> +30
+ExtraEffect.EsayDescription.1103912	ยิง<color=#f44f06>ลูกไฟระเบิด</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 300
+ExtraEffect.EsayDescription.1103922	ยิง<color=#f44f06>ลูกไฟระเบิด</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 360
+ExtraEffect.EsayDescription.1103932	ยิง<color=#f44f06>ลูกไฟระเบิด</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 420
+ExtraEffect.EsayDescription.1103942	ยิง<color=#f44f06>ลูกไฟระเบิด</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 540 <color=#f44f06>ลูกไฟระเบิด</color>จะกระตุ้น<color=#f44f06><link=\\"9015\\">[ลุกไหม้]</link></color>
+ExtraEffect.EsayDescription.1104031	<color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color>: ลูกกระสุน +2
+ExtraEffect.EsayDescription.1104041	<color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color>: ลูกกระสุน +4
+ExtraEffect.EsayDescription.1104012	นัดถัดไปถือเป็น<color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color> และความเสียหายคริติคอลของกระสุน +10% นาน 4 วินาที
+ExtraEffect.EsayDescription.1104022	นัดถัดไปถือเป็น<color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color> และความเสียหายคริติคอลของกระสุน +20% นาน 4 วินาที
+ExtraEffect.EsayDescription.1104032	<color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color>ของคุณจะยิง<color=#f44f06>ลูกไฟ</color>เจาะทะลุเพิ่ม สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 300 นาน 3 วินาที
+ExtraEffect.EsayDescription.1104042	<color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]</link></color>ของคุณจะยิง<color=#f44f06>ลูกไฟ</color>เจาะทะลุเพิ่ม สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#f44f06>เพลิง</color> 300 นาน 3 วินาที เอฟเฟกต์นี้ได้รับผลจากโบนัสลูกกระสุน
+ExtraEffect.EsayDescription.1104211	ความเสียหายคริติคอล +20%
+ExtraEffect.EsayDescription.1104221	ความเสียหายคริติคอล +40%
+ExtraEffect.EsayDescription.1104231	ความเสียหายคริติคอล +60%
+ExtraEffect.EsayDescription.1104241	ความเสียหายคริติคอล +100%\\n·ทุก 10 เหรียญที่พกไว้ ความเสียหายคริติคอล +1%
+ExtraEffect.EsayDescription.1104212	ยิง<color=#e92f2f>เหรียญ</color> 1 อัน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#d6b85b>จริง</color> 440\\n·ถ้าความเสียหายนี้สังหารเป้าหมาย จะดรอปเหรียญเพิ่ม 2 อัน
+ExtraEffect.EsayDescription.1104222	ยิง<color=#e92f2f>เหรียญ</color> 1 อัน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#d6b85b>จริง</color> 530\\n·ถ้าความเสียหายนี้สังหารเป้าหมาย จะดรอปเหรียญเพิ่ม 4 อัน
+ExtraEffect.EsayDescription.1104232	ยิง<color=#e92f2f>เหรียญ</color> 1 อัน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#d6b85b>จริง</color> 620\\n·ถ้าความเสียหายนี้สังหารเป้าหมาย จะดรอปเหรียญเพิ่ม 6 อัน
+ExtraEffect.EsayDescription.1104242	ยิง<color=#e92f2f>เหรียญ</color> 1 อัน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#d6b85b>จริง</color> 800 และสังหารศัตรูทั่วไปทันที\\n·ถ้าความเสียหายนี้สังหารเป้าหมาย จะดรอปเหรียญเพิ่ม 10 อัน
+ExtraEffect.EsayDescription.1104311	<color=#e92f2f>ความเสียหายกายภาพ</color> +15%
+ExtraEffect.EsayDescription.1104321	<color=#e92f2f>ความเสียหายกายภาพ</color> +30%
+ExtraEffect.EsayDescription.1104331	<color=#e92f2f>ความเสียหายกายภาพ</color> +45%
+ExtraEffect.EsayDescription.1104341	<color=#e92f2f>ความเสียหายกายภาพ</color> +75%\\n·ความเสียหายต่อศัตรูที่มีพลังชีวิตต่ำกว่า 50% +50%
+ExtraEffect.EsayDescription.1104312	ยิง<color=#e92f2f>ระเบิดมือ</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 300 แก่ศัตรูในวง
+ExtraEffect.EsayDescription.1104322	ยิง<color=#e92f2f>ระเบิดมือ</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 360 แก่ศัตรูในวง
+ExtraEffect.EsayDescription.1104332	ยิง<color=#e92f2f>ระเบิดมือ</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 420 แก่ศัตรูในวง
+ExtraEffect.EsayDescription.1104342	ยิง<color=#e92f2f>ระเบิดมือ</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 540 แก่ศัตรูในวง และ<color=#e92f2f>ความเสียหายกายภาพ</color>ของคุณ +50% นาน 3 วินาที
+ExtraEffect.EsayDescription.1104611	เมื่อสร้างความเสียหายแก่ศัตรูที่ติด<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color> จะปลดสถานะทันทีและสร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 50% ความเสียหายนี้ได้รับโบนัสความเสียหายแปรปรวน
+ExtraEffect.EsayDescription.1104621	เมื่อสร้างความเสียหายแก่ศัตรูที่ติด<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color> จะปลดสถานะทันทีและสร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 100% ความเสียหายนี้ได้รับโบนัสความเสียหายแปรปรวน
+ExtraEffect.EsayDescription.1104631	เมื่อสร้างความเสียหายแก่ศัตรูที่ติด<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color> จะปลดสถานะทันทีและสร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 150% ความเสียหายนี้ได้รับโบนัสความเสียหายแปรปรวน
+ExtraEffect.EsayDescription.1104641	เมื่อสร้างความเสียหายแก่ศัตรูที่ติด<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color> จะปลดสถานะทันทีและสร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 250% ความเสียหายนี้ได้รับทั้งโบนัสความเสียหายแปรปรวนและ<color=#a024ff>ความเสียหายสกิลรบ</color>
+ExtraEffect.EsayDescription.1104612	ยิง<color=#11f7ef>หนามน้ำแข็ง</color> 3 อัน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 90 แก่ศัตรู และกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>
+ExtraEffect.EsayDescription.1104622	ยิง<color=#11f7ef>หนามน้ำแข็ง</color> 3 อัน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 110 แก่ศัตรู และกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>
+ExtraEffect.EsayDescription.1104632	ยิง<color=#11f7ef>หนามน้ำแข็ง</color> 3 อัน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 130 แก่ศัตรู และกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>
+ExtraEffect.EsayDescription.1104642	ยิง<color=#11f7ef>หนามน้ำแข็ง</color> 3 อัน สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 160 แก่ศัตรู และกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>
+ExtraEffect.EsayDescription.1104711	เมื่อกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>: เรียก<color=#11f7ef>สไลม์เยือกแข็ง</color> 1 ตัว สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 20 แก่ศัตรูในวงแคบ
+ExtraEffect.EsayDescription.1104721	เมื่อกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>: เรียก<color=#11f7ef>สไลม์เยือกแข็ง</color> 1 ตัว สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 40 แก่ศัตรูในวงแคบ
+ExtraEffect.EsayDescription.1104731	เมื่อกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>: เรียก<color=#11f7ef>สไลม์เยือกแข็ง</color> 1 ตัว สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 60 แก่ศัตรูในวงแคบ
+ExtraEffect.EsayDescription.1104741	เมื่อกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>: เรียก<color=#11f7ef>ราชาสไลม์เยือกแข็ง</color> 1 ตัว สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 100 แก่ศัตรูในวงแคบ\\n·เมื่อ<color=#11f7ef>ราชาสไลม์เยือกแข็ง</color>ตาย จะเรียก<color=#11f7ef>สไลม์เยือกแข็ง</color> 4 ตัว
+ExtraEffect.EsayDescription.1104712	ยิง<color=#11f7ef>ลูกบอลหิมะยักษ์</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 100 แก่ศัตรูตลอดเส้นทาง แล้วระเบิดหลังผ่านไปครู่หนึ่ง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 200 แก่ศัตรูในวง และกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>
+ExtraEffect.EsayDescription.1104722	ยิง<color=#11f7ef>ลูกบอลหิมะยักษ์</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 120 แก่ศัตรูตลอดเส้นทาง แล้วระเบิดหลังผ่านไปครู่หนึ่ง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 240 แก่ศัตรูในวง และกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>
+ExtraEffect.EsayDescription.1104732	ยิง<color=#11f7ef>ลูกบอลหิมะยักษ์</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 140 แก่ศัตรูตลอดเส้นทาง แล้วระเบิดหลังผ่านไปครู่หนึ่ง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 280 แก่ศัตรูในวง และกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color>
+ExtraEffect.EsayDescription.1104742	ยิง<color=#11f7ef>ลูกบอลหิมะยักษ์</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 200 แก่ศัตรูตลอดเส้นทาง แล้วระเบิดหลังผ่านไปครู่หนึ่ง สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#11f7ef>เยือกแข็ง</color> 400 แก่ศัตรูในวง และกระตุ้น<color=#11f7ef><link=\\"9012\\">[แช่แข็ง]</link></color> ซึ่งนับเป็น<color=#a024ff>ความเสียหายสกิลรบ</color>ด้วย
+ExtraEffect.EsayDescription.1104811	ทุกศัตรูหรือป้อมปืน 1 หน่วยในระยะของคุณ ความเสียหายที่คุณสร้าง +5% สูงสุด 20%
+ExtraEffect.EsayDescription.1104821	ทุกศัตรูหรือป้อมปืน 1 หน่วยในระยะของคุณ ความเสียหายที่คุณสร้าง +8% สูงสุด 40%
+ExtraEffect.EsayDescription.1104831	ทุกศัตรูหรือป้อมปืน 1 หน่วยในระยะของคุณ ความเสียหายที่คุณสร้าง +10% สูงสุด 60%
+ExtraEffect.EsayDescription.1104841	ทุกศัตรูหรือป้อมปืน 1 หน่วยในระยะของคุณ ความเสียหายที่คุณสร้าง +15% สูงสุด 120%
+ExtraEffect.EsayDescription.1104812	วาง<color=#e92f2f>ป้อมปืนเหล็กเพลิง</color> 4 ตัว นาน 10 วินาที <color=#e92f2f>ป้อมปืนเหล็กเพลิง</color>จะยิง<color=#e92f2f>กระสุนเจาะทะลุ</color>ทุกวินาที สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 5 และนับเป็นความเสียหายกระสุน
+ExtraEffect.EsayDescription.1104822	วาง<color=#e92f2f>ป้อมปืนเหล็กเพลิง</color> 4 ตัว นาน 10 วินาที <color=#e92f2f>ป้อมปืนเหล็กเพลิง</color>จะยิง<color=#e92f2f>กระสุนเจาะทะลุ</color>ทุกวินาที สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 10 และนับเป็นความเสียหายกระสุน
+ExtraEffect.EsayDescription.1104832	วาง<color=#e92f2f>ป้อมปืนเหล็กเพลิง</color> 4 ตัว นาน 10 วินาที <color=#e92f2f>ป้อมปืนเหล็กเพลิง</color>จะยิง<color=#e92f2f>กระสุนเจาะทะลุ</color>ทุกวินาที สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 15 และนับเป็นความเสียหายกระสุน
+ExtraEffect.EsayDescription.1104842	วาง<color=#e92f2f>ป้อมปืนเหล็กเพลิง</color> 4 ตัว นาน 10 วินาที <color=#e92f2f>ป้อมปืนเหล็กเพลิง</color>จะยิง<color=#e92f2f>กระสุนเจาะทะลุ</color>ทุกวินาที สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 20 กระสุนนัดสุดท้ายเป็น<color=#e92f2f>กระสุนเจาะทะลุเกลียว</color> สร้าง<color=#a024ff>ความเสียหายสกิลรบ</color><color=#e92f2f>กายภาพ</color> 100 และนับเป็นความเสียหายกระสุน
 FightingAttributes.Short.1121	<color=#e92f2f>[เลือดออก]</color> ค่าสะสม
 FightingAttributes.Short.1122	<color=#11f7ef>[แช่แข็ง]</color> ค่าสะสม
 FightingAttributes.Short.1123	<color=#f7e301>[ปั่นป่วน]</color> ค่าสะสม
 FightingAttributes.Short.1124	<color=#3dda4f>[กัดกร่อน]</color> ค่าสะสม
 FightingAttributes.Short.1125	<color=#f44f06>[ลุกไหม้]</color> ค่าสะสม
+GlobalParameters.Parameter.10001	กดค้าง
+GlobalParameters.Parameter.10002	เก็บ
+GlobalParameters.Parameter.10003	แยกเป็น
+GlobalParameters.Parameter.10004	ซื้อ
+GlobalParameters.Parameter.10005	โต้ตอบ
+GlobalParameters.Parameter.10006	เปิด
+GlobalParameters.Parameter.9001	<color=#d6b85b>[ออกเดินทาง]</color>: ทำงานเมื่อเข้าสู่ด่านใหม่
+GlobalParameters.Parameter.9002	<color=#d6b85b>[ปลายทาง]</color>: ทำงานเมื่อจบการต่อสู้
+GlobalParameters.Parameter.9011	อาวุธกายภาพเมื่อยิงโดนจะทำให้ศัตรูสะสมค่า[เลือดออก]\\n<color=#e92f2f>[เลือดออก]</color>: สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 300%
+GlobalParameters.Parameter.9012	อาวุธเยือกแข็งเมื่อยิงโดนจะทำให้ศัตรูสะสมค่า[แช่แข็ง]\\n<color=#11f7ef>[แช่แข็ง]</color>: สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 150% และ<color=#11f7ef>แช่แข็ง</color>ศัตรู 2 วินาที
+GlobalParameters.Parameter.9013	อาวุธสายฟ้าเมื่อยิงโดนจะทำให้ศัตรูสะสมค่า[ปั่นป่วน]\\n<color=#f7e301>[ปั่นป่วน]</color>: เมื่อสร้างความเสียหาย จะเพิ่ม<color=#f7e301>ความเสียหายสายฟ้า</color>เท่ากับ 10%-40% ของความเสียหายครั้งนั้น นาน 5 วินาที
+GlobalParameters.Parameter.9014	อาวุธกรดเมื่อยิงโดนจะทำให้ศัตรูสะสมค่า[กัดกร่อน]\\n<color=#3dda4f>[กัดกร่อน]</color>: สร้าง<color=#3dda4f>ความเสียหายกรด</color> 100% และลดความต้านทานทั้งหมดของศัตรู 30% นาน 5 วินาที
+GlobalParameters.Parameter.9015	อาวุธเพลิงเมื่อยิงโดนจะทำให้ศัตรูสะสมค่า[ลุกไหม้]\\n<color=#f44f06>[ลุกไหม้]</color>: สร้าง<color=#f44f06>ความเสียหายเพลิง</color>เป็นวงกว้าง 150%
+GlobalParameters.Parameter.9021	<color=#f7e301>[โอเวอร์โหลด]</color>: ระหว่างที่<color=#f7e301>[โอเวอร์โหลด]</color>ทำงาน เอฟเฟกต์<color=#f7e301>[โอเวอร์โหลด]</color>ทั้งหมดจะมีผล
+GlobalParameters.Parameter.9022	<color=#d6b85b>[แตกสลาย]</color>: เอฟเฟกต์ที่ทำงานเมื่อไอเทมนี้ถูก<color=#d6b85b>แยกชิ้นส่วน</color>
+GlobalParameters.Parameter.9023	<color=#f44f06>[เถ้าเพลิง]</color>: <color=#f44f06>[เถ้าเพลิง]</color>แต่ละชั้นเพิ่มความเสียหายสุดท้าย +1%
+GlobalParameters.Parameter.9024	<color=#3dda4f>[เติบโต]</color>: <color=#3dda4f>[เติบโต]</color>แต่ละชั้นเพิ่มพลังชีวิตสูงสุด +1
+GlobalParameters.Parameter.9025	<color=#11f7ef>[เกราะ]</color>: เมื่อได้รับความเสียหาย จะหักจากเกราะก่อน
+GlobalParameters.Parameter.9026	<color=#d6b85b>[เลเวลเรโซแนนซ์]</color>: เลเวลเรโซแนนซ์แต่ละแต้มเสริมเอฟเฟกต์ความชำนาญอาวุธ
+GlobalParameters.Parameter.9031	<color=#d6b85b>[นัดแรก]</color>: กระสุนนัดแรกในแม็กกาซีน
+GlobalParameters.Parameter.9032	<color=#d6b85b>[นัดสุดท้าย]</color>: กระสุนนัดสุดท้ายในแม็กกาซีน
+GlobalParameters.Parameter.9033	<color=#d6b86b>[แปรปรวน]</color>: แปรปรวนประกอบด้วย <color=#e92f2f>[เลือดออก]</color> <color=#11f7ef>[แช่แข็ง]</color> <color=#f7e301>[ปั่นป่วน]</color> <color=#3dda4f>[กัดกร่อน]</color> และ<color=#f44f06>[ลุกไหม้]</color>
+GlobalParameters.Parameter.9034	<color=#d6b86b>[ทุบหนัก]</color>: กระสุนมีค่าโจมตีแปรผัน เมื่อยิงออกมาได้ค่าสูงสุดจะนับเป็นทุบหนัก
+GlobalParameters.Parameter.9035	<color=#99b7bb>[โอกาสไดนามิก]</color>: โอกาสทำงานจะปรับตามความสมดุลอาวุธปัจจุบันของคุณ
+GlobalParameters.Parameter.9036	<color=#ffaecf>ยืมโชคให้</color>: ได้รับ<color=#d6b85b>[ดวงมือใหม่]</color>: หลบความเสียหายครั้งถัดไปที่จะได้รับ
+GlobalParameters.Parameter.9037	<color=#ffaecf>มาเล่นกัน</color>: เรียกน้องสาวของแอมเบอร์ออกมาพ่น<color=#d6b85b>[ลมหายใจมังกร]</color>ใส่ศัตรู สร้างความเสียหายธาตุอาวุธหลัก 80% และติด<color=#d6b85b>[เปลวมังกร]</color>
+GlobalParameters.Parameter.9038	<color=#ffaecf>รัวไม่ยั้ง</color>: อัตรายิงและความเร็วรีโหลด +150%
+GlobalParameters.Parameter.9039	<color=#ffaecf>ปืนปีศาจดูดเลือด</color>: ความเสียหายกระสุน +100% ยิงโดนศัตรูฟื้นพลังชีวิต 2% สูงสุด 1 ครั้งต่อวินาที
+GlobalParameters.Parameter.9040	<color=#ffaecf>กระสุนไม่จำกัด</color>: เมื่อยิงกระสุนนัดสุดท้าย เติมกระสุนเต็มทันที
+GlobalParameters.Parameter.9041	<color=#ffaecf>สุริยะพิโรธ</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสไดนามิก</color> 20% เรียก<color=#f44f06>ดวงอาทิตย์ร่วงหล่น</color> สร้าง<color=#f44f06>ความเสียหายเพลิง</color>เป็นวงกว้าง 200% ต่อวินาที หลัง 5 วินาทีจะตกลงมาเกิด<color=#f44f06>ระเบิดซูเปอร์โนวา</color> ปล่อย<color=#f44f06>คลื่นกระแทกเพลิง</color>ที่ทำให้ศัตรูติด<color=#f44f06>[ลุกไหม้]</color> (ทำงานได้สูงสุด 1 ครั้งทุก 20 วินาที)
+GlobalParameters.Parameter.9042	<color=#ffaecf>ธารเยือกแข็ง</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสไดนามิก</color> 20% เรียก<color=#11f7ef>ธารเยือกแข็ง</color>ที่แผ่ขยายทีละน้อย สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 150% ต่อวินาที ศัตรูที่สัมผัสครั้งแรกจะ<color=#11f7ef>[แช่แข็ง]</color> นาน 10 วินาที (ทำงานได้สูงสุด 1 ครั้งทุก 15 วินาที)
+GlobalParameters.Parameter.9043	<color=#ffaecf>โนวาพิษ</color>: เมื่อยิง มี<color=#99b7bb>โอกาสไดนามิก</color> 20% ปล่อย<color=#3dda4f>โนวาพิษ</color> ทำให้ศัตรูที่สัมผัสติด<color=#3dda4f>[กัดกร่อน]</color> และรับ<color=#3dda4f>ความเสียหายกรด</color> 300% ต่อวินาที นาน 10 วินาที (ทำงานได้สูงสุด 1 ครั้งทุก 20 วินาที)
+GlobalParameters.Parameter.9044	<color=#ffaecf>ดาวหายนะ</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสไดนามิก</color> 20% เรียก<color=#f7e301>ดาวหายนะ</color> 3 ดวงถล่มศัตรู สร้าง<color=#f7e301>ความเสียหายสายฟ้า</color>เป็นวงกว้าง 180% และติด<color=#f7e301>[ปั่นป่วน]</color> (ทำงานได้สูงสุด 1 ครั้งทุก 5 วินาที)
+GlobalParameters.Parameter.9045	<color=#ffaecf>หอกสังหารมังกร</color>: เมื่อยิง มี<color=#99b7bb>โอกาสไดนามิก</color> 20% ยิง<color=#e92f2f>หอกสังหารมังกร</color> ทะลุศัตรูสร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 2000% และติด<color=#e92f2f>[เลือดออก]</color> (ทำงานได้สูงสุด 1 ครั้งทุก 20 วินาที)
+GlobalParameters.Parameter.9046	<color=#ffaecf>ลำแสงมรณะโกลาหล</color>: เมื่อยิง มี<color=#99b7bb>โอกาสไดนามิก</color> 20% ยิง<color=#fff8cb>ลำแสงมรณะโกลาหล</color> ทะลุศัตรูสร้าง<color=#fff8cb>ความเสียหายจริง</color> 1000% ได้รับผลจากโบนัสความเสียหายธาตุทุกชนิด (ทำงานได้สูงสุด 1 ครั้งทุก 10 วินาที)
+GlobalParameters.Parameter.9047	<color=#ffaecf>เปิดแดนลับ</color>: หลังใช้ [แตกสลาย] กับอาวุธนี้ เมื่อเข้าด่านถัดไปจะไปยังแดนลับเพื่อรับเซอร์ไพรส์
+GlobalParameters.Parameter.9048	<color=#ffaecf>เงินคือพลัง</color>: ได้รับเหรียญ +100% ทุก 10 เหรียญที่มี ความเสียหายสุดท้าย +1%
+GlobalParameters.Parameter.9049	<color=#ffaecf>ทะลุขีดจำกัด</color>: ความเสียหายสุดท้าย อัตรายิง และความเร็วรีโหลด +50% ความเร็วเคลื่อนที่ +20% ความเสียหายที่ได้รับ -20%
+GlobalParameters.Parameter.9050	<color=#ffaecf>ปืนใหญ่แก้ว</color>: ความเสียหายสุดท้าย +225% ความเสียหายที่ได้รับ +100%
+GlobalParameters.Parameter.9051	<color=#ffaecf>ความแค้นของโปรแกรมเมอร์</color>: เมื่อยิงโดนศัตรู มี<color=#99b7bb>โอกาสไดนามิก</color> 1% สร้าง<color=#fff8cb>ความเสียหายจริง</color> 999999999 แก่ศัตรูทั้งหมด และมี<color=#99b7bb>โอกาสไดนามิก</color> 10% สร้าง<color=#fff8cb>ความเสียหายจริง</color> 1000% แก่ศัตรูในวงแคบ
 Item.Name.31	เรลิคปริศนา
 Item.Name.32	ไพ่ทาโรต์ปริศนา
 Item.Name.33	เรลิคมหากาพย์ปริศนา
@@ -470,6 +956,642 @@ Notplayercharacter.Action.30601	ดู
 Notplayercharacter.Action.30611	ดู
 Notplayercharacter.Action.30621	เตรียมพร้อม
 Notplayercharacter.Action.30631	เตรียมพร้อม
+Notplayercharacter.id.30741	？？？
+Pearl.Name.51101	เตรียมรบ: เหรียญ
+Pearl.Name.51102	เตรียมรบ: กระปุกออมสิน
+Pearl.Name.51103	เตรียมรบ: เรลิคตำนาน
+Pearl.Name.51104	เตรียมรบ: เหรียญนำโชคสารพัด
+Pearl.Name.51105	เตรียมรบ: เตาหลอม
+Pearl.Name.51201	คำรามของช่างเทพ
+Pearl.Name.51202	ค้อนตำนานของช่างเทพ
+Pearl.Name.51203	ยาจำลองของช่างเทพ
+Pearl.Name.51301	สินค้าลับของร้านค้า
+Pearl.Name.51302	บัตรส่วนลดของร้านค้า
+Pearl.Name.51401	เสริมการยิง
+Pearl.Name.51402	เสริมแปรปรวน
+Pearl.Name.51403	เสริมสกิลรบ
+Pearl.Name.51404	เสริมธาตุ
+Pearl.Name.51501	ความทรงจำของฮ็อตตี้
+Pearl.Name.51502	ความทรงจำของเอลลา
+Pearl.Name.51503	ความทรงจำของต้นไม้กระถางน้อย
+Pearl.Name.51504	ความทรงจำของจอมมายากล
+Pearl.Name.51505	ความทรงจำของนางรำ
+Pearl.Name.51506	ความทรงจำของนักฝึกสัตว์
+Pearl.Name.51507	ความทรงจำแห่งพรที่มอบแด่อลิเซีย
+Pearl.Name.51508	ความทรงจำของเรเวน
+Pearl.Name.51509	ความทรงจำของสามอัศวิน
+Pearl.Name.51510	ความทรงจำแห่งเวฟล็อคร่วมใจ
+Pearl.Name.51511	ความทรงจำของคนเก็บศพ
+Pearl.Name.51512	ความทรงจำแห่งบาปเวฟล็อค
+Pearl.Name.51513	ความทรงจำของโลเรไล อัศวินเทวี
+Pearl.Name.51514	ความทรงจำของอลิเซีย
+Pearl.Name.51901	แก่นแท้คนโง่
+Pearl.Name.51902	แก่นแท้นักมายากล
+Pearl.Name.51903	แก่นแท้นักบวชหญิง
+Pearl.Name.51904	แก่นแท้จักรพรรดินี
+Pearl.Name.51905	แก่นแท้จักรพรรดิ
+Pearl.Name.51906	แก่นแท้พระสันตะปาปา
+Pearl.Name.51907	แก่นแท้คู่รัก
+Pearl.Name.51908	แก่นแท้ราชรถ
+Pearl.Name.51909	แก่นแท้พลัง
+Pearl.Name.51910	แก่นแท้ฤๅษี
+Pearl.Name.51911	แก่นแท้โชคชะตา
+Pearl.Name.51912	แก่นแท้ความยุติธรรม
+Pearl.Name.51913	แก่นแท้คนแขวนคอ
+Pearl.Name.51914	แก่นแท้ความตาย
+Pearl.Name.51915	แก่นแท้ความพอดี
+Pearl.Name.51916	แก่นแท้ปีศาจ
+Pearl.Name.51917	แก่นแท้หอคอยขาว
+Pearl.Name.51918	แก่นแท้ดวงดาว
+Pearl.Name.51919	แก่นแท้ดวงจันทร์
+Pearl.Name.51920	แก่นแท้ดวงอาทิตย์
+Pearl.Name.51921	แก่นแท้การพิพากษา
+Pearl.Name.51922	แก่นแท้โลก
+Pearl.Name.52101	ต้านทานเพลิง
+Pearl.Name.52102	ต้านทานกายภาพ
+Pearl.Name.52103	ต้านทานกรด
+Pearl.Name.52104	ต้านทานสายฟ้า
+Pearl.Name.52105	ต้านทานเยือกแข็ง
+Pearl.Name.52201	โล่แห่งความมืด
+Pearl.Name.52202	โล่แห่งความมืด +
+Pearl.Name.52301	ของขวัญแห่งความมืด
+Pearl.Name.52302	ของขวัญแห่งความมืด +
+Pearl.Name.52303	ของขวัญแห่งความมืด ++
+Pearl.Name.52401	ชิ้นส่วนขึ้นสนิม
+Pearl.Name.52402	กระสุนขึ้นสนิม
+Pearl.Name.52403	ชิ้นส่วนสนิมจับตาย
+Pearl.Name.52404	กระสุนสนิมจับตาย
+Pearl.Name.52501	ย้ำคิดย้ำทำ
+Pearl.Name.52502	กลัวแสง
+Pearl.Name.52503	เหี่ยวเฉา
+Pearl.Name.52504	พูดไม่ได้
+Pearl.Name.52505	เก็บตัว
+Pearl.Name.52506	อยู่ไม่นิ่ง
+Pearl.Name.52507	ความจำเสื่อม
+Pearl.Name.52508	กล้ามเนื้ออ่อนแรง
+Pearl.Name.52509	ขาเป๋
+Pearl.Name.52510	หงุดหงิด
+Pearl.Name.52511	หัวสูง
+Pearl.Name.52601	แก้แค้น
+Pearl.Name.52602	ดูดเลือด
+Pearl.Name.52603	ระเบิดน้ำแข็ง
+Pearl.Name.52604	บ่อพิษ
+Pearl.Name.52605	ดิ้นรน
+Pearl.Name.52701	อาณาเขตของบอส
+Pearl.Name.52702	อาณาเขตของลูกกระจ๊อก
+Pearl.Name.52801	หอยทากไล่ล่า
+Pearl.Name.52802	ไคเมร่าไล่ล่า
+Pearl.Name.52803	ผู้บัญชาการไล่ล่า
+Pearl.Name.52901	การหยอกล้อของคนโง่
+Pearl.Name.52902	กลลวงของนักมายากล
+Pearl.Name.52903	นักบวชหญิงผู้ตกต่ำ
+Pearl.Name.52904	จักรพรรดินีผู้แปดเปื้อน
+Pearl.Name.52905	ความดื้อรั้นของจักรพรรดิ
+Pearl.Name.52906	แผนลับของพระสันตะปาปา
+Pearl.Name.52907	การทรยศของคู่รัก
+Pearl.Name.52908	ราชรถเสียการควบคุม
+Pearl.Name.52909	พลังที่เสื่อมสลาย
+Pearl.Name.52910	ฤๅษีผู้เงียบงัน
+Pearl.Name.52911	โชคชะตาที่สับสน
+Pearl.Name.52912	ความยุติธรรมของคนชั่ว
+Pearl.Name.52913	ความทรมานของคนแขวนคอ
+Pearl.Name.52914	คำสั่งแห่งความตาย
+Pearl.Name.52915	ความพอดีที่พังทลาย
+Pearl.Name.52916	ปีศาจเจ้าเล่ห์
+Pearl.Name.52917	หอคอยขาวที่พังทลาย
+Pearl.Name.52918	ดวงดาวหม่นมัว
+Pearl.Name.52919	ดวงจันทร์ที่หยุดนิ่ง
+Pearl.Name.52920	ดวงอาทิตย์ร่วงหล่น
+Pearl.Name.52921	การพิพากษาที่ไม่เป็นธรรม
+Pearl.Name.52922	โลกที่กำลังพังทลาย
+Pearl.Description.51101	<color=#d6b85b>เมื่อเริ่มเกม:</color> ได้รับ 300 เหรียญ
+Pearl.Description.51102	<color=#d6b85b>เมื่อเริ่มเกม:</color> ได้รับ<color=#d6b85b>[กระปุกออมสินของแลนนี]</color>
+Pearl.Description.51103	<color=#d6b85b>เมื่อเริ่มเกม:</color> ได้รับ<color=#D77D3A>เรลิคตำนานปริศนา</color> 1 ชิ้น
+Pearl.Description.51104	<color=#d6b85b>เมื่อเริ่มเกม:</color> ได้รับ<color=#d6b85b>[เหรียญนำโชคสารพัด]</color> 1 เหรียญ
+Pearl.Description.51105	<color=#d6b85b>เมื่อเริ่มเกม:</color> ได้รับเอฟเฟกต์ของ<color=#d6b85b>[เตาหลอมเพลิง]</color> 2 และ<color=#d6b85b>[เบ้าหลอมแปรธาตุ]</color> 2 แบบถาวร
+Pearl.Description.51201	เรลิคในหีบสมบัติและร้านค้าทั้งหมดเป็นเรลิคหลอมต้องห้าม
+Pearl.Description.51202	<color=#d6b85b>เมื่อเข้าร้านค้า:</color> ได้รับ<color=#d6b85b>[ยาค้อนตำนาน]</color> 1 ขวด
+Pearl.Description.51203	เมื่อซื้อไอเทมชิ้นแรกในร้านค้า จะได้รับสำเนาเพิ่ม 1 ชิ้น
+Pearl.Description.51301	หลังรีเฟรชร้านค้า 7 ครั้ง ได้รับ<color=#D77D3A>เรลิคตำนานปริศนา</color> 1 ชิ้น
+Pearl.Description.51302	ราคาสินค้าในร้านค้าลดลง 30%
+Pearl.Description.51401	<color=#d6b85b>เมื่อยิง:</color> มีโอกาส 10% ให้กระสุนนัดนี้สร้างความเสียหาย +500%
+Pearl.Description.51402	<color=#d6b85b>หลังใช้สกิลรบ:</color> การยิงครั้งถัดไปจะทำให้เกิดแปรปรวนของธาตุเรลิคที่คุณมี
+Pearl.Description.51403	คูลดาวน์สกิลรบ -3 วินาที
+Pearl.Description.51404	ต่อเรลิคที่พกอยู่ 1 ชิ้น ความเสียหายธาตุของธาตุนั้น +10%
+Pearl.Description.51501	<color=#d6b85b>หลังใช้สกิลรบ:</color> ปล่อยลูกไฟ 16 ลูกกระจายออกรอบตัว สร้างความเสียหายธาตุอาวุธหลัก 200%
+Pearl.Description.51502	<color=#d6b85b>หลังใช้ท่าไม้ตาย:</color> ปล่อยลูกไฟยักษ์ทะลุทะลวง 16 ลูก สร้างความเสียหายธาตุอาวุธหลัก 1000% ลูกไฟจะเรียกวังวนเพลิงที่สร้างความเสียหายธาตุอาวุธหลัก 50% ต่อวินาที นาน 3 วินาที
+Pearl.Description.51503	<color=#d6b85b>หลังใช้สกิลรบ:</color> หนามงอกขึ้นใต้เท้าศัตรูทุกตัว สร้างความเสียหายธาตุอาวุธหลัก 100% และตรึงไว้ 1 วินาที
+Pearl.Description.51504	<color=#d6b85b>หลังใช้สกิลรบ:</color> ยิงมีดขว้างทะลุทะลวงใส่ศัตรูที่อันตรายที่สุด สร้าง<color=#fff8cb>ความเสียหายจริง</color> 1000%
+Pearl.Description.51505	<color=#d6b85b>เมื่อยิง:</color> มีโอกาสไดนามิก 80% เพิ่มวงล้อระบำ สร้าง<color=#e92f2f>ความเสียหายกายภาพ</color> 300%
+Pearl.Description.51506	<color=#d6b85b>หลังเข้าสู่การต่อสู้:</color> เรียกวงแหวนไฟมรณะที่ตำแหน่งศัตรูใกล้สุด วงแหวนสร้าง<color=#f44f06>ความเสียหายเพลิง</color> 200% ต่อวินาที และจะเคลื่อนเข้าหาศัตรูที่ใกล้คุณที่สุดเสมอ
+Pearl.Description.51507	<color=#d6b85b>เมื่อถูกโจมตี:</color> ขว้างก้อนครีมใส่ต้นตอการโจมตี สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 5000% และแช่แข็งศัตรูทั้งหมดในระยะ
+Pearl.Description.51508	ทุก 2 วินาที เรียกอีกา 1 ตัว อีกาจะพุ่งชนศัตรูที่ใกล้ที่สุด สร้าง<color=#fff8cb>ความเสียหายจริง</color>เป็นวงกว้าง 50% และติดแปรปรวนแบบสุ่ม 1 อย่าง
+Pearl.Description.51509	<color=#d6b85b>หลังใช้ท่าไม้ตาย:</color> เรียกภาพลวงของมือปืนนรกที่กราดยิงกระสุนเป็นรูปพัดไปทางที่คุณเล็ง สร้างความเสียหายธาตุอาวุธหลัก 300% ทุก 0.3 วินาที นาน 3 วินาที
+Pearl.Description.51510	เมื่อสร้าง<color=#f44f06>ความเสียหายเพลิง</color>: ทุก 0.5 วินาที เรียกอุกกาบาตถล่มเป้าหมาย สร้างความเสียหายธาตุอาวุธหลัก 300% และทำให้เปราะบางต่อความเสียหายธาตุอาวุธหลัก 50% ทำงาน 3 ครั้ง
+Pearl.Description.51511	<color=#d6b85b><link=\\"9032\\">[นัดสุดท้าย]:</link></color> ยิงลูกศรวิญญาณ ลูกศรวิญญาณสร้าง<color=#fff8cb>ความเสียหายจริง</color>เท่ากับ 100% ของพลังโจมตีกระสุน และได้รับผลจากจำนวนลูกกระสุน
+Pearl.Description.51512	<color=#d6b85b>หลังใช้สกิลรบ:</color> พ่นโคลนแห่งความเป็นไปได้ สร้าง<color=#fff8cb>ความเสียหายจริง</color> 500% และทำให้ติดความกลัว จากนั้นพ่นน้ำตาจันทรา สร้าง<color=#fff8cb>ความเสียหายจริง</color> 200%
+Pearl.Description.51513	<color=#d6b85b>หลังเข้าสู่การต่อสู้:</color> ทุก 3 วินาที ปล่อยคลื่นดาบมิติ 1-3 ครั้งใส่ศัตรูรอบตัวทั้งหมด แต่ละครั้งสร้าง<color=#fff8cb>ความเสียหายจริง</color> 150%
+Pearl.Description.51514	<color=#d6b85b>หลังใช้ท่าไม้ตาย:</color> หลังหน่วงเล็กน้อย ปล่อยคลื่นทัณฑ์สวรรค์ใส่ศัตรูที่ใกล้ที่สุด สร้างความเสียหายธาตุอาวุธหลัก 4000% ต่อวินาที นาน 3 วินาที
+Pearl.Description.51901	เอฟเฟกต์ <color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color> ของคุณทำงานเพิ่มอีก 1 ครั้ง
+Pearl.Description.51902	<color=#d6b85b>หลังใช้สกิลรบ:</color> ศัตรูทั้งหมดกลายเป็น<color=#d6b85b>[กระต่าย]</color> นาน 2 วินาที ความเสียหายที่คุณทำต่อ<color=#d6b85b>[กระต่าย]</color> +50%
+Pearl.Description.51903	หลังได้รับความเสียหาย ได้รับ <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> เท่ากับความเสียหายที่ได้รับ
+Pearl.Description.51904	เมื่อแยกชิ้นส่วน จะคืนไอเทมประเภทเดียวกัน 1 ชิ้น จำกัด 1 ครั้งต่อด่าน
+Pearl.Description.51905	ความเสียหายและการฟื้นพลังทั้งหมดของคุณคริติคอลได้
+Pearl.Description.51906	เมื่อศัตรูตาย: รีเซ็ตคูลดาวน์สกิลรบของคุณ
+Pearl.Description.51907	<color=#d6b85b>เมื่อเริ่มเกม:</color> ได้รับเอฟเฟกต์ของ<color=#d6b85b>[ไพ่ทาโรต์ - คู่รัก]</color> และ<color=#d6b85b>[ของขวัญคู่รัก]</color> แบบถาวร
+Pearl.Description.51908	ระยะหลบ +75% สร้าง<color=#f44f06>ความเสียหายเพลิง</color> 100% และ<color=#f7e301>ความเสียหายสายฟ้า</color> 100% แก่ศัตรูที่อยู่บนเส้นทาง
+Pearl.Description.51909	เอฟเฟกต์เพิ่มความเสียหายที่ได้รับไม่มีผลกับคุณ และลดความเสียหายทั้งหมด 20%
+Pearl.Description.51910	เมื่อไม่มีศัตรูในระยะ 500 หลา ลดความเสียหายทั้งหมด 30%
+Pearl.Description.51911	เมื่อเลือกเรลิค รีเฟรชได้เพิ่มอีก 1 ครั้ง
+Pearl.Description.51912	พลังชีวิตที่ฟื้นในร้านค้าและจุดพักจะแปลงเป็น <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> เท่ากัน
+Pearl.Description.51913	เอฟเฟกต์ <link=\\"9022\\"><color=#d6b85b>[แตกสลาย]</color></link> ของคุณทำงานเพิ่มอีก 1 ครั้ง
+Pearl.Description.51914	เอฟเฟกต์ <color=#d6b85b><link=\\"9002\\">[ปลายทาง]</link></color> ของคุณทำงานเพิ่มอีก 1 ครั้ง
+Pearl.Description.51915	ไอเทมชิ้นแรกที่ซื้อในร้านค้าฟรี
+Pearl.Description.51916	เมื่อผ่านด่าน ถ้าไม่ได้รับความเสียหายเลยในด่านนั้น จะดรอปไอเทมคุณภาพ<color=#bd30e7>มหากาพย์</color>ขึ้นไป 1 ชิ้น
+Pearl.Description.51917	<color=#d6b85b>เมื่อเริ่มเกม:</color> ได้รับ<color=#d6b85b>[กุญแจหอคอย]</color>
+Pearl.Description.51918	หลังทีมล้มทั้งหมด ทุกคนฟื้นคืนชีพด้วยพลังชีวิต 100% จำกัด 1 ครั้ง
+Pearl.Description.51919	เมื่อเกิดแปรปรวน ได้รับ <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> 1 และเพดาน <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> +999
+Pearl.Description.51920	ตัวใหญ่ขึ้น ได้รับพลังชีวิตพื้นฐาน 100 ความเสียหายธาตุทั้งหมด +20%
+Pearl.Description.51921	เมื่อสร้างความเสียหาย มีโอกาส 10% สร้างความเสียหาย 10 เท่า ถ้าไม่ติด โอกาสเพิ่มขึ้น 10% และรีเซ็ตหลังทำงาน
+Pearl.Description.51922	<color=#d6b85b>เมื่อเข้าร้านค้า:</color> ได้รับ <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> 2 <color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color> 2 และ <color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color> 2 ทำซ้ำ 10 ครั้ง
+Pearl.Description.52101	เมื่อศัตรูได้รับ<color=#f44f06>ความเสียหายเพลิง</color> จะปล่อยเสาเพลิงใส่ผู้เล่นทุกคน
+Pearl.Description.52102	เมื่อศัตรูได้รับ<color=#e92f2f>ความเสียหายกายภาพ</color> จะปล่อยกระสุนกระจายรอบตัว
+Pearl.Description.52103	เมื่อศัตรูได้รับ<color=#3dda4f>ความเสียหายกรด</color> จะทิ้งบ่อพิษไว้ที่ตำแหน่งนั้น
+Pearl.Description.52104	หลังศัตรูได้รับ<color=#f7e301>ความเสียหายสายฟ้า</color> จะอมตะ 1 วินาที
+Pearl.Description.52105	ขณะได้รับ<color=#11f7ef>ความเสียหายเยือกแข็ง</color> ศัตรูจะภูมิคุ้มกันเอฟเฟกต์ควบคุมทั้งหมด
+Pearl.Description.52201	มอนสเตอร์ทั้งหมดได้รับความมั่นคง +50% และความต้านทานทั้งหมด +10%
+Pearl.Description.52202	มอนสเตอร์ทั้งหมดมีความมั่นคงเต็ม และความต้านทานทั้งหมด +30%
+Pearl.Description.52301	ศัตรูบางตัวมีอัฟฟิกซ์แบบสุ่ม 1 อย่าง
+Pearl.Description.52302	ศัตรูบางตัวมีอัฟฟิกซ์แบบสุ่ม 2 อย่าง
+Pearl.Description.52303	ศัตรูบางตัวมีอัฟฟิกซ์แบบสุ่ม 3 อย่าง
+Pearl.Description.52401	คูลดาวน์สกิลรบ +50%
+Pearl.Description.52402	อัตรายิงและความเร็วรีโหลดพื้นฐาน -33%
+Pearl.Description.52403	คูลดาวน์สกิลรบ +100%
+Pearl.Description.52404	อัตรายิงและความเร็วรีโหลดพื้นฐาน -50%
+Pearl.Description.52501	ทุก 1 แต้มที่ <color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color> และ <color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color> ต่างกัน ความเสียหายที่คุณได้รับ +2%
+Pearl.Description.52502	<color=#d6b85b>เมื่อเริ่มการต่อสู้:</color> ระยะการมองเห็นของคุณลดลง 50%
+Pearl.Description.52503	<color=#d6b85b>เมื่อเริ่มการต่อสู้:</color> คุณเสียพลังชีวิต 1% ต่อวินาที และได้คืนเท่าเดิมเมื่อจบการต่อสู้
+Pearl.Description.52504	หลังได้รับความเสียหาย 3 วินาที คุณจะติด<color=#d6b85b>[ไซเลนซ์]</color>
+Pearl.Description.52505	ต่อศัตรู 1 ตัวในระยะ 300 หลา คุณเสียพลังชีวิต 1% ต่อวินาที
+Pearl.Description.52506	ขณะอยู่ในการต่อสู้ คุณจะเคลื่อนที่ไปในทิศทางล่าสุดตลอดเวลา
+Pearl.Description.52507	การรีโหลดของคุณมีโอกาสล้มเหลว 30%
+Pearl.Description.52508	ความเสียหายของศัตรูมีโอกาสคริติคอล 30%
+Pearl.Description.52509	การหลบมีคูลดาวน์ 1 วินาที
+Pearl.Description.52510	พลังชีวิตของคุณฟื้นได้สูงสุดแค่ 70%
+Pearl.Description.52511	<color=#d6b85b>เมื่อเข้าจุดพัก:</color> แยกชิ้นส่วนเรลิคคุณภาพต่ำสุด 5 ชิ้นโดยอัตโนมัติ
+Pearl.Description.52601	เมื่อศัตรูตาย ศัตรูตัวอื่นจะได้รับพลังโจมตี +10% จนจบการต่อสู้
+Pearl.Description.52602	เมื่อศัตรูสร้างความเสียหายแก่คุณ มันจะฟื้นพลังชีวิต 50% บอสฟื้น 10% แทน
+Pearl.Description.52603	เมื่อศัตรูตาย ศพจะเกิดระเบิดน้ำแข็งที่แช่แข็งคุณ
+Pearl.Description.52604	เมื่อศัตรูตาย จะทิ้งบ่อพิษที่ไม่หายไปไว้ที่เดิม
+Pearl.Description.52605	เมื่อศัตรูมีพลังชีวิตต่ำกว่า 10% มันจะอมตะ 5 วินาที
+Pearl.Description.52701	พลังชีวิตของบอส +100% ความเสียหายที่สร้าง +20%
+Pearl.Description.52702	พลังชีวิตของศัตรูที่ไม่ใช่บอส +100% ความเสียหายที่สร้าง +20%
+Pearl.Description.52801	<color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color>: เรียกหอยทากมีพิษร้ายที่คอยไล่ล่าคุณ
+Pearl.Description.52802	ไคเมร่าสังหารจะไล่ล่าคุณ
+Pearl.Description.52803	ผู้นำลัทธิรักษาจะไล่ล่าคุณ
+Pearl.Description.52901	เอฟเฟกต์ <color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color> ของคุณมีโอกาสล้มเหลว 50%
+Pearl.Description.52902	<color=#d6b85b><link=\\"9031\\">[นัดแรก]</link></color>: มีโอกาส 30% ลำกล้องระเบิดและเสียกระสุนทั้งหมด
+Pearl.Description.52903	ต่อพลังชีวิตส่วนเกิน 1% ที่คุณมี ความเสียหายที่คุณได้รับทั้งหมด +0.5%
+Pearl.Description.52904	การแยกชิ้นส่วนไอเทมจะไม่ได้รับเหรียญ
+Pearl.Description.52905	คริติคอลไม่ได้
+Pearl.Description.52906	คุณถูกตัดสินว่าเป็นคนนอกรีต และรับการรักษาในร้านค้าไม่ได้
+Pearl.Description.52907	ทำลายช่องอาวุธรองของคุณ
+Pearl.Description.52908	หลังหลบ จะไถลต่ออีก 0.5 วินาที
+Pearl.Description.52909	ทุกครั้งที่ได้รับความเสียหาย จะติดเปราะบาง 33% เพิ่ม 1 ชั้น ล้างเมื่อผ่านด่าน
+Pearl.Description.52910	เมื่อไม่มีศัตรูในระยะ 700 หลา คุณจะติด<color=#d6b85b>[ไซเลนซ์]</color>
+Pearl.Description.52911	เมื่อเปิดหีบผ่านด่าน มีโอกาส 33% ที่จะไม่ได้รางวัล
+Pearl.Description.52912	การโจมตีของศัตรูจะข้าม <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> และสร้างความเสียหายแก่คุณโดยตรง
+Pearl.Description.52913	เอฟเฟกต์ <link=\\"9022\\"><color=#d6b85b>[แตกสลาย]</color></link> ของคุณมีโอกาสล้มเหลว 50%
+Pearl.Description.52914	เอฟเฟกต์ <color=#d6b85b><link=\\"9002\\">[ปลายทาง]</link></color> ของคุณมีโอกาสล้มเหลว 50%
+Pearl.Description.52915	หลังซื้อไอเทมในร้านค้า ราคาสินค้าจะเพิ่มขึ้น 20% ถาวร
+Pearl.Description.52916	ต่อไอเทมตำนานที่พกอยู่ 1 ชิ้น คุณจะติดเปราะบาง 30%
+Pearl.Description.52917	ช่องไพ่ทาโรต์ -2
+Pearl.Description.52918	สกิลชุบชีวิตทั้งหมดใช้ไม่ได้ และช่วยเพื่อนร่วมทีมในการต่อสู้ไม่ได้
+Pearl.Description.52919	ศัตรูรับเอฟเฟกต์แปรปรวนได้สูงสุด 1 ครั้งต่อวินาที
+Pearl.Description.52920	ตัวเล็กลง ศัตรูทั้งหมดสร้างความเสียหายแก่คุณ +50%
+Pearl.Description.52921	เมื่อพลังชีวิตต่ำกว่า 50% การได้รับความเสียหายจะทำให้ตายทันที
+Pearl.Description.52922	ช่องเรลิค -4
+Relic.Name.41001	รองเท้าคนโง่
+Relic.Name.41002	หมวกนักมายากล
+Relic.Name.41003	พวงมาลัยนักบวชหญิง
+Relic.Name.41004	หีบสมบัติจักรพรรดินี
+Relic.Name.41005	ดาบศักดิ์สิทธิ์จักรพรรดิ
+Relic.Name.41006	คทาสันตะปาปา
+Relic.Name.41007	ของขวัญคู่รัก
+Relic.Name.41008	ล้อรถศึก
+Relic.Name.41009	สนับแข้งพลัง
+Relic.Name.41010	เสื้อคลุมฤๅษี
+Relic.Name.41011	ตราชูโชคชะตา
+Relic.Name.41012	ดาบยุติธรรม
+Relic.Name.41013	เชือกคนแขวนคอ
+Relic.Name.41014	เคียวยมทูต
+Relic.Name.41015	ตราพอประมาณ
+Relic.Name.41016	เหรียญปีศาจ
+Relic.Name.41017	กุญแจหอคอย
+Relic.Name.41018	คทาดวงดาว
+Relic.Name.41019	คทาดวงจันทร์
+Relic.Name.41020	คทาดวงอาทิตย์
+Relic.Name.41021	ดาบพิพากษา
+Relic.Name.41022	ศิลาโลก
+Relic.Name.41023	ทับทิมเลือด
+Relic.Name.41024	กระสุนหนาม
+Relic.Name.41025	เครื่องรางเหล็กกล้า
+Relic.Name.41026	แหวนทุบหนัก
+Relic.Name.41027	คัมภีร์พลัง
+Relic.Name.41028	คัมภีร์เลือด
+Relic.Name.41029	ลูกแก้วกระหายเลือด
+Relic.Name.41030	แหวนแดงเลือด
+Relic.Name.41031	ถุงมือบดขยี้
+Relic.Name.41032	หอกเลือด
+Relic.Name.41033	แตรสงคราม
+Relic.Name.41034	ตำราอาคม
+Relic.Name.41035	ขวานเพชฌฆาต
+Relic.Name.41036	ใบมีดผ่าท้อง
+Relic.Name.41037	อ่างพิธีกรรม
+Relic.Name.41038	สร้อยจันทร์เลือด
+Relic.Name.41039	หนังสือจาริกบุญ
+Relic.Name.41040	หน้ากากสังหาร
+Relic.Name.41041	เมตตาจากพระเจ้า
+Relic.Name.41042	แหวนทุกข์ทรมาน
+Relic.Name.41043	จอกเลือด
+Relic.Name.41044	ไพลินสีคราม
+Relic.Name.41045	เครื่องรางเยือกแข็ง
+Relic.Name.41046	แหวนพิทักษ์
+Relic.Name.41047	เกราะน้ำแข็งละลาย
+Relic.Name.41048	เกราะปฐมพยาบาล
+Relic.Name.41049	เกราะห้ามเลือด
+Relic.Name.41050	แหวนควบแน่น
+Relic.Name.41051	เสาน้ำแข็ง
+Relic.Name.41052	สร้อยกลืนความร้อน
+Relic.Name.41053	กระสุนเยือกแข็ง
+Relic.Name.41054	เกราะหนักเยือกแข็ง
+Relic.Name.41055	ลูกแก้วพลังจลน์
+Relic.Name.41056	เกราะพายุ
+Relic.Name.41057	หนามเหน็บหนาว
+Relic.Name.41058	แหวนพายุ
+Relic.Name.41059	เกราะเกรี้ยวกราด
+Relic.Name.41060	มงกุฎดาวหาง
+Relic.Name.41061	ป้อมปราการอมตะ
+Relic.Name.41062	หัวใจพายุ
+Relic.Name.41063	จุมพิตลมหนาว
+Relic.Name.41064	ดวงตาเหมันต์
+Relic.Name.41065	ถุงมือประจุ
+Relic.Name.41066	รองเท้าประจุ
+Relic.Name.41067	กระสุนประจุ
+Relic.Name.41068	เครื่องรางสายฟ้า
+Relic.Name.41069	แหวนประจุ
+Relic.Name.41070	สร้อยประจุ
+Relic.Name.41071	มีดไฟฟ้าประจุ
+Relic.Name.41072	ลิ่มล่อสายฟ้า
+Relic.Name.41073	ลูกแก้วปั่นป่วน
+Relic.Name.41074	แม่เหล็กรวมพลัง
+Relic.Name.41075	ดวงตามังกรสายฟ้า
+Relic.Name.41076	ตัวเก็บประจุโอเวอร์โหลด
+Relic.Name.41077	กรงเล็บมังกรสายฟ้า
+Relic.Name.41078	สนามไฟฟ้าปั่นป่วน
+Relic.Name.41079	เกล็ดกลับมังกรสายฟ้า
+Relic.Name.41080	ขดลวดโอเวอร์โหลด
+Relic.Name.41081	มือฟ้าคำราม
+Relic.Name.41082	ลูกศรฟ้าคำราม
+Relic.Name.41083	มงกุฎฟ้าคำราม
+Relic.Name.41084	เกราะฟ้าคำราม
+Relic.Name.41085	เสียงคำรามสายฟ้า
+Relic.Name.41086	กระสุนปิดฉาก
+Relic.Name.41087	กระสุนเพลิง
+Relic.Name.41088	เครื่องรางเพลิง
+Relic.Name.41089	อัญมณีเพลิง
+Relic.Name.41090	เถ้าเพลิงนิรันดร์
+Relic.Name.41091	ระเบิดยุบตัว
+Relic.Name.41092	ระเบิดแรงสูง
+Relic.Name.41093	เตาหลอมเพลิง
+Relic.Name.41094	ถุงมือไฟย้อน
+Relic.Name.41095	ระเบิดฟอสฟอรัสขาว
+Relic.Name.41096	ตราฟีนิกซ์
+Relic.Name.41097	ลูกไฟระเบิด
+Relic.Name.41098	กระสุนเพลิงมรณะ
+Relic.Name.41099	ระเบิดเทอร์ไมต์
+Relic.Name.41100	กุหลาบตะวันแผดเผา
+Relic.Name.41101	แหวนแสงตะวัน
+Relic.Name.41102	แหวนเพลิงคลั่ง
+Relic.Name.41103	เพลิงนิพพาน
+Relic.Name.41104	ฟืนไม่รู้จบ
+Relic.Name.41105	ลูกแก้วแกนหลอมเหลว
+Relic.Name.41106	มงกุฎเพลิงระเบิด
+Relic.Name.41107	ดอกไม้พละกำลัง
+Relic.Name.41108	เครื่องรางกรด
+Relic.Name.41109	สมุนไพรรักษา
+Relic.Name.41110	เขี้ยวหนองน้ำ
+Relic.Name.41111	เบ้าแปรธาตุ
+Relic.Name.41112	โคลเวอร์นำโชค
+Relic.Name.41113	ลูกแก้วเติบโต
+Relic.Name.41114	เลือดเน่าเสีย
+Relic.Name.41115	ถุงมือพละกำลัง
+Relic.Name.41116	เมล็ดชีวิต
+Relic.Name.41117	เถาวัลย์พันธนาการ
+Relic.Name.41118	ลูกแก้วพลังชีวิต
+Relic.Name.41119	สร้อยไฮดรา
+Relic.Name.41120	ยาพิษติดไฟ
+Relic.Name.41121	หน้ากากกาฬโรค
+Relic.Name.41122	ดอกไม้ทางมรณะ
+Relic.Name.41123	ลำคอไฮดรา
+Relic.Name.41124	จอกกำเนิด
+Relic.Name.41125	แหวนพญางู
+Relic.Name.41126	มงกุฎรากเน่า
+Relic.Name.41127	น้ำตาลิช
+Relic.Name.41128	ดอกไม้ชีวิต
+Relic.Name.41129	รองเท้าความเร็ว
+Relic.Name.41130	เครื่องรางมรณะ
+Relic.Name.41131	ชิ้นส่วนน้ำหนักเบา
+Relic.Name.41132	จี้ธรรมดา
+Relic.Name.41133	ตำราเทคนิค
+Relic.Name.41134	แม็กกาซีนไฟฟอสฟอรัส
+Relic.Name.41135	สายใยแสง
+Relic.Name.41136	เครื่องรางสังหาร
+Relic.Name.41137	เครื่องรางทวีคูณ
+Relic.Name.41138	เครื่องสกัดพลังงาน
+Relic.Name.41139	เศษดาวตก
+Relic.Name.41140	ปริซึมไร้สี
+Relic.Name.41141	รังเพลิงมรณะ
+Relic.Name.41142	อุปกรณ์น้ำหนักเบา
+Relic.Name.41143	กระสุนทะเลทราย
+Relic.Name.41144	อุปกรณ์น้ำหนักมาก
+Relic.Name.41145	กระสุนล้างผลาญ
+Relic.Name.41146	ความสง่างามนักล่า
+Relic.Name.41147	เครื่องรางสูญสลาย
+Relic.Name.41148	แหวนขโมยเวลา
+Relic.Name.41149	ลูกเต๋าทะเลทราย
+Relic.Name.41150	มงกุฎฮึกเหิม
+Relic.Name.41151	กระปุกออมสินของแลนนี
+Relic.Name.41152	คริสตัลอาคม
+Relic.Name.41153	เครื่องปรับชิ้นส่วนอาวุธ
+Relic.Name.41154	ตัวกันสั่นการยิง
+Relic.Name.41155	กล้องเล็งล็อกเป้า
+Relic.Name.41157	แหวนห้าสี
+Relic.Name.41158	คริสตัลห้าสี
+Relic.Name.41159	แหวนสูงสุดห้าสี
+Relic.Name.41160	ใบเลื่อยประกายไฟ
+Relic.Name.41161	เยือกแข็งแผ่กระจาย
+Relic.Name.41162	ศิลาสายฟ้าประจุ
+Relic.Name.41163	อุกกาบาตแกนหลอมเหลว
+Relic.Name.41164	ขวดพิษปรอท
+Relic.Name.41165	ตราเหล็กกล้า
+Relic.Name.41166	ตราเยือกแข็ง
+Relic.Name.41167	ตราสายฟ้า
+Relic.Name.41168	ตราเพลิง
+Relic.Name.41169	ตรากรด
+Relic.Name.41170	กระสุนมิธริล
+Relic.Name.41171	กระสุนแช่แข็งฉับพลัน
+Relic.Name.41172	กระสุนช็อตไฟฟ้า
+Relic.Name.41173	กระสุนโฟลจิสตัน
+Relic.Name.41174	กระสุนกรดกัด
+Relic.Name.41176	ศิลาประกายไฟ
+Relic.Name.41177	กระสุนศรเยือกแข็ง
+Relic.Name.41178	หมัดเยือกแข็ง
+Relic.Name.41179	แกนเหล็กกล้าชุบแข็ง
+Relic.Name.41180	คัมภีร์สลายร่าง
+Relic.Name.41181	เมล็ดเยือกแข็ง
+Relic.Name.41182	เลือดกำมะถัน
+Relic.Name.41183	กระสุนเจาะแรงดันสูง
+Relic.Name.41184	ขวดกรดเพลิง
+Relic.Name.41185	ตู้เย็นโอเวอร์โหลด
+Relic.Name.41186	ศิลาผนึกมังกร
+Relic.Name.41187	ลูกศรห้าสี
+Relic.Name.41188	ยุทธวิธีต่อเนื่อง
+Relic.Name.41189	คริสตัลเวทผลักขั้ว
+Relic.Name.41190	จอกทองมายา
+Relic.Name.41191	เหรียญแบ่งภาค
+Relic.Name.41192	กระสุนนักล่าราชา
+Relic.Name.41193	แม็กกาซีนกระจาย
+Relic.Name.41194	รางประจุ
+Relic.Name.41195	แกนวิกฤต
+Relic.Name.41196	อุปกรณ์กระจกเงา
+Relic.Name.41197	เครื่องยนต์ประจุ
+Relic.Name.41198	เครื่องสั่นพ้อง
+Relic.Name.41199	ชุดมิสไซล์นำวิถี
+Relic.Name.41200	ธนูเพลิงระเบิด
+Relic.Name.41201	หน้ากากโทสะ
+Relic.Name.43001	หลอม·รองเท้าคนโง่
+Relic.Name.43002	หลอม·หมวกนักมายากล
+Relic.Name.43003	หลอม·พวงมาลัยนักบวชหญิง
+Relic.Name.43004	หลอม·หีบสมบัติจักรพรรดินี
+Relic.Name.43005	หลอม·ดาบศักดิ์สิทธิ์จักรพรรดิ
+Relic.Name.43006	หลอม·คทาสันตะปาปา
+Relic.Name.43007	หลอม·ของขวัญคู่รัก
+Relic.Name.43008	หลอม·ล้อรถศึก
+Relic.Name.43009	หลอม·สนับแข้งพลัง
+Relic.Name.43010	หลอม·เสื้อคลุมฤๅษี
+Relic.Name.43011	หลอม·ตราชูโชคชะตา
+Relic.Name.43012	หลอม·ดาบยุติธรรม
+Relic.Name.43013	หลอม·เชือกคนแขวนคอ
+Relic.Name.43014	หลอม·เคียวยมทูต
+Relic.Name.43015	หลอม·ตราพอประมาณ
+Relic.Name.43016	หลอม·เหรียญปีศาจ
+Relic.Name.43017	หลอม·กุญแจหอคอย
+Relic.Name.43018	หลอม·คทาดวงดาว
+Relic.Name.43019	หลอม·คทาดวงจันทร์
+Relic.Name.43020	หลอม·คทาดวงอาทิตย์
+Relic.Name.43021	หลอม·ดาบพิพากษา
+Relic.Name.43022	หลอม·ศิลาโลก
+Relic.Name.43023	หลอม·ทับทิมเลือด
+Relic.Name.43024	หลอม·กระสุนหนาม
+Relic.Name.43025	หลอม·เครื่องรางเหล็กกล้า
+Relic.Name.43026	หลอม·แหวนทุบหนัก
+Relic.Name.43027	หลอม·คัมภีร์พลัง
+Relic.Name.43028	หลอม·คัมภีร์เลือด
+Relic.Name.43029	หลอม·ลูกแก้วกระหายเลือด
+Relic.Name.43030	หลอม·แหวนแดงเลือด
+Relic.Name.43031	หลอม·ถุงมือบดขยี้
+Relic.Name.43032	หลอม·หอกเลือด
+Relic.Name.43033	หลอม·แตรสงคราม
+Relic.Name.43034	หลอม·ตำราอาคม
+Relic.Name.43035	หลอม·ขวานเพชฌฆาต
+Relic.Name.43036	หลอม·ใบมีดผ่าท้อง
+Relic.Name.43037	หลอม·อ่างพิธีกรรม
+Relic.Name.43038	หลอม·สร้อยจันทร์เลือด
+Relic.Name.43039	หลอม·หนังสือจาริกบุญ
+Relic.Name.43040	หลอม·หน้ากากสังหาร
+Relic.Name.43041	หลอม·เมตตาจากพระเจ้า
+Relic.Name.43042	หลอม·แหวนทุกข์ทรมาน
+Relic.Name.43043	หลอม·จอกเลือด
+Relic.Name.43044	หลอม·ไพลินสีคราม
+Relic.Name.43045	หลอม·เครื่องรางเยือกแข็ง
+Relic.Name.43046	หลอม·แหวนพิทักษ์
+Relic.Name.43047	หลอม·เกราะน้ำแข็งละลาย
+Relic.Name.43048	หลอม·เกราะปฐมพยาบาล
+Relic.Name.43049	หลอม·เกราะห้ามเลือด
+Relic.Name.43050	หลอม·แหวนควบแน่น
+Relic.Name.43051	หลอม·เสาน้ำแข็ง
+Relic.Name.43052	หลอม·สร้อยกลืนความร้อน
+Relic.Name.43053	หลอม·กระสุนเยือกแข็ง
+Relic.Name.43054	หลอม·เกราะหนักเยือกแข็ง
+Relic.Name.43055	หลอม·ลูกแก้วพลังจลน์
+Relic.Name.43056	หลอม·เกราะพายุ
+Relic.Name.43057	หลอม·หนามเหน็บหนาว
+Relic.Name.43058	หลอม·แหวนพายุ
+Relic.Name.43059	หลอม·เกราะเกรี้ยวกราด
+Relic.Name.43060	หลอม·มงกุฎดาวหาง
+Relic.Name.43061	หลอม·ป้อมปราการอมตะ
+Relic.Name.43062	หลอม·หัวใจพายุ
+Relic.Name.43063	หลอม·จุมพิตลมหนาว
+Relic.Name.43064	หลอม·ดวงตาเหมันต์
+Relic.Name.43065	หลอม·ถุงมือประจุ
+Relic.Name.43066	หลอม·รองเท้าประจุ
+Relic.Name.43067	หลอม·กระสุนประจุ
+Relic.Name.43068	หลอม·เครื่องรางสายฟ้า
+Relic.Name.43069	หลอม·แหวนประจุ
+Relic.Name.43070	หลอม·สร้อยประจุ
+Relic.Name.43071	หลอม·มีดไฟฟ้าประจุ
+Relic.Name.43072	หลอม·ลิ่มล่อสายฟ้า
+Relic.Name.43073	หลอม·ลูกแก้วปั่นป่วน
+Relic.Name.43074	หลอม·แม่เหล็กรวมพลัง
+Relic.Name.43075	หลอม·ดวงตามังกรสายฟ้า
+Relic.Name.43076	หลอม·ตัวเก็บประจุโอเวอร์โหลด
+Relic.Name.43077	หลอม·กรงเล็บมังกรสายฟ้า
+Relic.Name.43078	หลอม·สนามไฟฟ้าปั่นป่วน
+Relic.Name.43079	หลอม·เกล็ดกลับมังกรสายฟ้า
+Relic.Name.43080	หลอม·ขดลวดโอเวอร์โหลด
+Relic.Name.43081	หลอม·มือฟ้าคำราม
+Relic.Name.43082	หลอม·ลูกศรฟ้าคำราม
+Relic.Name.43083	หลอม·มงกุฎฟ้าคำราม
+Relic.Name.43084	หลอม·เกราะฟ้าคำราม
+Relic.Name.43085	หลอม·เสียงคำรามสายฟ้า
+Relic.Name.43086	หลอม·กระสุนปิดฉาก
+Relic.Name.43087	หลอม·กระสุนเพลิง
+Relic.Name.43088	หลอม·เครื่องรางเพลิง
+Relic.Name.43089	หลอม·อัญมณีเพลิง
+Relic.Name.43090	หลอม·เถ้าเพลิงนิรันดร์
+Relic.Name.43091	หลอม·ระเบิดยุบตัว
+Relic.Name.43092	หลอม·ระเบิดแรงสูง
+Relic.Name.43093	หลอม·เตาหลอมเพลิง
+Relic.Name.43094	หลอม·ถุงมือไฟย้อน
+Relic.Name.43095	หลอม·ระเบิดฟอสฟอรัสขาว
+Relic.Name.43096	หลอม·ตราฟีนิกซ์
+Relic.Name.43097	หลอม·ลูกไฟระเบิด
+Relic.Name.43098	หลอม·กระสุนเพลิงมรณะ
+Relic.Name.43099	หลอม·ระเบิดเทอร์ไมต์
+Relic.Name.43100	หลอม·กุหลาบตะวันแผดเผา
+Relic.Name.43101	หลอม·แหวนแสงตะวัน
+Relic.Name.43102	หลอม·แหวนเพลิงคลั่ง
+Relic.Name.43103	หลอม·เพลิงนิพพาน
+Relic.Name.43104	หลอม·ฟืนไม่รู้จบ
+Relic.Name.43105	หลอม·ลูกแก้วแกนหลอมเหลว
+Relic.Name.43106	หลอม·มงกุฎเพลิงระเบิด
+Relic.Name.43107	หลอม·ดอกไม้พละกำลัง
+Relic.Name.43108	หลอม·เครื่องรางกรด
+Relic.Name.43109	หลอม·สมุนไพรรักษา
+Relic.Name.43110	หลอม·เขี้ยวหนองน้ำ
+Relic.Name.43111	หลอม·เบ้าแปรธาตุ
+Relic.Name.43112	หลอม·โคลเวอร์นำโชค
+Relic.Name.43113	หลอม·ลูกแก้วเติบโต
+Relic.Name.43114	หลอม·เลือดเน่าเสีย
+Relic.Name.43115	หลอม·ถุงมือพละกำลัง
+Relic.Name.43116	หลอม·เมล็ดชีวิต
+Relic.Name.43117	หลอม·เถาวัลย์พันธนาการ
+Relic.Name.43118	หลอม·ลูกแก้วพลังชีวิต
+Relic.Name.43119	หลอม·สร้อยไฮดรา
+Relic.Name.43120	หลอม·ยาพิษติดไฟ
+Relic.Name.43121	หลอม·หน้ากากกาฬโรค
+Relic.Name.43122	หลอม·ดอกไม้ทางมรณะ
+Relic.Name.43123	หลอม·ลำคอไฮดรา
+Relic.Name.43124	หลอม·จอกกำเนิด
+Relic.Name.43125	หลอม·แหวนพญางู
+Relic.Name.43126	หลอม·มงกุฎรากเน่า
+Relic.Name.43127	หลอม·น้ำตาลิช
+Relic.Name.43128	หลอม·ดอกไม้ชีวิต
+Relic.Name.43129	หลอม·รองเท้าความเร็ว
+Relic.Name.43130	หลอม·เครื่องรางมรณะ
+Relic.Name.43131	หลอม·ชิ้นส่วนน้ำหนักเบา
+Relic.Name.43132	หลอม·จี้ธรรมดา
+Relic.Name.43133	หลอม·ตำราเทคนิค
+Relic.Name.43134	หลอม·แม็กกาซีนไฟฟอสฟอรัส
+Relic.Name.43135	หลอม·สายใยแสง
+Relic.Name.43136	หลอม·เครื่องรางสังหาร
+Relic.Name.43137	หลอม·เครื่องรางทวีคูณ
+Relic.Name.43138	หลอม·เครื่องสกัดพลังงาน
+Relic.Name.43139	หลอม·เศษดาวตก
+Relic.Name.43140	หลอม·ปริซึมไร้สี
+Relic.Name.43141	หลอม·รังเพลิงมรณะ
+Relic.Name.43142	หลอม·อุปกรณ์น้ำหนักเบา
+Relic.Name.43143	หลอม·กระสุนทะเลทราย
+Relic.Name.43144	หลอม·อุปกรณ์น้ำหนักมาก
+Relic.Name.43145	หลอม·กระสุนล้างผลาญ
+Relic.Name.43146	หลอม·ความสง่างามนักล่า
+Relic.Name.43147	หลอม·เครื่องรางสูญสลาย
+Relic.Name.43148	หลอม·แหวนขโมยเวลา
+Relic.Name.43149	หลอม·ลูกเต๋าทะเลทราย
+Relic.Name.43150	หลอม·มงกุฎฮึกเหิม
+Relic.Name.43151	หลอม·กระปุกออมสินของแลนนี
+Relic.Name.43152	หลอม·คริสตัลอาคม
+Relic.Name.43153	หลอม·เครื่องปรับชิ้นส่วนอาวุธ
+Relic.Name.43154	หลอม·ตัวกันสั่นการยิง
+Relic.Name.43155	หลอม·กล้องเล็งล็อกเป้า
+Relic.Name.43157	หลอม·แหวนห้าสี
+Relic.Name.43158	หลอม·คริสตัลห้าสี
+Relic.Name.43159	หลอม·แหวนสูงสุดห้าสี
+Relic.Name.43160	หลอม·ใบเลื่อยประกายไฟ
+Relic.Name.43161	หลอม·เยือกแข็งแผ่กระจาย
+Relic.Name.43162	หลอม·ศิลาสายฟ้าประจุ
+Relic.Name.43163	หลอม·อุกกาบาตแกนหลอมเหลว
+Relic.Name.43164	หลอม·ขวดพิษปรอท
+Relic.Name.43165	หลอม·ตราเหล็กกล้า
+Relic.Name.43166	หลอม·ตราเยือกแข็ง
+Relic.Name.43167	หลอม·ตราสายฟ้า
+Relic.Name.43168	หลอม·ตราเพลิง
+Relic.Name.43169	หลอม·ตรากรด
+Relic.Name.43170	หลอม·กระสุนมิธริล
+Relic.Name.43171	หลอม·กระสุนแช่แข็งฉับพลัน
+Relic.Name.43172	หลอม·กระสุนช็อตไฟฟ้า
+Relic.Name.43173	หลอม·กระสุนโฟลจิสตัน
+Relic.Name.43174	หลอม·กระสุนกรดกัด
+Relic.Name.43175	เหรียญนำโชคสารพัดนึก
+Relic.Name.43176	หลอม·ศิลาประกายไฟ
+Relic.Name.43177	หลอม·กระสุนศรเยือกแข็ง
+Relic.Name.43178	หลอม·หมัดเยือกแข็ง
+Relic.Name.43179	หลอม·แกนเหล็กกล้าชุบแข็ง
+Relic.Name.43180	หลอม·คัมภีร์สลายร่าง
+Relic.Name.43181	หลอม·เมล็ดเยือกแข็ง
+Relic.Name.43182	หลอม·เลือดกำมะถัน
+Relic.Name.43183	หลอม·กระสุนเจาะแรงดันสูง
+Relic.Name.43184	หลอม·ขวดกรดเพลิง
+Relic.Name.43185	หลอม·ตู้เย็นโอเวอร์โหลด
+Relic.Name.43186	หลอม·ศิลาผนึกมังกร
+Relic.Name.43187	หลอม·ลูกศรห้าสี
+Relic.Name.43188	หลอม·ยุทธวิธีต่อเนื่อง
+Relic.Name.43189	หลอม·คริสตัลเวทผลักขั้ว
+Relic.Name.43190	หลอม·จอกทองมายา
+Relic.Name.43191	หลอม·เหรียญแบ่งภาค
+Relic.Name.43192	หลอม·กระสุนนักล่าราชา
+Relic.Name.43193	หลอม·แม็กกาซีนกระจาย
+Relic.Name.43194	หลอม·รางประจุ
+Relic.Name.43195	หลอม·แกนวิกฤต
+Relic.Name.43196	หลอม·อุปกรณ์กระจกเงา
+Relic.Name.43197	หลอม·เครื่องยนต์ประจุ
+Relic.Name.43198	หลอม·เครื่องสั่นพ้อง
+Relic.Name.43199	หลอม·ชุดมิสไซล์นำวิถี
+Relic.Name.43200	หลอม·ธนูเพลิงระเบิด
+Relic.Name.43201	หลอม·หน้ากากโทสะ
+Relic.Manual.41001	·<color=#d6b85b>เมื่อเกิด<link=\\"9001\\">[ออกเดินทาง]</link>:</color> ความเสียหายสุดท้าย +1%
+Relic.Manual.41002	·ความเร็วรีโหลด +100%\n·<color=#d6b85b>รีโหลด:</color> มีโอกาส 40% รีโหลดเสร็จทันที
+Relic.Manual.41003	·<color=#d6b85b><link=\\"9002\\">[ปลายทาง]:</link></color> ฟื้นพลังชีวิตที่เสียไป 30%
+Relic.Manual.41004	·<color=#d6b85b><link=\\"9002\\">[ปลายทาง]:</link></color> สุ่มสร้างไอเทม 1 ชิ้น
+Relic.Manual.41005	·อัตราคริติคอล +25%\n·ความเสียหายคริติคอล +100%
+Relic.Manual.41006	·<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> เรียก<color=#f7e301>สายฟ้าทัณฑ์สวรรค์</color> 15 สายทั่วแผนที่ <color=#f7e301>สายฟ้าฟาด</color>แต่ละสายสร้าง<color=#f7e301>ความเสียหายสายฟ้า</color> 333% ต่อศัตรู <color=#f7e301>สายฟ้าทัณฑ์สวรรค์</color>นับเป็น<color=#d6b85b>ความเสียหายสกิลรบ</color>ด้วย
+Relic.Manual.41007	·พลังโจมตีกระสุน +30%\n·<color=#a024ff>ความเสียหายสกิลรบ</color> +30%\n·พลังโจมตีกระสุนกับ<color=#a024ff>ความเสียหายสกิลรบ</color>จะเท่ากัน โดยยึดค่าที่สูงกว่าเสมอ
+Relic.Manual.41008	·<color=#d6b85b>เมื่อจบการต่อสู้:</color> สร้างเรลิคที่มี<color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color>หรือ<color=#d6b85b><link=\\"9002\\">[ปลายทาง]</link></color> 1 ชิ้น
+Relic.Manual.41009	·พลังชีวิตสูงสุด +100% แต่คูลดาวน์หลบ +2 วินาที
+Relic.Manual.41010	·<color=#d6b85b>หลบ:</color> เข้าสู่สถานะ<color=#d6b85b>[พร้อมลอบสังหาร]</color> ความเร็วเคลื่อนที่ +50% และกระสุนนัดถัดไปสร้างความเสียหาย +360% นาน 3 วินาที (คูลดาวน์ 6 วินาที)
+Relic.Manual.41011	·ทุก 1 คู่ของ<color=#d6b85b>[ไพ่ทาโรต์]ตั้งตรง</color>และ<color=#d6b85b>[ไพ่ทาโรต์]กลับหัว</color>ที่ถืออยู่ ความเสียหายสุดท้าย +25%
+Relic.Manual.41012	·ความเสียหายที่สร้างต่อศัตรูที่มีพลังชีวิตสูงกว่า 80% หรือต่ำกว่า 20% +120%
+Relic.Manual.41013	·<color=#d6b85b>เมื่อเกิด<link=\\"9022\\">[แตกสลาย]</link>:</color> ความเสียหายสุดท้าย +3%
+Relic.Manual.41014	·<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> เรียก<color=#fff8cb>เคียวยมทูต</color>กวาดไปข้างหน้า สร้าง<color=#fff8cb>ความเสียหายจริง</color> 444% ต่อศัตรูทั้งหมด\n·<color=#d6b85b>เมื่อเกิด<link=\\"9002\\">[ปลายทาง]</link>:</color> ความเสียหายของ<color=#fff8cb>เคียวยมทูต</color> +44%
+Relic.Manual.41015	·<color=#d6b85b>เมื่อแยกชิ้นส่วนไอเทม:</color> สุ่มรับ<color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color>หรือ<color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color> 2 ชั้น
+Relic.Manual.41016	·<color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]: </link></color>โยน<color=#d6b85b>เหรียญปีศาจ</color> รับเอฟเฟกต์<color=#d6b85b>[หัว]</color>หรือ<color=#d6b85b>[ก้อย]</color> 1 ชั้น\n·<color=#d6b85b>[หัว]:</color> ความเสียหายสุดท้าย +6%\n·<color=#d6b85b>[ก้อย]:</color> ความเสียหายที่ได้รับทั้งหมด +6%
+Relic.Manual.41017	·<color=#d6b85b><link=\\"9022\\">[แตกสลาย]</link>:</color> สุ่มรับเรลิคคุณภาพ<color=#d77d3a>ตำนาน</color> 1 ชิ้น
+Relic.Manual.41018	·<color=#d6b85b>เมื่อพกพา:</color> รับ<color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color> 50 ชั้น
+Relic.Manual.41019	·<color=#d6b85b>เมื่อเกิดแปรปรวน:</color> รับ<color=#d6b85b>[พรจันทรา]</color> 1 ชั้น เมื่อ<color=#11f7ef>[พรจันทรา]</color>ครบ 10 ชั้น จะเรียก<color=#11f7ef>แสงจันทร์</color>สร้าง<color=#11f7ef>ความเสียหายเยือกแข็ง</color> 1000% ต่อศัตรูทั้งหมด <color=#11f7ef>แสงจันทร์</color>นับเป็นความเสียหายแปรปรวน
+Relic.Manual.41020	·<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> การยิงครั้งถัดไปเพิ่ม<color=#f44f06>เปลวสุริยะ</color> สร้าง<color=#f44f06>ความเสียหายเพลิง</color> 1500% <color=#f44f06>เปลวสุริยะ</color>นับเป็นความเสียหายกระสุนด้วย
+Relic.Manual.41021	·<color=#d6b85b>เมื่อพลังชีวิตศัตรูต่ำกว่า 60%:</color> ทุก 1% ของพลังชีวิตที่หายไป ความเสียหายที่ศัตรูได้รับ +1%
+Relic.Manual.41022	·<color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]: </link></color>รับ<color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color>, <color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color> และ<color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> อย่างละ 1 ชั้น\n·<color=#d6b85b><link=\\"9002\\">[ปลายทาง]:</link></color> รับ<color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color>, <color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color> และ<color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> อย่างละ 1 ชั้น
 Role.Name.20001	เจสเตอร์
 Role.Name.20002	แลนนี
 Role.Name.20003	มาร์คัส
@@ -577,6 +1699,147 @@ Role.Introduce.20004	ฮึ่ม รู้สึกเหมือนจะร�
 Role.Introduce.20005	ต้นตอของความผิดปกติอยู่บนเกาะ ฉันจะสืบให้รู้เรื่อง
 Role.Introduce.20006	พูดสั้นๆ ศัตรูจะล้มลง
 Role.Introduce.20007	ผลจากการดูดาวคือ—ชนะแน่นอนร้อยเปอร์เซ็นต์! ☆
+Tarot.Name.42011	คนโง่
+Tarot.Name.42012	คนโง่ (กลับหัว)
+Tarot.Name.42021	นักมายากล
+Tarot.Name.42022	นักมายากล (กลับหัว)
+Tarot.Name.42031	นักบวชหญิง
+Tarot.Name.42032	นักบวชหญิง (กลับหัว)
+Tarot.Name.42041	จักรพรรดินี
+Tarot.Name.42042	จักรพรรดินี (กลับหัว)
+Tarot.Name.42051	จักรพรรดิ
+Tarot.Name.42052	จักรพรรดิ (กลับหัว)
+Tarot.Name.42061	พระสันตะปาปา
+Tarot.Name.42062	พระสันตะปาปา (กลับหัว)
+Tarot.Name.42071	คู่รัก
+Tarot.Name.42072	คู่รัก (กลับหัว)
+Tarot.Name.42081	ราชรถ
+Tarot.Name.42082	ราชรถ (กลับหัว)
+Tarot.Name.42091	พลัง
+Tarot.Name.42092	พลัง (กลับหัว)
+Tarot.Name.42101	ฤๅษี
+Tarot.Name.42102	ฤๅษี (กลับหัว)
+Tarot.Name.42111	กงล้อแห่งโชคชะตา
+Tarot.Name.42112	กงล้อแห่งโชคชะตา (กลับหัว)
+Tarot.Name.42121	ความยุติธรรม
+Tarot.Name.42122	ความยุติธรรม (กลับหัว)
+Tarot.Name.42131	คนแขวนคอ
+Tarot.Name.42132	คนแขวนคอ (กลับหัว)
+Tarot.Name.42141	ความตาย
+Tarot.Name.42142	ความตาย (กลับหัว)
+Tarot.Name.42151	ความพอดี
+Tarot.Name.42152	ความพอดี (กลับหัว)
+Tarot.Name.42161	ปีศาจ
+Tarot.Name.42162	ปีศาจ (กลับหัว)
+Tarot.Name.42171	หอคอย
+Tarot.Name.42172	หอคอย (กลับหัว)
+Tarot.Name.42181	ดวงดาว
+Tarot.Name.42182	ดวงดาว (กลับหัว)
+Tarot.Name.42191	ดวงจันทร์
+Tarot.Name.42192	ดวงจันทร์ (กลับหัว)
+Tarot.Name.42201	ดวงอาทิตย์
+Tarot.Name.42202	ดวงอาทิตย์ (กลับหัว)
+Tarot.Name.42211	การพิพากษา
+Tarot.Name.42212	การพิพากษา (กลับหัว)
+Tarot.Name.42221	โลก
+Tarot.Name.42222	โลก (กลับหัว)
+Tarot.Description.42011	เอฟเฟกต์ <color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color> ของคุณทำงานเพิ่มอีก 1 ครั้ง
+Tarot.Description.42012	เมื่อแยกชิ้นส่วนเรลิคที่มี <color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color>: ทำให้เอฟเฟกต์ <color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color> ทั้งหมดทำงาน 2 ครั้ง
+Tarot.Description.42021	<color=#d6b85b><link=\\"9031\\">[นัดแรก]</link></color>: เปลี่ยนเป็นกระสุนมายากล ศัตรูที่โดนจะกลายเป็น<color=#d6b85b>กระต่าย</color> นาน 2 วินาที\\nความเสียหายที่คุณทำต่อ<color=#d6b85b>กระต่าย</color> +50%
+Tarot.Description.42022	<color=#d6b85b><link=\\"9031\\">[นัดแรก]</link></color>: เปลี่ยนเป็นกระสุนมายากล ศัตรูที่โดนจะกลายเป็น<color=#d6b85b>กระต่าย</color> นาน 2 วินาที\\nความเสียหายที่คุณทำต่อ<color=#d6b85b>กระต่าย</color> +100%\\nคำเตือน: กระสุนมายากลอาจย้อนศรเป็นครั้งคราว ทำให้คุณเสียกระสุนทั้งหมด
+Tarot.Description.42031	<color=#d6b85b><link=\\"9002\\">[ปลายทาง]:</link></color> ฟื้นพลังชีวิต 10%\\nการฟื้นพลังส่วนเกิน 20% จะแปลงเป็นชั้น <color=#d6b85b><link=\\"9024\\">[เติบโต]</link></color> เท่ากัน
+Tarot.Description.42032	การฟื้นพลังส่วนเกินจะแปลงเป็น <color=#d6b85b><link=\\"9025\\">[เกราะ]</link></color> 2 เท่า
+Tarot.Description.42041	ทุกครั้งที่คุณ<color=#d6b85b>แยกชิ้นส่วน</color>ไอเทม มีโอกาส 25% คืนไอเทมประเภทเดียวกัน 1 ชิ้น
+Tarot.Description.42042	ทุกครั้งที่คุณ<color=#d6b85b>แยกชิ้นส่วน</color>ไอเทม มีโอกาส 15% คืนไอเทมประเภทเดียวกันที่คุณภาพไม่ต่ำกว่าเดิม 1 ชิ้น
+Tarot.Description.42051	อัตราคริติคอลที่ได้จากแหล่งอื่นทั้งหมดเพิ่มเป็น 2 เท่า\\nอัตราคริติคอลส่วนเกินครึ่งหนึ่งจะแปลงเป็นความเสียหายคริติคอลเท่ากัน
+Tarot.Description.42052	ความเสียหายคริติคอลพื้นฐานของคุณเปลี่ยนเป็นแบบผันแปร 200%-450%
+Tarot.Description.42061	ศัตรูที่มีพลังชีวิตสูงสุดจะถูกทำเครื่องหมายเป็น <color=#d6b85b>[คนนอกรีต]</color> จนกว่ามันจะตาย เมื่อสร้างความเสียหายต่อ<color=#d6b85b>[คนนอกรีต]</color> จะเพิ่ม<color=#fff8cb>ความเสียหายจริง</color>เท่ากับครึ่งหนึ่งของความเสียหายครั้งนั้น
+Tarot.Description.42062	ศัตรูที่มีพลังชีวิตสูงสุดจะถูกทำเครื่องหมายเป็น <color=#d6b85b>[คนนอกรีต]</color> จนกว่ามันจะตาย เมื่อสร้างความเสียหายต่อ <color=#d6b85b>[คนนอกรีต]</color> จะเพิ่ม<color=#fff8cb>ความเสียหายจริง</color>เท่ากับครึ่งหนึ่งของความเสียหายครั้งนั้น\\nคุณและศัตรูสร้างความเสียหายต่อกัน +50%
+Tarot.Description.42071	คุณได้รับ<color=#d6b85b>เอฟเฟกต์อาวุธ</color>ของอาวุธรอง\\nคุณได้รับ<color=#d6b85b>เอฟเฟกต์พาสซีฟ</color>ของชิ้นส่วนอาวุธรอง\\nเพราะความรักไม่สมบูรณ์แบบ บางส่วนจึงไม่ทำงาน
+Tarot.Description.42072	<color=#d6b85b>เมื่อใช้สกิลรบ:</color> ปล่อยสกิลรบของอาวุธรองด้วย
+Tarot.Description.42081	เมื่อ <color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color>: ทำให้เอฟเฟกต์ <color=#d6b85b><link=\\"9002\\">[ปลายทาง]</link></color> ทั้งหมดทำงาน
+Tarot.Description.42082	เมื่อ <color=#d6b85b><link=\\"9002\\">[ปลายทาง]</link></color>: ทำให้เอฟเฟกต์ <color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color> ทั้งหมดทำงาน
+Tarot.Description.42091	ความเสียหายสุดท้าย +75%
+Tarot.Description.42092	ความเสียหายสุดท้าย +120% ความเสียหายที่ได้รับ +30%
+Tarot.Description.42101	ถ้าไม่มีหน่วยใด (พวกเดียวกันหรือศัตรู) ในระยะ 300 หลา อัตรายิง +50% ความเร็วรีโหลด +50% และผลักศัตรูที่เข้าใกล้เป็นระยะ
+Tarot.Description.42102	ถ้าไม่มีหน่วยใด (พวกเดียวกันหรือศัตรู) ในระยะ 300 หลา ความเสียหายกระสุนนัดถัดไป +150% ทุกวินาที สูงสุด 3 ชั้น และผลักศัตรูที่เข้าใกล้เป็นระยะ
+Tarot.Description.42111	เมื่อเลือกไพ่ทาโรต์ รีเฟรชได้ 1 ครั้ง\\nต่อไพ่ทาโรต์ตั้งตรงที่ถืออยู่ 1 ใบ ความเสียหายสุดท้าย +15%
+Tarot.Description.42112	เมื่อเลือกไพ่ทาโรต์ สามารถกลับหัวไพ่ได้\\nต่อไพ่ทาโรต์กลับหัวที่ถืออยู่ 1 ใบ ความเสียหายสุดท้าย +25% ความเสียหายที่ได้รับ +10%
+Tarot.Description.42121	แปลงพลังชีวิตปัจจุบันทั้งหมดเป็น <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color>\\nทุก 1% ของพลังชีวิตที่เสียไป ความเสียหายสุดท้าย +2%
+Tarot.Description.42122	ฟื้นพลังชีวิตสูงสุด 50% ทันที\\nทุก 1% ของพลังชีวิตที่เหลืออยู่ ความเสียหายสุดท้าย +1.5%
+Tarot.Description.42131	เอฟเฟกต์ <link=\\"9022\\"><color=#d6b85b>[แตกสลาย]</color></link> ของคุณทำงานเพิ่มอีก 1 ครั้ง
+Tarot.Description.42132	<color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]: </link></color>เมื่อเข้าร้านค้า ครั้งถัดไปที่ <link=\\"9022\\"><color=#d6b85b>[แตกสลาย]</color></link> ของเรลิคทำงาน เอฟเฟกต์ <link=\\"9022\\"><color=#d6b85b>[แตกสลาย]</color></link> จะทำงาน 5 ครั้ง
+Tarot.Description.42141	เอฟเฟกต์ <color=#d6b85b><link=\\"9002\\">[ปลายทาง]</link></color> ของคุณทำงานเพิ่มอีก 1 ครั้ง
+Tarot.Description.42142	จำกัด 1 ครั้งต่อร้าน เมื่อ<color=#d6b85b>ซื้อ</color>เรลิคที่มีเอฟเฟกต์ <color=#d6b85b><link="9002">[ปลายทาง]</link></color> จะทำลายมันทันทีและได้รับเอฟเฟกต์นั้นถาวร
+Tarot.Description.42151	การรีเฟรชร้านค้า 5 ครั้งแรกฟรี\\nทุกการรีเฟรชครั้งที่ 5 เรลิคในร้าน 1 ชิ้นแบบสุ่มจะกลายเป็นหลอมต้องห้าม
+Tarot.Description.42152	สลับราคาซื้อกับราคารีเฟรชของร้านค้า แต่การแยกชิ้นส่วนไอเทมในร้านจะไม่ได้รับชิ้นส่วน
+Tarot.Description.42161	<color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color>: ได้รับ [พันธะยมโลก] 1 ชั้น ทำให้ความเสียหายที่ได้รับ +100% และจะถูกลบเมื่อได้รับความเสียหาย\\n<link=\\"9002\\"><color=#d6b85b><color=#d6b85b><link=\\"9002\\">[ปลายทาง]</link></color></color></link>: ลบ [พันธะยมโลก] ทั้งหมด แต่ละชั้นจะแปลงเป็นเรลิคแบบสุ่ม 1 ชิ้น
+Tarot.Description.42162	<color=#d6b85b><link=\\"9001\\">[ออกเดินทาง]</link></color>: ได้รับ [พันธะยมโลก] 1 ชั้น ทำให้ความเสียหายที่ได้รับ +200% และจะถูกลบเมื่อได้รับความเสียหาย\\n<color=#d6b85b><link=\\"9002\\">[ปลายทาง]</link></color>: ลบ [พันธะยมโลก] ทั้งหมด แต่ละชั้นจะแปลงเป็นเหรียญ
+Tarot.Description.42171	ได้รับ<color=#D77D3A>เรลิคตำนานปริศนา</color> 1 ชิ้น
+Tarot.Description.42172	ได้รับเรลิค<color=#f4a51c>ตำนาน</color> 1 ชิ้น\\n<color=#d6b85b><link=\\"9002\\">[ปลายทาง]</link>:</color> ได้รับ<color=#d6b85b>เครื่องหมายหอคอยขาว</color> 1 ชั้น เมื่อ<color=#d6b85b>เครื่องหมายหอคอยขาว</color>ครบ 20 ชั้น จะใช้เครื่องหมายทั้งหมดและได้รับเรลิค<color=#f4a51c>ตำนาน</color> 1 ชิ้น
+Tarot.Description.42181	เมื่อได้รับความเสียหายถึงตาย ฟื้นพลังชีวิตเต็ม แล้วทำลาย<color=#d6b85b>[ไพ่ทาโรต์ - ดวงดาว]</color>
+Tarot.Description.42182	เมื่อได้รับความเสียหายถึงตาย ได้รับ <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> เท่ากับพลังชีวิตสูงสุด แล้วทำลาย<color=#d6b85b>[ไพ่ทาโรต์ - ดวงดาว]</color>
+Tarot.Description.42191	<color=#d6b85b>เมื่อเกิด<link=\\"9033\\">แปรปรวน</link>:</color> มีโอกาส 30% ทำให้เอฟเฟกต์<link=\\"9033\\">แปรปรวน</link>ของอาวุธรองทำงานเพิ่มอีก 1 ครั้ง
+Tarot.Description.42192	ความเสียหายแปรปรวน +100%\\n<color=#d6b85b>เมื่อเกิด<link=\\"9033\\">แปรปรวน</link>:</color> สร้าง<color=#fff8cb>ความเสียหายจริง</color>เพิ่ม 100%
+Tarot.Description.42201	ได้รับ<color=#d6b85b>พรแห่งสุริยัน</color> เพิ่มความเสียหายสุดท้ายตามตำแหน่งของดวงอาทิตย์ ตอนเที่ยงวัน ความเสียหายสุดท้าย +150%
+Tarot.Description.42202	ได้รับ<color=#d6b85b>พรแห่งสุริยันแผดเผา</color> เพิ่มความเสียหายสุดท้ายตามตำแหน่งของดวงอาทิตย์\\nตอนเที่ยงวัน ความเสียหายสุดท้าย +300% ตอนตะวันตกดิน ความเสียหายสุดท้าย -100%
+Tarot.Description.42211	เมื่อสร้างความเสียหายต่อศัตรูที่เลือดเต็ม จะหักพลังชีวิตของมันทันที 20%
+Tarot.Description.42212	เมื่อสร้างความเสียหายต่อศัตรูที่เลือดเต็ม จะหักพลังชีวิตของมันทันที 60%\\nแต่ศัตรูจะฟื้นพลังชีวิตสูงสุด 50% ภายใน 10 วินาทีถัดมา
+Tarot.Description.42221	เมื่อคุณได้รับ <color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color> <color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color> หรือ <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> แบบถาวร จะได้เพิ่มอีก 2 ชั้น
+Tarot.Description.42222	เมื่อคุณได้รับ <color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color> <color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color> หรือ <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> แบบถาวร จะได้สูงสุด 1 ชั้น\\nเมื่อคุณได้รับ <color=#f44f06><link=\\"9023\\">[เถ้าเพลิง]</link></color> <color=#3dda4f><link=\\"9024\\">[เติบโต]</link></color> หรือ <color=#11f7ef><link=\\"9025\\">[เกราะ]</link></color> แบบถาวร อีกสองอย่างจะ +1 ชั้น
+Tarot.UpDescription.42151	(รีเฟรชแล้ว: <color=#d6b85b>{1001:1720}/{0}</color></link>)
+Tarot.UpDescription.42172	(เครื่องหมายปัจจุบัน: <color=#d6b85b>{1001:1714}/{0}</color></link>)
+Tarot.CompleteDescription.42172	ภารกิจสำเร็จ
+TeamSkill.Name.90101	ความเสียหายสุดท้าย +5%
+TeamSkill.Name.90102	พลังชีวิตพื้นฐาน +5%
+TeamSkill.Name.90201	ซื้อยาฟรีได้ 1 ครั้งในทุกร้านค้า
+TeamSkill.Name.90202	เปิดหีบสมบัติครั้งแรก ได้รับ 15 เหรียญ
+TeamSkill.Name.90203	เข้าร้านค้า ฟื้นพลังชีวิตที่เสียไป 25%
+TeamSkill.Name.90301	ความเสียหายคริติคอล +20%
+TeamSkill.Name.90302	อัตราคริติคอล +5% อัตราทุบหนัก +5%
+TeamSkill.Name.90303	ความเร็วเคลื่อนที่ +8%
+TeamSkill.Name.90304	ความเสียหายที่ได้รับทั้งหมด -5%
+TeamSkill.Name.90401	อัตราสะสมท่าไม้ตาย +15%
+TeamSkill.Name.90402	แผงขายเรลิคในร้านค้า +1
+TeamSkill.Name.90403	เข้าร้านค้า ได้รับ <color=#11f7ef>[เกราะ]</color> 10
+TeamSkill.Name.90501	<color=#d6b85b>เมื่อใช้ท่าไม้ตาย:</color> อัตราคริติคอล +25% นาน 8 วินาที
+TeamSkill.Name.90502	ความเสียหายสกิลรบ +15%
+TeamSkill.Name.90503	พลังโจมตีกระสุน +15%
+TeamSkill.Name.90504	กำจัดบอส มีโอกาส 10% ดรอปเรลิคปริศนาเพิ่ม 1 ชิ้น
+TeamSkill.Name.90505	ถ้าไม่ได้รับความเสียหายนาน 5 วินาที ความเร็วเคลื่อนที่ +15%
+TeamSkill.Name.90506	<color=#d6b85b>[พักหายใจ]</color> ได้รับ <color=#11f7ef>[เกราะ]</color> เพิ่ม 5
+TeamSkill.Name.90507	หลังได้รับความเสียหาย: ถ้าพลังชีวิตต่ำกว่า 50% จะสร้างฟองป้องกันนาน 5 วินาที ผู้เล่นในฟองป้องกันจะไม่รับความเสียหายใดๆ จำกัด 1 ครั้งต่อด่าน
+TeamSkill.Name.905021	ความเสียหายสกิลรบ +30%
+TeamSkill.Name.905031	พลังโจมตีกระสุน +30%
+TeamSkill.Name.905041	กำจัดบอส มีโอกาส 20% ดรอปเรลิคปริศนาเพิ่ม 1 ชิ้น
+TeamSkill.Name.905051	ถ้าไม่ได้รับความเสียหายนาน 5 วินาที ความเร็วเคลื่อนที่ +30%
+TeamSkill.Name.905061	<color=#d6b85b>[พักหายใจ]</color> ได้รับ <color=#11f7ef>[เกราะ]</color> เพิ่ม 10
+TeamSkill.Name.90601	<color=#d6b85b>เมื่อเกิดแปรปรวน:</color> มีโอกาส 10% สร้างความเสียหายธาตุอาวุธปัจจุบัน 260% แก่ศัตรู ความเสียหายนี้ได้รับผลจากโบนัสความเสียหายสกิลรบ
+TeamSkill.Name.90602	เมื่อเริ่มเกม ได้รับเรลิค<color=#b41cf4>มหากาพย์</color>ปริศนา 1 ชิ้น
+TeamSkill.Name.90603	เมื่อพลังชีวิตต่ำกว่า 30% ได้รับเอฟเฟกต์ <color=#d6b85b>[สู้เพื่ออยู่รอด]</color>: กระสุนโดนศัตรูจะฟื้นพลังชีวิต 1% ของสูงสุด สูงสุด 1 ครั้งต่อวินาที
+TeamSkill.Name.90701	คูลดาวน์สกิลรบ -10%
+TeamSkill.Name.90702	อัตรายิง +15% ความเร็วรีโหลด +15%
+TeamSkill.Name.90703	เมื่อเข้าจุดพัก มีโอกาส 50% ได้รับอาวุธหรือชิ้นส่วนอาวุธปริศนา 1 ชิ้น
+TeamSkill.Name.90704	เมื่อเข้าจุดพัก มีโอกาส 50% ได้รับเรลิคปริศนา 1 ชิ้น
+TeamSkill.Name.90705	กำจัดบอส ฟื้นพลังชีวิตที่เสียไป 10%
+TeamSkill.Name.90706	ขณะอยู่ในสถานะ <color=#d6b85b>[สู้เพื่ออยู่รอด]</color> ความเสียหายที่ได้รับ -10%
+TeamSkill.Name.907011	คูลดาวน์สกิลรบ -20%
+TeamSkill.Name.907021	อัตรายิง +30% ความเร็วรีโหลด +30%
+TeamSkill.Name.907031	เมื่อเข้าจุดพัก ได้รับอาวุธหรือชิ้นส่วนอาวุธปริศนา 1 ชิ้นทันที
+TeamSkill.Name.907041	เมื่อเข้าจุดพัก ได้รับเรลิคปริศนา 1 ชิ้นทันที
+TeamSkill.Name.907051	กำจัดบอส ฟื้นพลังชีวิตที่เสียไป 20%
+TeamSkill.Name.907061	ขณะอยู่ในสถานะ <color=#d6b85b>[สู้เพื่ออยู่รอด]</color> ความเสียหายที่ได้รับ -20%
+TeamSkill.Name.90801	เมื่อเกิด <color=#d6b85b>[เจาะจุดอ่อน]</color> ลดคูลดาวน์สกิลรบปัจจุบัน 20%
+TeamSkill.Name.90802	เมื่อเกิด <color=#d6b85b>[เจาะจุดอ่อน]</color> โบนัสจาก <color=#d6b85b>[มือปืนไว]</color> เพิ่มเป็น 2 เท่า นาน 3 วินาที
+TeamSkill.Name.90803	เมื่อเปิดหีบในห้องอาวุธและชิ้นส่วนอาวุธ สามารถสละรางวัลเพื่อรีเฟรชอัฟฟิกซ์ของอาวุธหลักแทนได้
+TeamSkill.Name.90804	เมื่อเลือกเรลิค รีเฟรชได้ 1 ครั้ง
+TeamSkill.Name.90805	เอฟเฟกต์ของ <color=#d6b85b>[นักล่าอาบเลือด]</color> +50%
+TeamSkill.Name.90806	<color=#d6b85b>[สู้เพื่ออยู่รอด]</color> เปลี่ยนเป็นทำงานเมื่อพลังชีวิตต่ำกว่า 50%
+TeamSkill.Name.90901	โอกาสเกิด <color=#d6b85b>[เจาะจุดอ่อน]</color> +10%
+TeamSkill.Name.90902	อัตราดรอปไอเทม<color=#b41cf4>มหากาพย์</color>เพิ่มขึ้นเล็กน้อย
+TeamSkill.Name.90903	เมื่อล้มลง ฟื้นคืนชีพด้วยพลังชีวิต 30% ของสูงสุด (จำกัด 1 ครั้งต่อเกม)
+TeamSkill.Name.91001	ความเสียหายสุดท้าย +30% อัตราดรอปอาวุธ<color=#ff4b9a>มิธิค</color>เพิ่มขึ้นเล็กน้อย
+TeamSkill.Name.91002	พลังชีวิตพื้นฐาน +30% อัตราดรอปเรลิค<color=#f4a51c>ตำนาน</color>เพิ่มขึ้นเล็กน้อย
 Weapon.Name.100204	ทะลุขีดจำกัด
 Weapon.Name.100211	พายุสีเลือด
 Weapon.Name.100212	พายุสีเลือด

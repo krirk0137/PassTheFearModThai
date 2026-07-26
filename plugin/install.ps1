@@ -87,11 +87,20 @@ UnityLogListening = false
 $Dll = Join-Path $PSScriptRoot "$PluginName\bin\Release\net6.0\$PluginName.dll"
 if (-not $SkipBuild) {
     Write-Host "[2/3] Building the plugin ..."
-    # The csproj references the interop assemblies, so they must exist: that means the
-    # game has to have been launched at least once since BepInEx was installed.
-    if (-not (Test-Path (Join-Path $GameDir 'BepInEx\interop'))) {
+    # The csproj references the interop assemblies, so they must exist: that means the game
+    # has to have been launched at least once since BepInEx was installed.
+    #
+    # Count the DLLs rather than testing the directory. A game update leaves the folder in
+    # place but empties it, because the generated interop no longer matches the new
+    # GameAssembly.dll - and a bare Test-Path would sail past that into a doomed build.
+    $interopDir = Join-Path $GameDir 'BepInEx\interop'
+    $interopCount = @(Get-ChildItem $interopDir -Filter *.dll -EA SilentlyContinue).Count
+    if ($interopCount -lt 100) {
         Write-Host ""
-        Write-Host "  First run: BepInEx has to generate its interop assemblies before the" -ForegroundColor Yellow
+        if ($interopCount -gt 0) {
+            Write-Host "  Interop is incomplete ($interopCount assemblies) - regenerating." -ForegroundColor Yellow
+        }
+        Write-Host "  BepInEx has to generate its interop assemblies before the" -ForegroundColor Yellow
         Write-Host "  plugin can be compiled against them. Starting the game to do that now." -ForegroundColor Yellow
         Write-Host ""
         $proc = Start-Process -FilePath (Join-Path $GameDir 'PassTheFear.exe') -WorkingDirectory $GameDir -PassThru
@@ -102,7 +111,7 @@ if (-not $SkipBuild) {
             if ($n -gt 100) { Write-Host "  Generated $n interop assemblies." -ForegroundColor Green; break }
             Start-Sleep -Seconds 3
         }
-        if (-not (Test-Path (Join-Path $GameDir 'BepInEx\interop'))) {
+        if (@(Get-ChildItem $interopDir -Filter *.dll -EA SilentlyContinue).Count -lt 100) {
             throw "Interop was not generated within 5 minutes. Check BepInEx\LogOutput.log."
         }
 

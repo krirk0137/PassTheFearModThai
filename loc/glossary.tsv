@@ -181,6 +181,104 @@ Magazine	แม็กกาซีน
 Bulwark	ป้อมปราการ
 Overload	โอเวอร์โหลด
 
+# ==========================================================================
+# --- added by c_extraeffect (batch 3, rows 1-431) ---
+# SENTENCE PATTERNS. ExtraEffect is 40 near-identical modifiers in a row; a
+# player scanning them must see ONE grammar. Reuse these shapes verbatim.
+# ==========================================================================
+
+# --- the six shapes that carry the whole table ---
+X +{N}%	X +{N}%	NEVER "เพิ่ม X ขึ้น N%". Always the bare +N% / -N% form, stat first: "อัตรายิง +20%"
+Increases X by {N}%	X +{N}%	same shape — collapse the verb, English "increases/grants/raises" all vanish
+for {N} seconds	นาน {N} วินาที	ALWAYS trails the whole clause, never leads it: "…ถือเป็น [นัดสุดท้าย] นาน 8 วินาที"
+deals <El> Damage equal to {N}% Bullet Attack	สร้างความเสียหาย<ธาตุ> {N}% ของพลังโจมตีกระสุน	the single most common sentence in the file
+dealing {N} <El> Battle Skill Damage	สร้างความเสียหายสกิลรบ<ธาตุ> {N}	flat point values stay bare — no หน่วย, no แต้ม
+Every {N} shots / Every {N} seconds	ทุก {N} นัดที่ยิง / ทุก {N} วินาที
+
+# --- triggers and conditions ---
+While shooting:	เมื่อยิง:
+When shooting hits enemies:	เมื่อยิงโดนศัตรู:
+on hit	เมื่อโจมตีโดน
+On using Battle Skill:	เมื่อใช้สกิลรบ:
+On Ultimate:	เมื่อใช้ท่าไม้ตาย:
+Reload: (as a trigger label)	รีโหลด:
+Full Charge	สะสมพลังเต็ม	Charging = สะสมพลัง, Charge Time = เวลาสะสมพลัง
+Your next shot	นัดถัดไป	"the next bullet" is also นัดถัดไป — do not vary
+Resets after reloading	รีเซ็ตหลังรีโหลด
+enemies affected by [X]	ศัตรูที่ติด [X]	one phrase for affected-by / in the state of / suffering
+if this attack kills the target	ถ้าความเสียหายนี้สังหารเป้าหมาย	the on-kill clause
+
+# --- proc verbs. ONE verb for every proc in the game. ---
+trigger / triggers	กระตุ้น	never ทริกเกอร์, never ทำให้เกิด. "directly triggers" = กระตุ้น…ทันที
+guarantees a trigger	กระตุ้น…แน่นอน	"always / guaranteed" on a non-proc = …เสมอ (คริติคอลเสมอ)
+has a {N}% chance to	มีโอกาส {N}%
+Adaptive Chance	โอกาสปรับตัว	<link=9035>; renders "มี<โอกาสปรับตัว> 25%"
+applies / inflicts (a mark)	ติด	"applies Death Mark" = ติดตราแห่งความตาย
+Always deals Critical Hits	คริติคอลเสมอ
+
+# --- stacks, areas, magnitudes ---
+per stack / for each stack of X	ทุก 1 ชั้นของ X	Stacks = ชั้น (already in glossary); "1 stack of X" = X 1 ชั้น
+up to {N} stacks	สูงสุด {N} ชั้น
+Stacks infinitely	ซ้อนได้ไม่จำกัด	"can stack" = ซ้อนได้
+AoE (adjective on a damage noun)	แบบวงกว้าง	"สร้างความเสียหายกายภาพแบบวงกว้าง 200%"
+to enemies in the area	แก่ศัตรูในวง	in a wide area = แก่ศัตรูในวงกว้าง; in a small area = แก่ศัตรูในวงแคบ
+doubled	คูณสอง	"double damage" = ความเสียหายสองเท่า, triple = สามเท่า
+pierce / piercing	เจาะทะลุ
+invincible / takes no damage	ไม่รับความเสียหาย	the gold <color> token "invincibility" alone = อมตะ
+
+# --- stat nouns this table leans on ---
+Bullet Attack	พลังโจมตีกระสุน	appears in ~40% of rows; never shorten
+Bullet Speed	ความเร็วกระสุน
+Bullet Damage Cap	พลังโจมตีกระสุนสูงสุด
+Projectile	ลูกกระสุน	kept from the weapon batch. Bullet stays plain กระสุน
+Additional Projectile	ลูกกระสุนส่วนเพิ่ม	额外弹道 — the extra streams, NOT ลูกกระสุนเพิ่ม (ambiguous)
+Battle Skill Damage	ความเสียหายสกิลรบ
+Fire Damage	ความเสียหายเพลิง	Lightning=สายฟ้า Frost=เยือกแข็ง Acid=กรด Physical=กายภาพ True=จริง
+Transmutation Damage	ความเสียหายแปรปรวน
+Critical Chance	อัตราคริติคอล	Critical Damage = ความเสียหายคริติคอล
+Bounce	การเด้ง
+turret	ป้อมปืน
+vulnerability cap	เพดานเปราะบาง	易伤上限
+Freeze Buildup	ค่าแช่แข็ง	Corrosion Value = ค่ากัดกร่อน — the ค่า… shape for any buildup meter
+
+# --- <link> keywords. Bracket form kept, id is load-bearing. ---
+[Hemorrhage] 9011	[เลือดออก]
+[Freeze] 9012	[แช่แข็ง]
+[Disruption] 9013	[ปั่นป่วน]
+[Corrosion] 9014	[กัดกร่อน]
+[Ignition] 9015	[ลุกไหม้]
+[Overload] 9021	[โอเวอร์โหลด]
+[Ember] 9023	[เถ้าเพลิง]
+[Growth] 9024	[เติบโต]
+[Armor] 9025	[เกราะ]
+[First Shot] 9031	[นัดแรก]	初弹
+[Final Shot] 9032	[นัดสุดท้าย]	末弹 — very frequent
+[Transmutaion] 9033	[แปรปรวน]	source misspells it; key is the id, not the word
+Smite 9034	ทุบหนัก
+[Burn]	[เผาไหม้]
+[Plague]	[โรคระบาด]
+[Heating Up]	[ร้อนระอุ]
+[Thunder Call]	[เรียกสายฟ้า]
+[Multi-Split]	[แตกหลายหัว]	[Wild Split] = [แตกคลั่ง]
+
+# --- effect-name suffixes (ExtraEffect.EffectName.*) ---
+<Name> Active	<ชื่อ> แอ็กทีฟ	主动. Passive = <ชื่อ> พาสซีฟ
+Lv.{N} <X> +	เสริม<X> Lv.{N}	一级枪法强化 = เสริมแม่นปืน Lv.1; bare "X +" = เสริมX
+Entwined Fire	เพลิงพัน	缠火
+
+# --- MARKUP RULE (matters, easy to get wrong) ---
+# "<color=el>Fire</color><color=#a024ff> Battle Skill Damage</color>" — two ADJACENT spans.
+# Thai word order needs the head noun first, so SWAP them:
+#   <color=#a024ff>ความเสียหายสกิลรบ</color><color=el>เพลิง</color>
+# When the source NESTS them "<color=el>Fire <color=#a024ff>BSD</color></color>", keep the nesting:
+#   <color=el><color=#a024ff>ความเสียหายสกิลรบ</color>เพลิง</color>
+# Either way every tag survives byte-for-byte; only their order moves.
+#
+# Backslashes in this table are DOUBLED in the source (\\n, <link=\\"9015\\">).
+# Copy them doubled. A single \n will not match the shipped file.
+#
+# Drop English sentence-final periods. Thai separates clauses with a space.
+
 # --- added by the character / area / difficulty batch ---
 
 # people — transliterated by ear, use these exact spellings in dialogue
@@ -277,3 +375,153 @@ Forge	ตีอาวุธ
 Divine (verb)	ทำนาย
 Rescue	ปลดปล่อย
 Embark	ออกเดินทาง
+
+# --- added by the Blood Moon update (buildid 24396512) ---
+Blood Moon	จันทร์เลือด
+Treasure Seeker	นักหาสมบัติ
+Monster	อสูร
+
+# --- added by the relic batch (c_relic_part1) ---
+
+# relic name morphology
+Forged <name>	หลอม·<name>	禁锻· prefix on forbidden-forged relics; the UI term stays หลอมต้องห้าม
+Amulet	เครื่องราง
+Orb	ลูกแก้ว	宝珠
+Round (ammo)	กระสุน	弹丸/弹头; Frost Round = กระสุนเยือกแข็ง
+Scroll	คัมภีร์	卷轴; shorter than ม้วนคัมภีร์
+Chalice	จอก	圣杯
+Mark	ตรา	印记; Steel Mark = ตราเหล็กกล้า
+Device	อุปกรณ์	装置
+Crown	มงกุฎ
+Gauntlets / Gloves	ถุงมือ
+Charged (energy-storing)	ประจุ	蓄能 on the lightning relics: Charged Ring = แหวนประจุ
+Thunder (雷鸣)	ฟ้าคำราม	Thunder Crown = มงกุฎฟ้าคำราม; plain Lightning stays สายฟ้า
+Thunder Dragon	มังกรสายฟ้า
+Molten Core	แกนหลอมเหลว	熔核
+Five-Color	ห้าสี	五色
+
+# named triggers wrapped in <link> tags on relics
+[Embarkation]	[ออกเดินทาง]	link 9001, 启程
+[Destination]	[ปลายทาง]	link 9002, 终点
+[Shatter]	[แตกสลาย]	link 9022, 碎裂
+
+# damage-source nouns in relic descriptions
+Battle Skill Damage	ความเสียหายสกิลรบ
+True Damage	ความเสียหายจริง
+Bullet Damage	ความเสียหายกระสุน
+Transmutation Damage	ความเสียหายแปรปรวน
+Max Health	พลังชีวิตสูงสุด
+
+# recurring description phrasing — keep these identical across relic batches
+On Ultimate:	เมื่อใช้ท่าไม้ตาย:
+On triggering X / On X trigger	เมื่อเกิดX
+When carried:	เมื่อพกพา:
+At the end of Combat:	เมื่อจบการต่อสู้:
+On dismantling items:	เมื่อแยกชิ้นส่วนไอเทม:
+X% chance to …	มีโอกาส X% …
+Restores X% of your lost Health	ฟื้นพลังชีวิตที่เสียไป X%
+is also considered …	นับเป็น…ด้วย
+Randomly grants	สุ่มรับ
+
+# relic-specific proper nouns
+Divine Lightning	สายฟ้าทัณฑ์สวรรค์	神罚之雷
+Lightning Strike	สายฟ้าฟาด	落雷
+Moonlight	แสงจันทร์
+[Moon Blessing]	[พรจันทรา]
+Solar Flame	เปลวสุริยะ	太阳烈焰
+[Assassination Ready]	[พร้อมลอบสังหาร]	刺杀准备
+Upright / Reversed (tarot)	ตั้งตรง / กลับหัว	正位/逆位; [ไพ่ทาโรต์]ตั้งตรง
+[Heads] / [Tails]	[หัว] / [ก้อย]
+Hydra	ไฮดรา
+Lich	ลิช
+Lanny	แลนนี
+
+# --- added by the pearl / tarot / team-skill / global-parameters batch ---
+
+# tarot arcana names (also reused by Pearl "Essence" and curse pearls)
+The Fool	คนโง่
+The Magician	นักมายากล
+The High Priestess	นักบวชหญิง
+The Empress	จักรพรรดินี
+The Emperor	จักรพรรดิ
+The Hierophant	พระสันตะปาปา
+The Lovers	คู่รัก
+The Chariot	ราชรถ
+Strength (tarot)	พลัง
+The Hermit	ฤๅษี
+Wheel of Fortune	กงล้อแห่งโชคชะตา
+Justice	ความยุติธรรม
+The Hanged Man	คนแขวนคอ
+Death (tarot)	ความตาย	ZH 死神; the card, not the verb
+Temperance	ความพอดี
+The Devil	ปีศาจ
+The Tower	หอคอย	White Tower (白塔) = หอคอยขาว
+The Star	ดวงดาว
+The Moon	ดวงจันทร์
+The Sun	ดวงอาทิตย์
+Judgement	การพิพากษา
+The World	โลก
+(Reversed)	(กลับหัว)	suffix on card names: The Fool (Reversed) -> คนโง่ (กลับหัว)
+
+# named triggers wrapped in <link> tags (joins the 9001/9002/9022 block above)
+[First Shot]	[นัดแรก]	link 9031, 初弹
+[Final Shot]	[นัดสุดท้าย]	link 9032, 末弹
+[Resonance Level]	[เลเวลเรโซแนนซ์]	link 9026, 共鸣等级
+[Adaptive Chance]	[โอกาสไดนามิก]	link 9035, 动态概率 — a dynamic proc rate, not a flat one
+
+# named states on pearls / team skills
+[Heretic]	[คนนอกรีต]	异端
+[Nether Pact]	[พันธะยมโลก]	冥契
+[Brief Respite]	[พักหายใจ]	稍作缓息
+[Fight to Survive]	[สู้เพื่ออยู่รอด]	以战养战
+[Weakness Strike]	[เจาะจุดอ่อน]	弱点打击
+[Quickdraw]	[มือปืนไว]	快枪手
+[Bloodbath Hunter]	[นักล่าอาบเลือด]	浴血猎手
+[Novice's Luck]	[ดวงมือใหม่]	新手强运
+[Silenced]	[ไซเลนซ์]	沉默 — loanword; ติด[ไซเลนซ์] reads better than any Thai calque
+
+# combat nouns that recur across pearls, relics and team skills
+Main Weapon	อาวุธหลัก
+Sub Weapon	อาวุธรอง	副武器/后台武器
+Weapon Mastery	ความชำนาญอาวุธ	枪械精通
+Weapon Balance	ความสมดุลอาวุธ	武器平衡
+Resistance	ความต้านทาน	All Resistances = ความต้านทานทั้งหมด
+Poise	ความมั่นคง	韧性
+Vulnerability	เปราะบาง	易伤; "gain 30% Vulnerability" -> "ติดเปราะบาง 30%"
+Affix	อัฟฟิกซ์	词条
+Components	ชิ้นส่วน	零件, the dismantle currency
+Overhealing	การฟื้นพลังส่วนเกิน	过量治疗
+Fatal Hit	ความเสียหายถึงตาย	致命伤
+invincible	อมตะ	无敌
+AoE	เป็นวงกว้าง	trails the noun: "ความเสียหายเพลิงเป็นวงกว้าง 150%"
+Ultimate Gauge Gain	อัตราสะสมท่าไม้ตาย	必杀值获取率
+Hub	จุดพัก	中转站, the between-stage waystation
+Great Vault	แดนลับ	大秘藏 — same word as Secret Realm above, on purpose
+
+# pearl name morphology
+Prep: X	เตรียมรบ: X	战前准备, the five run-start pearls
+Reminiscence	ความทรงจำ	追忆; "Raven's Reminiscence" -> "ความทรงจำของเรเวน"
+Essence	แก่นแท้	真意; "Fool's Essence" -> "แก่นแท้คนโง่", no ของ
+Amber	แอมเบอร์
+
+# recurring description phrasing — keep identical across the effect tables
+At the start of a run:	เมื่อเริ่มเกม:	对局开始时
+After using Battle Skill:	หลังใช้สกิลรบ:
+While shooting:	เมื่อยิง:
+After entering combat:	หลังเข้าสู่การต่อสู้:
+On entering Combat:	เมื่อเริ่มการต่อสู้:
+When entering a shop:	เมื่อเข้าร้านค้า:
+Once per stage.	จำกัด 1 ครั้งต่อด่าน
+Can trigger at most once every N seconds	(ทำงานได้สูงสุด 1 ครั้งทุก N วินาที)
+When defeating a Boss	กำจัดบอส
+X yards	X หลา
+
+# --- project-wide decisions (settled, do not re-litigate) ---
+# Projectile stays ลูกกระสุน even though it sits close to Bullet = กระสุน. ZH 弹道 is literally
+# a trajectory, but in a shooter "Projectile +1" means one more thing fired, and วิถีกระสุน
+# would read as "trajectory +1", which is worse. Two batches already shipped ลูกกระสุน.
+#
+# Damage stays spelled out as ความเสียหาย, not ดาเมจ. It is long, and "Fire Battle Skill Damage"
+# does become ความเสียหายสกิลรบเพลิง, but no overflow has actually been observed in game yet.
+# Shortening on suspicion would cost a coordinated rewrite of every table for nothing. If real
+# clipping shows up in a screenshot, that is the moment to switch - project-wide, in one pass.
