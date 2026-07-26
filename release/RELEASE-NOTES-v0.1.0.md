@@ -71,7 +71,10 @@
 
 ---
 
-**แจกฟรี** · แปลไทยโดย **Krirk0137**
+**แจกฟรี ห้ามจำหน่าย** ([CC BY-NC 4.0](https://github.com/krirk0137/PassTheFearModThai/blob/main/LICENSE))
+แจกต่อ/แก้ไข/ต่อยอดได้ ขอแค่ให้เครดิตและลิงก์กลับ · การบริจาคไม่ถือเป็นการขาย
+
+แปลไทยโดย **Krirk0137**
 
 ฟอนต์ [Kanit](https://fonts.google.com/specimen/Kanit) โดย Cadson Demak (SIL Open Font License 1.1)
 

@@ -1,21 +1,57 @@
-MIT License
+Pass the Fear — Thai localization mod
+Copyright (c) 2026 Krirk0137
 
-Copyright (c) 2026 krirk0137
+Licensed under the Creative Commons Attribution-NonCommercial 4.0 International
+License (CC BY-NC 4.0).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Full legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by-nc/4.0/
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+WHAT YOU MAY DO
+---------------
+  * Use this mod, for free, for as long as you like.
+  * Share it, re-upload it, mirror it, include it in a modpack.
+  * Modify the translation, fix it, build on it, translate it onward.
+
+  As long as you credit Krirk0137 and link back to
+  https://github.com/krirk0137/PassTheFearModThai
+
+
+WHAT YOU MAY NOT DO
+-------------------
+  * Sell it, or any modified version of it.
+  * Put it behind a paywall, a subscription, or a "pay to download" link.
+  * Bundle it with anything sold for money.
+  * Use it in advertising or any other commercial arrangement.
+
+  This applies whether the money is for the mod itself or for access to it.
+
+
+DONATIONS
+---------
+  Voluntary donations to the author are welcome and are not a sale: nothing is
+  withheld from anyone who does not pay, and the mod stays free for everyone.
+
+  Anyone else redistributing this mod must not solicit payment for it.
+
+
+THIRD-PARTY COMPONENTS
+----------------------
+  The bundled Kanit font (plugin/Kanit_sdf) is by Cadson Demak and is licensed
+  separately under the SIL Open Font License 1.1. That license governs the font
+  regardless of this one, and permits redistribution as part of this mod.
+  https://openfontlicense.org/
+
+  This mod contains no source code, assets or text belonging to Pass the Fear.
+  The Thai translation is an original work. Pass the Fear is the property of its
+  developers, and this project is unaffiliated with them.
+
+
+NOTE ON APPLYING CC TO CODE
+---------------------------
+  Creative Commons does not recommend CC licenses for software, and this
+  repository does contain a small amount of C#. It is licensed here anyway, on
+  purpose: the intent — free to use and share, never to sell — is the same for
+  the plugin as for the translation, and splitting the two would only invite the
+  reading that one half may be sold.
