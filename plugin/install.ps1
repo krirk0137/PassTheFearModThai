@@ -91,9 +91,27 @@ if (-not $SkipBuild) {
     # game has to have been launched at least once since BepInEx was installed.
     if (-not (Test-Path (Join-Path $GameDir 'BepInEx\interop'))) {
         Write-Host ""
-        Write-Host "  BepInEx\interop does not exist yet." -ForegroundColor Yellow
-        Write-Host "  Launch the game once (it will take a minute to generate them), quit, then re-run this script."
-        return
+        Write-Host "  First run: BepInEx has to generate its interop assemblies before the" -ForegroundColor Yellow
+        Write-Host "  plugin can be compiled against them. Starting the game to do that now." -ForegroundColor Yellow
+        Write-Host ""
+        $proc = Start-Process -FilePath (Join-Path $GameDir 'PassTheFear.exe') -WorkingDirectory $GameDir -PassThru
+
+        $deadline = (Get-Date).AddMinutes(5)
+        while ((Get-Date) -lt $deadline) {
+            $n = @(Get-ChildItem (Join-Path $GameDir 'BepInEx\interop') -Filter *.dll -EA SilentlyContinue).Count
+            if ($n -gt 100) { Write-Host "  Generated $n interop assemblies." -ForegroundColor Green; break }
+            Start-Sleep -Seconds 3
+        }
+        if (-not (Test-Path (Join-Path $GameDir 'BepInEx\interop'))) {
+            throw "Interop was not generated within 5 minutes. Check BepInEx\LogOutput.log."
+        }
+
+        Write-Host ""
+        Write-Host "  >>> Wait for the game's title screen, then QUIT THE GAME NORMALLY." -ForegroundColor Cyan
+        Write-Host "  >>> This script continues by itself once the game has closed." -ForegroundColor Cyan
+        $proc.WaitForExit()
+        Write-Host "  Game closed, continuing." -ForegroundColor Green
+        Write-Host ""
     }
     dotnet build $Project -c Release --nologo -p:GameDir="$GameDir"
     if ($LASTEXITCODE -ne 0) { throw "Build failed." }
@@ -106,7 +124,9 @@ if (-not (Test-Path $Dll)) { throw "No plugin DLL at $Dll" }
 Write-Host "[3/3] Installing the plugin ..."
 New-Item -ItemType Directory -Force -Path $PluginDir | Out-Null
 Copy-Item $Dll -Destination $PluginDir -Force
-Copy-Item (Join-Path $PSScriptRoot "$PluginName\Thai.tsv") -Destination $PluginDir -Force
+foreach ($asset in @('Thai.tsv', 'Kanit_sdf')) {
+    Copy-Item (Join-Path $PSScriptRoot "$PluginName\$asset") -Destination $PluginDir -Force
+}
 
 Write-Host ""
 Write-Host "=== DONE ==="

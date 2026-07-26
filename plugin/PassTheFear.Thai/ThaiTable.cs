@@ -13,6 +13,8 @@ internal sealed class ThaiTable
     public int Count => _map.Count;
     public IEnumerable<KeyValuePair<string, string>> Entries => _map;
 
+    public bool TryGet(string key, out string value) => _map.TryGetValue(key, out value);
+
     public static ThaiTable Load(string path)
     {
         var table = new ThaiTable();

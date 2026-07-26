@@ -33,6 +33,7 @@
 
   <ItemGroup>
     <None Update="Thai.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="Kanit_sdf" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
 </Project>
