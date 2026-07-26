@@ -2,6 +2,8 @@
 
 เกมเวอร์ชัน `1.0.446` (buildid 24396512) · **4,285 / 4,285 บรรทัด**
 
+![หน้าเมนูหลักภาษาไทย](https://raw.githubusercontent.com/krirk0137/PassTheFearModThai/main/media/title-screen.webp)
+
 ---
 
 ## มีอะไรบ้าง
