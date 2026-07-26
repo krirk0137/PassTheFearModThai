@@ -703,3 +703,66 @@ invincibility window	ช่วงอมตะ	无敌时间
 [Wheel of Fate]	[กงล้อโชคชะตา]	命运轮转/幸运轮转. Kept apart from the tarot card Wheel of Fortune = กงล้อแห่งโชคชะตา
 [Destroy Them!]	[กำจัดพวกมัน!]	消灭他们！, Long Tong ultimate
 Indomitable	นักล่าไม่ยอมแพ้	猎人不屈; the identical once-per-run revive node on all 7 characters — one wording everywhere
+
+# --- added by the dialogue batch (c_businessspeak / c_storyfra / c_fightingtalk) ---
+
+# people — new names, transliterated by ear
+Reinhardt	ไรน์ฮาร์ท	莱因哈特, the legendary hunter Lily name-drops
+Thomas	โทมัส	托马斯, the Corpse Collector
+Leon Wavelock	เลออน เวฟล็อค	莱昂·韦弗洛克, Alicia's father
+Vespera Wardenhall	เวสเปรา วอร์เดนฮอลล์	维斯佩拉·沃登霍尔, the 14th Archbishop
+Lily Aurelian	ลิลี่ ออเรเลียน	莉莉·奥蕾利安, the Knight Commander — same ลิลี่ as Priestess Lily, on purpose
+
+# places and factions
+Principality of Farus	ราชรัฐฟารุส	法鲁斯公国
+Custer	คัสเตอร์	卡斯特, the neighbouring country
+Seven Nations War	สงครามเจ็ดชาติ	七国之战
+Anti-Demon War	สงครามต้านอสูร	抗魔战争
+Eternal Sanctuary	วิหารนิรันดร์	永恒圣所
+Holy Sun Church / Holy Sun Order	ลัทธิสุริยัน	圣阳教 / 圣阳教团; bare "the Order" stays ลัทธิ
+Kingdom of Wavelock	อาณาจักรเวฟล็อค	韦弗洛克王国
+Wavelock Island	เกาะเวฟล็อค	matches gameui.tsv
+Harbor Square	ลานท่าเรือ	set by c_mapid; Wavelock Harbor Square = ลานท่าเรือเวฟล็อค
+Lower City	ย่านเมืองล่าง	下城区 in dialogue; the map name Lower Residences stays ย่านที่พักเมืองล่าง
+
+# story nouns — these recur across every story fragment
+Goddess	เทพธิดา	女神; Goddess Knight = อัศวินเทพธิดา (c_role), the knightly order = กองอัศวินเทพธิดา
+Goddess Project	แผนการเทพธิดา	女神计划
+vessel (of a god)	ภาชนะ	容器; Goddess vessel = ภาชนะเทพธิดา
+divinity	ความเป็นเทพ	神格; divinity awakening ritual = พิธีปลุกความเป็นเทพ
+Goddess Descent	การลงมาของเทพธิดา	女神降临; the ritual itself = พิธีอัญเชิญเทพธิดา
+Divine Punishment	ทัณฑ์สวรรค์	神罚; matches Divine Lightning = สายฟ้าทัณฑ์สวรรค์
+holy remains	ร่างศักดิ์สิทธิ์	圣骸
+holy blood	เลือดศักดิ์สิทธิ์	圣血
+holy water	น้ำศักดิ์สิทธิ์	圣水
+Holy Light	แสงศักดิ์สิทธิ์	圣光
+holy fire	ไฟศักดิ์สิทธิ์	圣火
+purify / purification	ชำระล้าง	净化; Final Purification Protocol = ขั้นตอนการชำระล้างขั้นสุดท้าย
+heretic	คนนอกรีต	异端/异教徒; matches the [Heretic] pearl state
+Chaos Crystal	คริสตัลโกลาหล	混沌水晶
+chaotic magic	พลังเวทโกลาหล	混沌魔力
+Storm Wall	กำแพงพายุ	风暴之墙
+Witch Calamity	ภัยพิบัติแม่มด	魔女之灾; the boss Calamity Witch stays แม่มดภัยพิบัติ (c_role)
+test subject	ตัวอย่างทดลอง	实验体; matches Specimen Disposal Facility
+Batch (of test subjects)	ล็อต	批次; Batch 184 = ล็อต 184, No. 184-3 = หมายเลข 184-3
+diva	นักร้อง	歌姬; "the Beloved Diva" = นักร้องสาวผู้เป็นที่รัก
+siren	ไซเรน	海妖
+Archbishop	อาร์คบิชอป	大主教
+Commander (of the Knights)	หัวหน้ากองอัศวิน	团长
+Crown Princess	เจ้าหญิงรัชทายาท	王储公主; plain Princess = เจ้าหญิง
+Corpse Collector	คนเก็บศพ	入殓师; set by c_role
+
+# forms of address and speech tics — these carry the character voices
+Hero (what NPCs call the player)	ฮีโร่	英雄
+Hunter (vocative, 猎人先生)	คุณนักล่า	Lily's form of address; she is the one character who genuinely uses ค่ะ/นะคะ
+本小姐 (Universal Merchant's self-reference)	คุณหนู	haughty-cute shopkeeper; only in her lines, never elsewhere
+简而言之 (Long Tong's verbal tic)	สรุปสั้น ๆ	she opens every line with it
+Refuse the deal.	ปฏิเสธการแลกเปลี่ยน	the shared blood-trade decline
+Never mind. Maybe next time.	ช่างเถอะ ไว้คราวหน้าแล้วกัน	算了，下次一定 — the shared decline option
+Spend N Health to gain X	จ่ายพลังชีวิต N แลก X	the blood-trade offer shape
+
+# team names from the ending scene
+Self-Destruct Squad	ทีมระเบิดพลีชีพ	自爆小队
+Stormbreakers	ทีมฝ่าพายุ	风暴突围队
+Stray Dogs	ทีมหมาจรจัด	野狗小队
+Dragon Squad	ทีมมังกรเทพ	神龙小队

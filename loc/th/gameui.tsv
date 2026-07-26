@@ -66,7 +66,7 @@ GameUI.Save.8	เลเวลทีม
 GameUI.Save.9	บันทึกนักล่า
 GameUI.Save.10	ความยากปัจจุบัน
 GameUI.Save.11	ลบเซฟ {0} หรือไม่?
-GameUI.Battle.1	กำลังเลือกตัวละคร…
+GameUI.Battle.1	กำลังเลือกตัวละคร...
 GameUI.Battle.2	เป้าหมายภารกิจ
 GameUI.Battle.3	ความยาก {0}
 GameUI.Battle.4	ความเสียหายรวม
@@ -112,7 +112,7 @@ GameUI.Func.38	ความชำนาญตำนาน
 GameUI.Func.39	ชิ้นส่วนอาวุธ
 GameUI.Func.40	จากค้อนตำนาน
 GameUI.Func.41	จากการแยกชิ้นส่วน
-GameUI.Func.42	กำลังเลือกตัวละคร…
+GameUI.Func.42	กำลังเลือกตัวละคร...
 GameUI.Func.43	ใหม่
 GameUI.Func.44	ธรรมดา
 GameUI.Func.45	หายาก
@@ -243,7 +243,7 @@ GameUI.Func.169	ห้องเริ่มเกมไปแล้ว เข้
 GameUI.Func.170	ไม่มีห้องนี้
 GameUI.Func.171	เวอร์ชันไม่ตรงกับโฮสต์
 GameUI.Func.172	ถ้าโฮสต์ออกจากห้อง ห้องจะถูกยุบ แต่คุณเล่นต่อในโหมดคนเดียวได้ ยืนยันออกจากโหมดหลายคน?
-GameUI.Func.173	กำลังเชื่อมต่อใหม่…
+GameUI.Func.173	กำลังเชื่อมต่อใหม่...
 GameUI.Func.174	ห้องถูกยุบแล้ว หรือโฮสต์ยังไม่เปิดห้อง
 GameUI.Func.175	ตั้งวงล้ออีโมท
 GameUI.Func.176	กด
@@ -359,7 +359,7 @@ GameUI.Func.285	แนะนำ
 GameUI.Func.286	รอยแผลโกลาหล
 GameUI.Func.287	เปิดใช้จุดบิดเบือน {0} จุด
 GameUI.Func.288	ความเสียหายแปรปรวน
-GameUI.Func.289	กำลังสลับเครือข่าย…
+GameUI.Func.289	กำลังสลับเครือข่าย...
 GameUI.Func.290	เปลี่ยน
 GameUI.Func.291	ดู
 GameUI.Func.292	เครือข่ายไม่ดี สลับเซิร์ฟเวอร์ไหม?
