@@ -1,0 +1,28 @@
+# --- our own research notes: kept local, never published -------------------
+# The reverse-engineering write-ups and the agent brief are for us to read.
+docs/
+CLAUDE.md
+
+# --- the game's own text ---------------------------------------------------
+# source.tsv holds the game's English and Chinese script verbatim, extracted from the
+# install. The Thai translation is ours to publish; the original script is not.
+loc/source.tsv
+
+# --- generated output ------------------------------------------------------
+# Unpacked/decrypted game data. Multi-GB, and not ours to redistribute.
+build/
+dist/
+bin/
+obj/
+
+# --- third-party tooling dropped in by hand --------------------------------
+tools/Il2CppDumper/
+AssetRipper_win_x64*/
+reference/**
+!reference/.gitkeep
+
+# --- misc ------------------------------------------------------------------
+__pycache__/
+*.pyc
+.venv/
+.claude/

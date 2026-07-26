@@ -1,0 +1,31 @@
+# Pass the Fear — Thai (proof-of-concept probe set)
+#
+# key<TAB>value, UTF-8 no BOM, LF. '#' starts a comment.
+# Escapes in the value: \n  \t  \\
+#
+# These are the title screen and the top of the settings menu — the first two screens the
+# game shows, so a wrong hook is visible immediately instead of hiding behind a menu.
+
+GameUI.Login.1	เล่นคนเดียว
+GameUI.Login.2	เล่นหลายคน
+GameUI.Login.3	โหลดเกม
+GameUI.Login.4	ตั้งค่า
+GameUI.Login.5	ออกจากเกม
+
+GameUI.Setting.Title.1	ทั่วไป
+GameUI.Setting.Title.2	ภาพ
+GameUI.Setting.Title.3	แป้นพิมพ์และเมาส์
+GameUI.Setting.Title.4	จอยเกม
+
+GameUI.Setting.Rule.1	ภาษา
+GameUI.Setting.Rule.2	ระดับเสียงรวม
+GameUI.Setting.Rule.3	เพลง
+GameUI.Setting.Rule.4	เสียงประกอบ
+GameUI.Setting.Rule.5	เสียงพากย์
+GameUI.Setting.Rule.6	ซ่อนเอฟเฟกต์
+
+GameUI.Setting.Frame.1	ตั้งค่าการแสดงผล
+GameUI.Setting.Frame.2	เต็มจอ
+GameUI.Setting.Frame.3	หน้าต่าง
+GameUI.Setting.Frame.4	ไร้ขอบ
+GameUI.Setting.Frame.5	ความละเอียด
