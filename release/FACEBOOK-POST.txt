@@ -20,6 +20,9 @@
 ↩️ ไม่ชอบก็ดับเบิลคลิก "ถอนการติดตั้ง.bat" จบ
 ม็อดนี้ไม่แก้ไฟล์เกมแม้แต่ไบต์เดียว เซฟไม่หาย
 
+▶️ ดูคลิปในเกม
+https://youtu.be/rhaQT3z0-iY
+
 🔗 โหลดที่นี่
 https://github.com/krirk0137/PassTheFearModThai/releases
 

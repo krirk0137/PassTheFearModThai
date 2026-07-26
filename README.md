@@ -4,7 +4,9 @@
 
 **แปลครบทั้งเกม 4,285 บรรทัด** · ดาวน์โหลดได้ที่ [Releases](https://github.com/krirk0137/PassTheFearModThai/releases)
 
-![หน้าเมนูหลักภาษาไทย](media/title-screen.webp)
+[![หน้าเมนูหลักภาษาไทย](media/title-screen.webp)](https://youtu.be/rhaQT3z0-iY)
+
+▶️ **[ดูคลิปตัวอย่างในเกม](https://youtu.be/rhaQT3z0-iY)**
 
 > ⚠️ **รุ่นทดลอง** — คำแปลครบแล้วและทดสอบว่าขึ้นในเกมจริง แต่ยังไม่ได้เล่นยาว ๆ
 > อาจเจอข้อความล้นกล่องอยู่บ้าง และ**ยังไม่ได้ทดสอบโหมด co-op**
